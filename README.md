@@ -46,6 +46,7 @@
 - the representative can freely choose the language for communication based on their abilities, even if the chosen language does not coincide with the state language, giving preference to the language that, in the opinion of the representative, will facilitate communication with other representative. English is in priority for mankind and all the spoken languages are heritage of mankind from the moment of inventing them.
 - authorship for and invention of devices or algorithms for physical, mental or psychological violence or influence, and also using already invented, is prohibited even if these actions are legal or socially-acceptable, except of international common-morality rules what is exception
 - you are considered the author of some device or algorithm if you have legal documents confirming this right
+- you are considered the owner of some physical item if you have documents confirming the right of permanent or temporary possession of the item
 
 ### Clarifications:
 - makind writes rules for themselves which affect others

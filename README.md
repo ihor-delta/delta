@@ -25,6 +25,8 @@
 
 ## Freedom of choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
 - freedom of choice of others is not respected if it is not is in accordance with common-moral and law. This clarification does not concern plants, mushrooms, and bacterias.
+- non-observance of human rights is considered non-observance of the freedoms of other representatives of mankind
+
 
 ## Freedom of thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind

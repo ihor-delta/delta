@@ -16,6 +16,7 @@
 - independent use of narcotic, addictive substances, as well as other substances that can be harmful to health, apart from the generally accepted, without the permission of a doctor and in a dose prescribed by a doctor is prohibited. Common substances such as nicotine, in forms harmful to health, and ethyl alcohol are dangerous for psychological, physical, and mental health.
 - collaboration of a representative with a group of representatives or a group of representatives with a representative is possible if it does not violate the freedoms of other representatives, the freedom of the representative and representatives of the group
 - what is socially acceptable in institutions should not contradict generally accepted moral laws
+- non-observance of the rights of children is considered a violation of the freedoms of other representatives
 
 ## Freedom of ignorance constitutes the fact of the possibility of a representative not knowing his freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for  resolving situations:
 - refraining from voicing or not fulfilling the freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with freedoms is considered a violation of the freedoms of other representatives

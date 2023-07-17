@@ -41,10 +41,11 @@
 ## Freedom of making decisions and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including physical and mental limitations, sphere of activity, sex, psychological attitudes
 - unless the decision is contrary to other freedoms
 
-## Special freedom of authorship:
+## Special freedom of authorship and ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.
 - the representative can freely choose the language for communication based on their abilities, even if the chosen language does not coincide with the state language, giving preference to the language that, in the opinion of the representative, will facilitate communication with other representative. English is in priority for mankind and all the spoken languages are heritage of mankind from the moment of inventing them.
 - authorship for and invention of devices or algorithms for physical, mental or psychological violence or influence, and also using already invented, is prohibited even if these actions are legal or socially-acceptable, except of international common-morality rules what is exception
+- you are considered the author of some device or algorithm if you have legal documents confirming this right
 
 ### Clarifications:
 - makind writes rules for themselves which affect others

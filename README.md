@@ -1,3 +1,5 @@
+© 2023 Ihor Budko
+
 # Freedoms
 
 ### Subject to the right representatives: animals, plants, mushrooms, bacterias

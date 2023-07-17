@@ -46,7 +46,7 @@
 - the representative can freely choose the language for communication based on their abilities, even if the chosen language does not coincide with the state language, giving preference to the language that, in the opinion of the representative, will facilitate communication with other representative. English is in priority for mankind and all the spoken languages are heritage of mankind from the moment of inventing them.
 - authorship for and invention of devices or algorithms for physical, mental or psychological violence or influence, and also using already invented, is prohibited even if these actions are legal or socially-acceptable, except of international common-morality rules what is exception
 
-# Clarifications:
+### Clarifications:
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species
 - task of the humanity is to look after Earth and near-Earth spaces and prevent catastrophes and cataclysms

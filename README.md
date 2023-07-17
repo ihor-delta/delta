@@ -43,7 +43,8 @@
 - legal, rational, common-morality laws acceptable and socially acceptable actions aimed at satisfying transcendence needs on Earth and near-Earth spaces for 2023 from the birth of Christ according to the Gregorian calendar Kiev+3
 - murder and suicide as a way of satisfaction of needs are forbidden
 
-## Freedom of making decisions and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including physical and mental limitations, sphere of activity, sex, psychological attitudes
+## Freedom of making decisions 
+- decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, illnesses, choice, habits, preferences
 - unless the decision is contrary to other freedoms
 - non-observance of animal rights, excluding mankind, is considered non-observance of the freedoms of other representatives
 

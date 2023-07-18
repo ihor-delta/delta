@@ -4,7 +4,7 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
-## Common law: legality in accordance with international laws, social institutions (including countries) laws, morality laws, in accordance with Freedoms
+## Common law: legality in accordance with international laws, social institutions (including countries) laws, morality laws, in accordance with Freedoms, applied to representatives of mankind
 
 ### Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored
@@ -35,7 +35,7 @@
 - non-observance of the rights of children is considered a violation of the Freedoms of other representatives
 - non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
 - non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice
-- laws of social institutions (including countries) of representatives of humanity must be consistent with international law, children's rights, animal rights, human rights and correspond to Freedoms
+- laws of social institutions (including countries) of representatives of mankind must be consistent with international law, children's rights, animal rights, human rights and correspond to Freedoms
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind

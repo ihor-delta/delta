@@ -22,7 +22,7 @@
 - a representative can life as he/she wants according to circumstances, if his/her manner of life does not contradict Freedoms of other representatives
 
 ## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for resolving situations:
-- refraining from voicing or not fulfilling the freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with freedoms is considered a violation of the freedoms of other representatives
+- refraining from voicing or not fulfilling the Freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with freedoms is considered a violation of the Freedoms of other representatives
 - where possible, depending on life circumstances and situation, the dissemination of information about these freedoms is a violation of the freedom of ignorance, which is acceptable if it is a matter of life, death, physical, or psychological violence for representative who is not familiar with these Freedoms
 - Freedom Of Ignorance does not exempt from observing the Freedoms of other representatives, even if the representative cannot correctly interpret them, except of animals, plants and bacterias
 - if a representative is not aware of his Freedoms - international law is applied to respect his Freedoms

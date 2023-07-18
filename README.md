@@ -25,6 +25,7 @@
 - refraining from voicing or not fulfilling the freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with freedoms is considered a violation of the freedoms of other representatives
 - where possible, depending on life circumstances and situation, the dissemination of information about these freedoms is a violation of the freedom of ignorance, which is acceptable if it is a matter of life, death, physical, or psychological violence for representative who is not familiar with these Freedoms
 - Freedom Of Ignorance does not exempt from observing the Freedoms of other representatives, even if the representative cannot correctly interpret them, except of animals, plants and bacterias
+- if a representative is not aware of his Freedoms - international law is applied to respect his Freedoms
 
 ## Freedom Of Choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
 - Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social law. This clarification does not concern plants, mushrooms, and bacterias.

@@ -58,7 +58,7 @@
 - inaction in helping to meet the needs and / or preserve the freedoms of the other / other is possible only if it is impossible to offer an alternative or help, or, in the case of a sexual need - personal preferences
 
 ## Freedom Of Making Decisions 
-- decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, illnesses, choice, habits, personal preferences
+- decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, living methods, illnesses, choice, habits, personal preferences
 - unless the decision contradict to other Freedoms
 
 ## Special Freedom Of Authorship And Ownership:

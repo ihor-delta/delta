@@ -56,6 +56,9 @@
 - you are considered the author of some device or algorithm if you have legal documents confirming this right
 - you are considered the owner of some physical item if you have documents confirming the right of permanent or temporary possession of the item
 
+## Special freedom of beliefs
+- according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his actions, based on his beliefs, do not violate the freedoms of other representatives and their own
+
 ### Clarifications:
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species

@@ -75,4 +75,4 @@
 - thinking, choice, living, decision making are not actions
 - devices in a broad sense
 - we do not look for easy ways
-- weapon - everything that can kill
+- weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument

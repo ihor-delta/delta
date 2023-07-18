@@ -37,7 +37,7 @@
 - non-observance of the rights of children is considered a violation of the Freedoms of other representatives
 - non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
 - non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice
-- laws of social institutions (including countries) of representatives of mankind must be consistent with international law, children's rights, animal rights, human rights and correspond to Freedoms
+- laws of social institutions (including countries) of representatives of mankind must be consistent with international law, Children's Rights (including representatives of other species other than mankind) which are always a priority for compliance and protection, Animal Rights which are in priority for protection, Human Rights which are in priority for compliance, and correspond to Freedoms
 - the territory of a social institution is determined by international law, and its violation contradicts the freedoms of other representatives
 - Freedoms are applicable to the social institutions of mankind as to a representative of mankind, if the rule of 1 representative of mankind per 200+-20 or less, inside the instituion, representatives of mankind is observed
 

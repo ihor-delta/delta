@@ -74,7 +74,7 @@
 - according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her beliefs, do not violate the Freedoms of other representatives and their own
 
 ### Important clarifications:
-- the inability of one of the representatives of mankind to satisfy their basic needs is a violation of the freedoms of others
+- the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species
 - task of the humanity is to look after Earth and near-Earth spaces and prevent catastrophes and cataclysms

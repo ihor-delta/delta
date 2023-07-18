@@ -18,7 +18,6 @@
 - independent use of narcotic, addictive substances, as well as other substances that can be harmful to health, apart from the generally accepted, without the permission of a doctor and in a dose prescribed by a doctor is prohibited. Common substances such as nicotine, in forms harmful to health, and ethyl alcohol are dangerous for psychological, physical, and mental health.
 - collaboration of a representative with a group of representatives or a group of representatives with a representative is possible if it does not violate the freedoms of other representatives, the freedom of the representative and representatives of the group
 - what is socially acceptable in institutions should not contradict internationally guaranted morality laws
-- non-observance of the rights of children is considered a violation of the Freedoms of other representatives
 - military duty, including the contractual form of service, is considered a violation of the freedom of life of other representatives, except voluntary form for physical self-defense against physical violence, if there is a logic-based danger for Freedoms of other representatives, excluding of self-defense from representatives of mankind with no weapon using weapon, where weapon that can be used for killing of other representatives in case of psychological self-defense of group of representatives of mankind, and for defense of freedoms of other representatives, or of operations against terrorism, directed against representatives of mankind or against other species of animals and plants, where weapon which can't kill is in priority
 
 ## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for resolving situations:
@@ -29,10 +28,12 @@
 
 ## Freedom Of Choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
 - Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social law. This clarification does not concern plants, mushrooms, and bacterias.
-- non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice
 
 ## Freedom Of Rights
 - the Freedoms of others can be violated only in the case when there are no negative consequences for all representatives, depending on the situation and in accordance with the laws of the institution (social laws) and in the case of the introduction of these Freedoms for all representatives or representatives of the group, where representative whose Freedoms were violated can wait until ending of introduction determined by the international law, excluding violating Human Rights, Children Rights, Animal Rights
+- non-observance of the rights of children is considered a violation of the Freedoms of other representatives
+- non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
+- non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind
@@ -52,7 +53,6 @@
 ## Freedom Of Making Decisions 
 - decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, illnesses, choice, habits, preferences
 - unless the decision is contrary to other freedoms
-- non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.

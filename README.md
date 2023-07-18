@@ -39,6 +39,7 @@
 - non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice
 - laws of social institutions (including countries) of representatives of mankind must be consistent with international law, children's rights, animal rights, human rights and correspond to Freedoms
 - the territory of a social institution is determined by international law, and its violation contradicts the freedoms of other representatives
+- Freedoms are applicable to the social institutions of mankind as to a representative of mankind, if the rule of 1 representative of mankind per 200+-20 or less, inside the instituion, representatives of mankind is observed
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind

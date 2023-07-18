@@ -52,7 +52,8 @@
 - only legal and common-morality laws acceptable actions aimed at satisfying cognitive needs, allowing for processes of science, education and process of raising children, like ways to look for a uniform ways of satisfying of needs - to looking for ways of realisation of needs of groups and needs of individuals
 - only legal, common-morality laws and socially acceptable laws actions aimed at satisfying of self-actualisation and aestethic needs
 - common-law acceptable and  rational, actions aimed at satisfying transcendence needs on Earth and near-Earth spaces for 2023 from the birth of Christ according to the Gregorian calendar Kiev+3
-- murder and suicide as a way of satisfaction of needs are forbidden
+- murder and suicide as ways of satisfaction of needs are forbidden
+- inaction in helping to meet the needs and / or preserve the freedoms of the other / other is possible only if it is impossible to offer an alternative or help, or, in the case of a sexual need - personal preferences
 
 ## Freedom Of Making Decisions 
 - decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, illnesses, choice, habits, personal preferences

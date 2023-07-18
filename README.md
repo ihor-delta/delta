@@ -56,6 +56,7 @@
 - common-law acceptable and  rational, actions aimed at satisfying transcendence needs on Earth and near-Earth spaces for 2023 from the birth of Christ according to the Gregorian calendar Kiev+3
 - murder and suicide as ways of satisfaction of needs are forbidden
 - inaction in helping to meet the needs and / or preserve the freedoms of the other / other is possible only if it is impossible to offer an alternative or help, or, in the case of a sexual need - personal preferences
+- direct and veiled threats, including gestures, are forbidden.
 
 ## Freedom Of Making Decisions 
 - decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, living methods, illnesses, choice, habits, personal preferences

@@ -33,7 +33,7 @@
 - Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social law. This clarification does not concern plants, mushrooms, and bacterias.
 
 ## Freedom Of Rights
-- the Freedoms of others can be violated only in the case when there are no negative consequences for all representatives, depending on the situation and in accordance with the laws of the institution (social laws) and in the case of the introduction of these Freedoms for all representatives or representatives of the group, where representative whose Freedoms were violated can wait until ending of introduction determined by the international law, excluding violating Human Rights, Children Rights, Animal Rights
+- the Freedoms of others can be violated only in the case when there are no negative consequences for all representatives, depending on the situation and in accordance with the laws of the institution (social laws) and in the case of the introduction of these Freedoms for all representatives or representatives of the group, where representative whose Freedoms were violated can wait until ending of introduction determined by the international law, excluding violating Human Rights, Children Rights which are a priority for compliance and protection, Animal Rights
 - non-observance of the rights of children is considered a violation of the Freedoms of other representatives
 - non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
 - non-observance of Human Rights is considered non-observance of the Freedoms of other representatives of mankind in accordance with Freedom of Choice

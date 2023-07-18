@@ -4,7 +4,7 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
-## Common law: social laws, morality laws, institution laws in accordance with Freedoms
+## Common law:legality in accordance with international laws, social laws, morality laws, institution laws in accordance with Freedoms
 
 ### Freedom of life, except in cases where the responsebility for life lies with the person who saves the life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his freedom of life, then the freedom of life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored

@@ -52,7 +52,7 @@
 
 ## Freedom Of Making Decisions 
 - decision making and participation in decision-making by others or formation of a decision by a group of representatives of mankind or other species that have a nervous system, that correspond to the psychological and biological age, monthly-measured experience, profession or specialisation, circumstances including relationships with others, sphere of activity, sex, psychological attitudes, illnesses, choice, habits, preferences
-- unless the decision is contrary to other freedoms
+- unless the decision contradict to other Freedoms
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.

@@ -32,7 +32,7 @@
 ## Freedom Of Choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
 - Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social institution laws. This clarification does not concern plants, mushrooms, and bacterias.
 
-## Freedom Of Rights
+## Freedom Of Rights:
 - the Freedoms of others can be violated only in the case when there are no negative consequences for all representatives, depending on the situation and in accordance with the laws of the institution (social institution laws) and in the case of the introduction of these Freedoms for all representatives or representatives of the group, where representative whose Freedoms were violated can wait until ending of introduction determined by the international law, excluding violating Human Rights, Children Rights which are a priority for compliance and protection, Animal Rights
 - non-observance of the rights of children is considered a violation of the Freedoms of other representatives
 - non-observance of Animal Rights, excluding representatives of mankind, is considered non-observance of the Freedoms of other representatives
@@ -81,6 +81,7 @@
 
 ## Freedom of Transition
 - changing of these Freedoms by representatives of mankind is possible the way of one representative of mankind for 200+-20 representatives of mankind using fractal-based and honest physically-organized (excluding automated systems) voting system to make changes in these Freedoms. A representative of mankind can't be a representative for other representatives of mankind in case of international law classified committed illegal actions which were committed by him/her according to their responsibilities such as: killing people, murder-oriented orders or mass-murder-oriented orders buying/asking of service of killing other representatives or killing others personally or orders oriented for violation of these freedoms of other representatives (excluding  representatives of plants which danger for other species and danger for mankind mushrooms and bacteria) during the performance of duties of representatives of social institutions (including countries), where representatives are of mankind
+- possible only if representatives of humanity overcome poverty, leave the political system of social institutions, and overcome the possibility of armed conflicts and wars
 
 ### Important clarifications:
 - the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others

@@ -77,7 +77,8 @@
 - representatives of these Freedoms of are able to change these Freedoms by representatives of mankind which represent these Freedoms according to the principle of coomperation and competition to stay cooperative (excluding discussions and conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other representatives
 - disrespect of this Special Freedom For Representatives Of These Freedoms is disrespect of Freedoms of other representatives
 
-
+## Freedom of Transition
+- changing of these Freedoms by representatives of mankind is possible the way of one representative of mankind for 200+-20 representatives of mankind using fractal-based and honest physically-organized (excluding automated systems) voting system to make changes in these Freedoms. A representative of mankind can't be a representative for other representatives of mankind in case of international law classified committed illegal actions which were committed by him/her according to their responsibilities such as: murder-oriented or mass-murder-oriented or orders oriented for violation of these freedoms of other representatives (excluding  representatives of plants which danger for other species and danger for mankind mushrooms and bacteria) during the performance of duties of representatives of social institutions (including countries), where representatives are of mankind
 
 ### Important clarifications:
 - the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others

@@ -40,6 +40,8 @@
 - laws of social institutions (including countries) of representatives of mankind must be consistent with international law, Children's Rights (including representatives of other species other than mankind) which are always a priority for compliance and protection, Animal Rights which are in priority for protection, Human Rights which are in priority for compliance, and correspond to Freedoms
 - the territory of a social institution is determined by international law, and its violation contradicts the freedoms of other representatives
 - Freedoms are applicable to the social institutions of mankind as to a representative of mankind, if the rule of 1 representative of mankind per 200+-20 or less, inside the instituion, representatives of mankind is observed
+- all representatives of mankind (including groups of representatives of mankind)/social institutions of mankind (including countries) are obliged to protect other representatives of mankind (including groups of representatives of mankind)/social institutions (including countries) from violations of their Freedoms despite where in the case of social institutions (including countries) it does not matter if they have representatives
+
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind

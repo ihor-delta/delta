@@ -75,10 +75,11 @@
 
 ## Special Freedom For Representatives Of These Freedoms
 - representatives of these Freedoms of are able to change these Freedoms by representatives of mankind which represent these Freedoms according to the principle of coomperation and competition to stay cooperative (excluding discussions and conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other representatives
+- disrespect of this Special Freedom For Representatives Of These Freedoms is disrespect of Freedoms of other representatives
+
 
 
 ### Important clarifications:
-- disrespect of these Freedoms is disrespect of Freedoms of other representatives
 - the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species

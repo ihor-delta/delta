@@ -30,7 +30,7 @@
 
 
 ## Freedom Of Choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
-- Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social law. This clarification does not concern plants, mushrooms, and bacterias.
+- Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social institution laws. This clarification does not concern plants, mushrooms, and bacterias.
 
 ## Freedom Of Rights
 - the Freedoms of others can be violated only in the case when there are no negative consequences for all representatives, depending on the situation and in accordance with the laws of the institution (social institution laws) and in the case of the introduction of these Freedoms for all representatives or representatives of the group, where representative whose Freedoms were violated can wait until ending of introduction determined by the international law, excluding violating Human Rights, Children Rights which are a priority for compliance and protection, Animal Rights

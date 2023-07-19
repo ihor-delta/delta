@@ -74,6 +74,7 @@
 - according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her beliefs, do not violate the Freedoms of other representatives and their own
 
 ## Special Freedom For Representatives Of These Freedoms
+- representatives of these Freedoms are authors of these Freedoms and of mankind
 - representatives of these Freedoms are able to change these Freedoms by representatives of mankind which represent these Freedoms according to the principle of coomperation and competition to stay cooperative (excluding discussions and conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other representatives
 - disrespect of this Special Freedom For Representatives Of These Freedoms is disrespect of Freedoms of other representatives
 - violating of this Special Freedom For Representatives Of These Freedoms is possible when the proccess of Freedom Of Transition is launched in every social institution by the way of international news and when every representative of other representatives of mankind is aware of these news and launched a proccess of informing of other representatives of mankind personally

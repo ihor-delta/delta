@@ -95,4 +95,4 @@
 - devices in a broad sense
 - we do not look for easy ways
 - weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument, which can be customizable only by a specialist
-- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that a representative of humanity behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of cooperation and competition in order to remain cooperative
+- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of cooperation and competition in order to remain cooperative

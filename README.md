@@ -30,6 +30,7 @@
 - if a representative is not aware of his Freedoms - international law is applied to respect his Freedoms
 - knowledge of these Freedoms must be shaped by Education that is compulsory for all and the circumstances of the possibility of obtaining a quality Education must be constantly maintained
 - to resolve situations and provide these Freedoms for ignored representatives, act according to morality law and Human Rights, Children Rights if ignored is a child, Animal Rights if ignored is a representative of specie other than mankind, and according to these Freedoms(if Freedom Of Ignorance is not applied to those whose action directed at ignored representative)
+- freedom of ignorance can't be applied to social institutions (including countries)
 
 ## Freedom Of Choice, where hoice is a set of principles of living that influence the formation of decisions so it exists with an opportunity of amendments for mankind, domestic animals, wild-adapted, except wild-adapted subjects to the right representatives of mankind and other species which can be excluded from the right in legal and common-morality acceptable ways:
 - Freedom Of Choice of others is not respected if it is not is in accordance with common-moral laws and social institution laws. This clarification does not concern plants, mushrooms, and bacterias.

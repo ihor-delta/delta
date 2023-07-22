@@ -92,7 +92,7 @@
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species
 - task of the humanity is to look after Earth and near-Earth spaces and prevent catastrophes and cataclysms
-- thinking, choice, living, decision making are not actions
+- thinking, choice, living, decision making and emotions are not actions
 - devices in a broad sense
 - we do not look for easy ways
 - weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument, which can be customizable only by a specialist

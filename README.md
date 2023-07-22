@@ -44,6 +44,7 @@
 - the territory of a social institution is determined by international law, and its violation contradicts the freedoms of other representatives
 - Freedoms are applicable to the social institutions of mankind as to a representative of mankind, if the rule of 1 representative of mankind per 200+-20 or less, inside the instituion, representatives of mankind is observed
 - all representatives of mankind (including groups of representatives of mankind)/social institutions of mankind (including countries) are obliged to protect other representatives of mankind (including groups of representatives of mankind)/social institutions (including countries) from violations of their Freedoms despite where in the case of social institutions (including countries) it does not matter if they have representatives or it's a small group of representatives of mankind with one representative of mankind
+- all representatives of mankind (including groups of representatives of mankind)/social institutions of mankind (including countries) are obligated to protect other representatives of mankind (including groups of representatives of mankind)/social institutions (including countries) by the rule "together protect(by any possible ways) others from agressor(s)"
 
 
 ## Freedom Of Thinking:
@@ -95,6 +96,7 @@
 - task of the humanity is to look after Earth and near-Earth spaces and prevent catastrophes and cataclysms
 - thinking, choice, living, decision making and emotions are not actions
 - devices in a broad sense
+- nucler weapon and such kinds of weapon which can destroy big areas of infrastructure and kill a lot of people are mistakes of humanity
 - we do not look for easy ways
 - weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument, which can be customizable only by a specialist
 - punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of cooperation and competition in order to remain cooperative

@@ -103,6 +103,7 @@
 - manking is also a representative of the animal species
 - task of the humanity is to look after Earth and near-Earth spaces and prevent catastrophes and cataclysms
 - thinking, choice, living, decision making and emotions are not actions
+- an order is an action
 - devices in a broad sense
 - nucler weapon and such kinds of weapon which can destroy big areas of infrastructure and kill a lot of people are mistakes of humanity
 - we do not look for easy ways

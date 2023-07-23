@@ -1,4 +1,4 @@
-© 2023 Ihor Budko
+ © 2023 Ihor Budko
 
 # Freedoms
 
@@ -99,6 +99,7 @@
 - possible only if representatives of mankind overcome poverty, leave the political system of social institutions, and overcome the possibility of armed conflicts and wars
 
 ### Important clarifications:
+- the whole society is guilty of creating outcasts
 - representative can be guilty only for real actions
 - the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others
 - makind writes rules for themselves which affect others

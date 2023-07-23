@@ -55,7 +55,7 @@
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of permanent self-checking for ideas, including beliefs, and principle of cooperation with competition to stay cooperative - the restriction only applies to representatives of mankind
-- includes Freedom To Express representative's Thoughts in a language and form convenient for the representative. The expressed thought is not considered a violation of personal boundaries, if it does not contradict the principle of cooperation and competition to stay cooperative
+- includes Freedom To Express representative's Thoughts in a language and form convenient for the representative. The expressed thought is not considered a violation of personal boundaries, if it does not contradict the principle of "cooperation, and competition to stay cooperative"
 
 ## Freedom Of Actions is prohibited, especially murder and suicide as ways of satisfaction of needs which are forbidden, except for:
 - illegal actions, if no alternatives or alternative is not provided because of time limited opportunity to satisfy the basic needs, of stealing food (including money enough for food), stealing clothes (including money enough for clothes), stealing money enough for providing himself/herself warmth at night, aimed at satisfying basic biological and psychological needs. Getting sex illegaly is prohibited. Obstructing the process of copulation by mental or physical way between those who are legally allowed to do so is prohibited, except for children to whom this condition does not apply. Children need to be explained why something is happening.
@@ -105,7 +105,8 @@
 - nucler weapon and such kinds of weapon which can destroy big areas of infrastructure and kill a lot of people are mistakes of humanity
 - we do not look for easy ways
 - weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument, which can be customizable only by a specialist
-- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of cooperation and competition in order to remain cooperative
+- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of "cooperation, and competition to stay cooperative" in order to remain cooperative
 - award - opportunities and means to consolidate results and further development, in real equivalent of money in circumstances of monetary system
 - interests of social institutions with group of people less than 160+-20 is a method of living and a way of competition to stay cooperative to keep the idea of personal interest of small groups of representatives and provide interactive way of cooperation between social institutions (including families) when the rule of one representive for group of these smaller groups is followed
 - the murder of a representative by a representative under the age of 14, if such a murder was committed without the influence of others, is considered a negligent homicide
+- cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport

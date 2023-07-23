@@ -4,7 +4,7 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
-## Base for these freedoms are Children's Rights, Human Rights, Animal Rights
+## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights
 
 ## Common law: legality in accordance with international laws, social institutions (including countries) laws, morality laws, in accordance with Freedoms, applied to representatives of mankind
 

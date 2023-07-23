@@ -96,6 +96,7 @@
 - possible only if representatives of mankind overcome poverty, leave the political system of social institutions, and overcome the possibility of armed conflicts and wars
 
 ### Important clarifications:
+- representative can be guilty only for real actions
 - the inability of one of the representatives of mankind or other species (except for their need of reproduction) to satisfy their basic needs is a violation of the freedoms of others
 - makind writes rules for themselves which affect others
 - manking is also a representative of the animal species
@@ -105,8 +106,8 @@
 - nucler weapon and such kinds of weapon which can destroy big areas of infrastructure and kill a lot of people are mistakes of humanity
 - we do not look for easy ways
 - weapon - everything that is made for killing or able for killing other representative, except for using it like a part of an instrument, which can be customizable only by a specialist
-- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of "cooperation, and competition to stay cooperative" in order to remain cooperative
-- award - opportunities and means to consolidate results and further development, in real equivalent of money in circumstances of monetary system
+- punishment (voluntary) - to behave and act according to a representative of mankind in the same way that the representative of mankind behaves and acts in relation to other representatives of mankind according to the possibilities and according to the principle of "cooperation, and competition to stay cooperative" in order to remain cooperative. Guilty representative can't choose a punishment for himself/herself
+- award - compensation of unsatisfied needs and opportunities and means to consolidate results and further development, maybe in real equivalent of money in circumstances of monetary, or other resource exchange systems
 - interests of social institutions with group of people less than 160+-20 is a method of living and a way of competition to stay cooperative to keep the idea of personal interest of small groups of representatives and provide interactive way of cooperation between social institutions (including families) when the rule of one representive for group of these smaller groups is followed
 - the murder of a representative by a representative under the age of 14, if such a murder was committed without the influence of others, is considered a negligent homicide
 - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport

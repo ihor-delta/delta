@@ -80,6 +80,8 @@
 
 ## Freedom Of Society
 - limit of influence, money, and power for one representative of mankind, enough to satisfy his/her needs and stay responsable according to his/her responsebilities and duties
+- anticorruption laws (regardless of the phenomena to which the representatives belong (such as traditions, customs, race, etc.), excluding dividing money and opportunities for family members, friends, mates, false representatives of mankind, acquaintances
+
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.

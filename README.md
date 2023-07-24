@@ -78,6 +78,9 @@
 - unless the decision contradict to other Freedoms
 - freedom of personal boundaries means freedom from physical and mental influences, if the representative does not want it, excluding situations when this is important for a group or groups of representatives, as well as the influence of society or circumstances on a representative, except for influences aimed at educating a representative
 
+## Freedom Of Society
+- limit of influence, money, and power for one representative of mankind, enough to satisfy his/her needs and stay responsable according to his/her responsebilities and duties
+
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.
 - the representative can freely choose the language for communication based on their abilities, even if the chosen language does not coincide with the state language, giving preference to the language that, in the opinion of the representative, will facilitate communication with other representative. English is in priority for mankind and all the spoken languages are heritage of mankind from the moment of inventing them.

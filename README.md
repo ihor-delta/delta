@@ -80,7 +80,7 @@
 
 ## Freedom Of Society
 - limit of influence, money, and power for one representative of mankind, enough to satisfy his/her needs and stay responsable according to his/her responsebilities and duties
-- anticorruption laws (regardless of the phenomena to which the representatives belong (such as traditions, customs, race, etc.), excluding dividing money and opportunities for family members, friends, mates, false representatives of mankind, acquaintances
+- anticorruption laws (regardless of the phenomena to which the representatives belong (such as traditions, customs, race, etc.), excluding dividing money and opportunities for family members, friends, mates, fake representatives of mankind, acquaintances etc. (excluding representatives other than mankind)
 
 
 ## Special Freedom Of Authorship And Ownership:

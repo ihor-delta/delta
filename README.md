@@ -85,6 +85,7 @@
 - anticorruption laws (regardless of the phenomena to which the representatives belong (such as traditions, customs, race, etc.), excluding dividing money and opportunities for family members, friends, mates, fake representatives of mankind, acquaintances etc. (excluding representatives other than mankind)
 - business on weapon only to protect social institutions from aggressors and in exclusive situations
 - earning on representatives of mankind's or representatives of mankind' lives/life is forbidden.  earning on representative's life time is forbidden. Circus or zoo with representatives is forbidden because of restoring ecosystem. Poaching is strictly forbidden
+- Family is social institution of mankind with two or more representatives where adult representatives are professionals in their roles (where Mother is female role(profession) and Father is male role(profession) in taking care and education of representative(s) whose role(s)(profession) is/are child/children
 
 
 ## Special Freedom Of Authorship And Ownership:

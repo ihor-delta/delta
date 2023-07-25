@@ -108,6 +108,7 @@
 - representatives of these Freedoms, chosen by the representative, are able to propose of changes of these Freedoms for representative of mankind which represent these Freedoms according to the principle of "cooperation, and competition to stay cooperative" (excluding conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other chosen representatives
 - disrespect of this Special Freedom For Representatives Of These Freedoms is disrespect of Freedoms of other representatives
 - violating of this Special Freedom For Representatives Of These Freedoms is possible when the proccess of Freedom Of Transition is launched in every social institution by the way of international news and when every representative of other representatives of mankind is aware of these news and launched a proccess of informing of other representatives of mankind personally and finished this process of informing
+- the representative conducts his activities publicly in writing and has the right to remain silent, if no questions are asked and distribute according to his capabilities 
 
 ## Freedom of Transition
 - changing of these Freedoms by representatives of mankind is possible the way of one representative of mankind for 200+-20 representatives of mankind using fractal-based and honest technologically-organized (excluding automated systems) voting system to make changes in these Freedoms. A representative of mankind can't be a representative for other representatives of mankind in case of international law classified committed illegal actions which were committed by him/her according to their responsibilities such as: killing people, murder-oriented orders or mass-murder-oriented orders buying/asking of service of killing other representatives or killing others personally or orders oriented for violation of these freedoms of other representatives (excluding  representatives of plants which danger for other species and danger for mankind mushrooms and bacteria) during the performance of duties of representatives of social institutions (including countries), where representatives are of mankind
@@ -133,5 +134,6 @@
 - the murder of a representative by a representative under the age of 14, if such a murder was committed without the influence of others, is considered a negligent homicide
 - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport
 - country - social institution made of social institutions
+- representative of these Freedoms is their author
 
 ## Signatures: @CI

@@ -85,8 +85,8 @@
 - anticorruption laws (regardless of the phenomena to which the representatives belong (such as traditions, customs, race, etc.), excluding dividing money and opportunities for family members, friends, mates, fake representatives of mankind, acquaintances etc. (excluding representatives other than mankind)
 - business on weapon only to protect social institutions from aggressors(or attack agreesors) and in inclusive situations like war even if it is not recognized by international-law like war
 - earning on representatives of mankind's or representatives of mankind' lives/life is forbidden. Earning on representative's life time is forbidden. Circus or zoo with representatives is forbidden because of restoring ecosystem. Poaching is strictly forbidden
-- Family is social institution of mankind with two or more representatives where adult representatives are professionals in their roles (where Mother is female role(profession) and Father is male role(profession) in taking care and education of representative(s) whose role(s)(profession) is/are child/children
-- using social engeneering by representatives of mankind directed at other representatives is forbidden
+- family is social institution of mankind with two or more representatives where adult representatives are professionals in their roles (where Mother is female role(profession) and Father is male role(profession) in taking care and education of representative(s) whose role(s)(profession) is/are child/children
+- using social engeneering (including marketing strategies/tactics where it is used) by representatives of mankind directed at other representatives is forbidden
 - anti-moral laws, anti-social institution laws, anti-international laws, anti-human rights, anti-children's rights, anti-animal rights, anti-ecosystem, and money on drugs (including money on representatives of mankind addicted to drugs) businesses are forbidden.  Helping to create situations for earning such ways in case of resource exchange system is forbidden
 
 

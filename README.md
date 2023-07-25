@@ -90,7 +90,7 @@
 - anti-moral laws, anti-social institution laws, anti-international laws, anti-human rights, anti-children's rights, anti-animal rights, anti-ecosystem, and money on drugs (including money on representatives of mankind addicted to drugs) businesses are forbidden.  Helping to create situations for earning such ways in case of resource exchange system is forbidden
 - intervention in the brain except for surgical and treatment medical purposes is forbidden
 - chipization of brain and using technologies of cybernisation of representatives, except of purposes of treatment of cerebral disabilities(in case with chipization) and physical disabilities(in case with cybernisation), is forbidden
-- influence of business and corruption on power and democracy is forbidden
+- influence of business and corruption on representatives of power and representatives of democracy is forbidden
 - restrictions on the freedom of speech of representatives and the press are firbidden
 
 ## Special Freedom Of Authorship And Ownership:

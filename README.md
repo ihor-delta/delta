@@ -105,7 +105,7 @@
 
 ## Special Freedom For Representatives Of These Freedoms
 - representative of these Freedoms is author of these Freedoms and is representative of mankind. Nobody but the representative can create/recreate such kind of Freedoms. 
-- representatives of these Freedoms, chosen by the representative, are able to propose of changes of these Freedoms for representative of mankind which represent these Freedoms according to the principle of "cooperation, and competition to stay cooperative" (excluding discussions and conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other chosen representatives
+- representatives of these Freedoms, chosen by the representative, are able to propose of changes of these Freedoms for representative of mankind which represent these Freedoms according to the principle of "cooperation, and competition to stay cooperative" (excluding conflicts, except of representatives of other species other than mankind where discussions and conflicts are allowed) in cooperation with other chosen representatives
 - disrespect of this Special Freedom For Representatives Of These Freedoms is disrespect of Freedoms of other representatives
 - violating of this Special Freedom For Representatives Of These Freedoms is possible when the proccess of Freedom Of Transition is launched in every social institution by the way of international news and when every representative of other representatives of mankind is aware of these news and launched a proccess of informing of other representatives of mankind personally and finished this process of informing
 

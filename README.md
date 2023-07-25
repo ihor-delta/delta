@@ -88,6 +88,7 @@
 - family is social institution of mankind with two or more representatives where adult representatives are professionals in their roles (where Mother is female role(profession) and Father is male role(profession) in taking care and education of representative(s) whose role(s)(profession) is/are child/children
 - using social engeneering and manipulating(excluding providing these freedoms), including marketing strategies/tactics where it is used, by representatives of mankind directed at other representatives is forbidden
 - anti-moral laws, anti-social institution laws, anti-international laws, anti-human rights, anti-children's rights, anti-animal rights, anti-ecosystem, and money on drugs (including money on representatives of mankind addicted to drugs) businesses are forbidden.  Helping to create situations for earning such ways in case of resource exchange system is forbidden
+- intervention in the brain except for surgical and treatment medical purposes is forbidden
 
 
 ## Special Freedom Of Authorship And Ownership:

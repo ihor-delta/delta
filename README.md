@@ -89,7 +89,7 @@
 - using social engeneering and manipulating(excluding providing these freedoms), including marketing strategies/tactics where it is used, by representatives of mankind directed at other representatives is forbidden
 - anti-moral laws, anti-social institution laws, anti-international laws, anti-human rights, anti-children's rights, anti-animal rights, anti-ecosystem, and money on drugs (including money on representatives of mankind addicted to drugs) businesses are forbidden.  Helping to create situations for earning such ways in case of resource exchange system is forbidden
 - intervention in the brain except for surgical and treatment medical purposes is forbidden
-
+- chipization of brain and using technologies of cybernisation of representatives, except of purposes of treatment of cerebral disabilities(in case with chipization) and physical disabilities(in case with cybernisation), is forbidden
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage for all the representatives.

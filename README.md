@@ -95,6 +95,7 @@
 - representatives are able to invent AI for any purpose, except of living/thinking/making decisions/acting/sensate/emote/choicing instead of representatives. The invention of AI that can conduct instinctive activities is forbidden
 - course for education (including social education as priority from 2023 AD till 2028 AD) quality and equality of population  of representatives of mankind, not things, but representatives are in priority
 - marketing for reasons other than improving quality of life of representatives, quality of satisfying needs of representatives and term of life of representatives is forbidden. Marketing of educational and social products are in priority
+- scheming that makes disorder of a situation except of purposes of conflicts and make situation better for other representatives is forbidden in past/present/future
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of freedom for life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage of all the representatives of mankind and other intellectually able to use them representatives
@@ -139,6 +140,7 @@
 - country - social institution made of social institutions
 - representative of these Freedoms for Special Freedom For Representatives Of These Freedoms is their author and he/she is of representative of mankind
 - representatives of mankind are also representatives of mankind despite the typology in every situation
+- love is when you do something and do not wait something instead
 
 
 ## Signatures: @CI

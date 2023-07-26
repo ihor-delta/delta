@@ -135,7 +135,7 @@
 - the murder of a representative by a representative under the age of 14, if such a murder was committed without the influence of others, is considered a negligent homicide
 - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport
 - country - social institution made of social institutions
-- representative of these Freedoms is their author
+- representative of these Freedoms for Special Freedom For Representatives Of These Freedoms is their author and he/she is of representative of mankind
 - representatives of mankind are also representatives of mankind despite the typology in every situation
 
 

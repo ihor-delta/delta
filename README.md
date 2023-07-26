@@ -91,8 +91,8 @@
 - anti-moral laws, anti-social institution laws, anti-international laws, anti-human rights, anti-children's rights, anti-animal rights, anti-ecosystem, and money on drugs (including money on representatives of mankind addicted to drugs) businesses are forbidden.  Helping to create situations for earning such ways in case of resource exchange system is forbidden
 - intervention in the brain except for surgical and treatment medical purposes is forbidden
 - chipization of brain and using technologies of cybernisation of representatives, except of purposes of treatment of cerebral disabilities(in case with chipization) and physical disabilities(in case with cybernisation), is forbidden
-- influence of business and corruption on representatives of power and representatives of democracy is forbidden
-- restrictions on the freedom of speech of representatives and the press are forbidden
+- influence of business and corruption on representatives of mankind with power and representatives of mankind which represent form of government is forbidden
+- restrictions on the freedom of speech of representatives and representatives of mankind which work in press are forbidden
 - representatives are able to invent AI for any purpose, except of living/thinking/making decisions/acting/sensate/emote/choicing instead of representatives. The invention of AI that can conduct instinctive activities is forbidden
 - course for education (including social education as priority) quality and equality of population  of representatives of mankind, not things, but representatives are in priority
 - marketing for reasons other than improving quality of life of representatives, quality of satisfying needs of representatives and term of life of representatives is forbidden. Marketing of educational and social products are in priority

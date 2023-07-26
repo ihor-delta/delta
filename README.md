@@ -136,5 +136,7 @@
 - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport
 - country - social institution made of social institutions
 - representative of these Freedoms is their author
+- representatives of mankind are also representatives of mankind despite the typology in every situation
+
 
 ## Signatures: @CI

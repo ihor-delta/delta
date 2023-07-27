@@ -6,7 +6,7 @@
 
 ## Base principles: 
 - cooperation, and competition to keep cooperativity
-- equality and unity
+- equality and unity, to keep social adaptivity
 - situative authority principle based on typology of representatives
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory

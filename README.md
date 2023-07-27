@@ -4,6 +4,11 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
+## Base principles: 
+- cooperation, and competition to keep cooperativity
+- equality and unity
+- situative authority principle based on typology of representatives
+
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 
 ## Common law: legality in accordance with international laws, social institutions (including countries) laws, morality laws, in accordance with Freedoms, applied to representatives of mankind

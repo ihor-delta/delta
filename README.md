@@ -8,7 +8,7 @@
 - cooperation, and competition to keep cooperativity
 - equality and unity, to keep social adaptivity
   - other representative is also a representative, of these Freedoms, common-law and of some specie
-  - in the context of these Freedoms "representative(s) of mankind" is equal to "representative of human species"
+  - in the context of these Freedoms "representative(s) of mankind" is equal to "representative of human species" regardless of origin
 - situative authority principle based on typology of representatives
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory

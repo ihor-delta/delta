@@ -152,6 +152,7 @@
 - representative of these Freedoms for Special Freedom For Representatives Of These Freedoms is their author and he/she is of representative of mankind
 - representatives of mankind are also representatives of mankind despite the typology in every situation
 - love is when you do something and do not wait something instead
+- children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
 
 
 ## Signatures: @CI

@@ -26,6 +26,7 @@
 - earning money or other currencies, if in system of exchange of resources is prohibited, on the ways of life of representatives is prohibited
 - market of representatives (buying and selling representatives of mankind) is forbidden, except of representatives of other species different than mankind for food/service if a representative of mankind(the one who buys) undertakes to do everything to try to hunt a representative of other specie other than mankind with the minimum amount of suffering(pain)
 - drugs(including cugarettes and alcohol, excluding sydre) and their distribution and production are illegal, drugs addicted representatives need proper medical care and medical treatment to fight with their addiction including treatment of physical and psychological dependence
+- theft of what is generally considered trash is not considered theft
 
 ## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for resolving situations:
 - refraining from voicing or not fulfilling the Freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with Freedoms is considered a violation of the Freedoms of other representatives

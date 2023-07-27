@@ -120,7 +120,7 @@
 
 ## Special Freedom Of Beliefs
 - according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her beliefs, do not violate the Freedoms of other representatives and their own
-- religious laws within the limits of religious social institutions or places allowed by other social institutions within a country, excluding other countries social institutions as territory to spread religious laws, except of humanitarian, voluntary and communicational reasons (only science-based or philosophical seminars) in accordance  with common-law and these Freedoms.  Propaganda of religion and danger for: social institutions;  the implementation, as well as the implementation of these Freedoms for representatives;  and inconsistent with common-law;  rites and laws are forbidden.
+- religious laws within the limits of religious social institutions or places allowed by other social institutions within a country, excluding other countries social institutions as territory to spread religious laws, except of humanitarian, voluntary and communicational reasons (only science-based or philosophical seminars and conferences) in accordance  with common-law and these Freedoms.  Propaganda of religion and danger for: social institutions;  the implementation, as well as the implementation of these Freedoms for representatives;  and inconsistent with common-law;  rites and laws are forbidden.
 
 ## Special Freedom For Representatives Of These Freedoms
 - representative of these Freedoms is author of these Freedoms and is representative of mankind. Nobody but the representative can create/recreate such kind of Freedoms. 

@@ -27,7 +27,6 @@
 - market of representatives (buying and selling representatives of mankind) is forbidden, except of representatives of other species different than mankind for food/service if a representative of mankind(the one who buys) undertakes to do everything to try to hunt a representative of other specie other than mankind with the minimum amount of suffering(pain)
 - drugs(including cugarettes and alcohol, excluding sydre) and their distribution and production are illegal, drugs addicted representatives need proper medical care and medical treatment to fight with their addiction including treatment of physical and psychological dependence
 
-
 ## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for resolving situations:
 - refraining from voicing or not fulfilling the Freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with Freedoms is considered a violation of the Freedoms of other representatives
 - where possible, depending on life circumstances and situation, the dissemination of information about these freedoms is a violation of the freedom of ignorance, which is acceptable if it is a matter of life, death, physical, or psychological violence for representative who is not familiar with these Freedoms
@@ -108,6 +107,7 @@
 
 ## Special Freedom Of Beliefs
 - according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her beliefs, do not violate the Freedoms of other representatives and their own
+- religious laws within the limits of religious social institutions or places allowed by other social institutions within a country, excluding other countries social institutions as territory to spread religious laws, except of humanitarian, voluntary and communicational reasons (only science-based or philosophical seminars) in accordance  with common-law and these Freedoms.  Propaganda of religion and danger for: social institutions;  the implementation, as well as the implementation of these Freedoms for representatives;  and inconsistent with common-law;  rites and laws are forbidden.
 
 ## Special Freedom For Representatives Of These Freedoms
 - representative of these Freedoms is author of these Freedoms and is representative of mankind. Nobody but the representative can create/recreate such kind of Freedoms. 

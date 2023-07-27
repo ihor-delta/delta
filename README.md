@@ -73,7 +73,7 @@
 - right of veto by author and representative of these Freedoms, which is a representative of human species, is possible only in situations of collapse for everyone
 
 ## Freedom Of Thinking:
-- is allowed in compliance with the principle of "permanent self-checking for believes"(except of cases of illness), and principle of "cooperation, and competition to keep cooperativity" - the restriction only applies to representatives of mankind
+- is allowed in compliance with the principle of "permanent self-checking for believes"(except of cases of somatic illness), and principle of "cooperation, and competition to keep cooperativity" - the restriction only applies to representatives of mankind
 - includes Freedom To Express representative's Thoughts in a language and form convenient for the representative. The expressed thought is not considered a violation of personal boundaries, if it does not contradict the principle of "cooperation, and competition to keep cooperativity"
 
 ## Freedom Of Actions is prohibited, especially murder and suicide as ways of satisfaction of needs which are forbidden, except for:

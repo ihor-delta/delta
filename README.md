@@ -68,6 +68,7 @@
 
 ## Freedom Of Competition/27 Jul 2023 year from Christmast by Gregorian Calendar
 - representatives of mankind who are ready/were ready to cooperate and whose special authority helps in formation of these Freedoms with the author of these freedoms at the time(s) of writing these freedoms have the right to compete, in compliance with these Freedoms and common-laws and situative religious-laws, if he/she is a representative of some religion, with the representative of these Freedoms, who is a representative of mankind, for influence in the formation of these Freedoms in the future by the representative of these Freedoms by the rules of democracy with two opposite sides excluding personal interest and in compliance with a goal of providing The Venus Project on Earth and near-Earth spaces
+- right of veto by author and representative of these Freedoms, which is a representative of human species, is possible only in situations of collapse for everyone
 
 ## Freedom Of Thinking:
 - is allowed in compliance with the principle of "permanent self-checking for believes"(except of cases of illness), and principle of "cooperation, and competition to keep cooperativity" - the restriction only applies to representatives of mankind

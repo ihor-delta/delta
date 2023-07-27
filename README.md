@@ -6,6 +6,7 @@
 
 ## Base principles: 
 - cooperation, and competition to keep cooperativity
+  - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
 - equality and unity of diversity
   - to keep social adaptivity as we can't survive alone, only in group
   - other representative is also a representative, of these Freedoms, common-law and of some specie
@@ -152,7 +153,6 @@
 - interests of social institutions with group of people less than 160+-20 is a method of living and a way of competition to stay cooperative to keep the idea of personal interest of small groups of representatives and provide interactive way of cooperation between social institutions (including families) when the rule of one representive for group of these smaller groups is followed
 - the statute of limitations for punishments is 5 years
 - the murder of a representative by a representative under the age of 14, if such a murder was committed without the influence of others, is considered a negligent homicide
-- cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
 - country - social institution made of social institutions
 - representative of these Freedoms for Special Freedom For Representatives Of These Freedoms is their author and he/she is of representative of mankind
 - representatives of mankind are also representatives of mankind despite the typology in every situation

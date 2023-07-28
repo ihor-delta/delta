@@ -14,7 +14,7 @@
 - situative authority principle based on typology of representatives
   - circumstances
   - characteristic
-  - responsebilities
+  - responsibilities
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 

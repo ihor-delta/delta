@@ -166,6 +166,7 @@
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
 - agressor - those, who attacks or occupy territory of a representative(including social institution or country)
-- defender - a representative(including social institutions or countries), whose territory was occupied or whose social institution was attacked by agressor. Also, defender is a representative(including social institutions or countries) who aware of agression against these Freedoms and can help, in this case he/se/it(in case of country or social institution) obligated to protect territory of other representative(including social institutions or countries) defender like it is him/her/it was attacked. Refuse to protect each other not depending on the situation is forbidden
+- defender - a representative(including social institutions or countries), whose territory was occupied or whose social institution was attacked by agressor. Also, defender is a representative(including social institutions or countries) who aware of agression against these Freedoms and can help, in this case he/se/it(in case of country or social institution) obligated to protect territory of other representative(including social institutions or countries) defender like it is him/her/it was attacked. Refuse to protect each other not depending on the situation is forbidden.
+- agression against a representative(including countries and social institutions) means agression against each of representative of these Freedoms and all the representatives on Earth and near-Earth spaces. 
 
 ## Signatures: @CI

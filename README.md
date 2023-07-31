@@ -117,7 +117,7 @@
 - representatives are able to invent AI for any purpose, except of living/thinking/making decisions/acting/sensate/emote/choicing instead of representatives. The invention of AI that can conduct instinctive activities is forbidden
 - course for education (including social education as priority) quality and equality of population  of representatives of mankind, not things, but representatives are in priority
 - marketing for reasons other than improving quality of life of representatives, quality of satisfying needs of representatives and term of life of representatives is forbidden. Marketing of educational and social products are in priority
-- scheming that makes disorder of a situation except of purposes of conflicts and make situation better for other representatives is forbidden in past/present/future
+- scheming that makes disorder of a situation and makes situation better for chosen representatives is forbidden in past/present/future
 - equal opportunities based on representing of social institution and education for knowing of how to use these opportunities at good level despite typology of representatives, especially educating of Children's Rights, Human Rights, Animal Rights
 - the formation of military formations for purposes other than protection against an aggressor of social institutions who claims to seize the territory of other social institutions, or a war of destruction is forbidden. Using attack weapon for returning of occupied territories by defender is allowed.
 - negative-positivism life philosophy instead of corruption (anticorruptional laws)

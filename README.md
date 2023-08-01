@@ -7,7 +7,7 @@
 ## Base principles: 
 - cooperation, and competition to keep cooperativity
   - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
-- equality and unity of diversity
+- equality, and unity of diversity
   - to keep social adaptivity as we can't survive alone, only in group
   - other representative is also a representative, of these Freedoms, common-law and of some specie
   - in the context of these Freedoms "representative(s) of mankind" is equal to "representative of human species" regardless of origin

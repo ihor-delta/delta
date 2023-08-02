@@ -176,5 +176,7 @@
 - agressor(s) are/is every social institution(s) or representative(s) which commit in present/committed in past/plan to commit in future, armored an/or psychological aggression against victim(s) or defender(s)
 - defender - a representative(including social institutions or countries), whose territory was occupied or whose social institution was attacked by agressor. Also, defender is a representative(including social institutions or countries) who aware of agression against these Freedoms and can help, in this case he/se/it(in case of country or social institution) obligated to protect territory of other representative(including social institutions or countries) defender like it is him/her/it was attacked. Refuse to protect each other not depending on the situation is forbidden.
 - agression against a representative(including countries and social institutions) means agression against each of representative of these Freedoms and all the representatives on Earth and near-Earth spaces. 
+- defender(s) are/is every social institution(s) or representative(s) which protect victim(s) and can help armored and/or psychologycal ways, and any other possible ways. Every social institution(s) and representative(s) which do not commit aggression against victim(s) of some social institution(s) or representative(s) agression are automatically become defender(s) of victim(s) and are obligated to defend, all the possible ways, victim(s) till the end of aggression of aggressor(s)
+
 
 ## Signatures: @CI

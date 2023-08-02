@@ -20,6 +20,8 @@
 
 ## Common law: legality in accordance with international laws, social institutions (including countries) laws, general moral laws, in accordance with Freedoms, applied to representatives of mankind
 
+## Social institutions include countries and organisations as representatives
+
 ## Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored
 - for mankind, farming is regarded as hunting if generally accepted morality laws are observed including the norms of sanitariy law

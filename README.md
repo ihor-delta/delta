@@ -138,6 +138,10 @@
 - sex between representatives of mankind of the same sex is not forbidden same as love and such representatives have the same rights as others not depending on their sexual orientation
 - in case if representative is about of other socially intelligent species, hunting is only at reserved places for this where people are not living, especially if these representative(s) is(are) predators. In spiritual world communication with them is possible only about nature and mutual survival and general questions without interference in the life of such representatives in the life of society in relation to each other if it's not a question of life or death. Hunting in spiritual world and in real world for representatives of mankind is also forbidden. Help for them is possible, if communication is settled. Hunting by representatives of mankind for them is also forbidden. 
 
+## Freedom Of Defence/Wed 2 Aug 2023°Ukraine
+- agressor(s) are/is every social institution(s) or representative(s) which commit in present/committed in past/plan to commit in future, armored and/or unarmored and/or psychological aggression against victim(s) or defender(s)
+- defender(s) are/is every social institution(s) or representative(s) which protect victim(s) and can help armored and/or psychologycal ways, and any other possible ways. Every social institution(s) and representative(s) which do not commit armored and/or unarmored and/or psychological aggression against victim(s) of some social institution(s) or representative(s) agression automatically become defender(s) of victim(s) and are obligated to defend, all the possible ways, victim(s) till the end of aggression of aggressor(s). According to the principle of "equality, and diversity of unity" refuse to defend victim(s) not depending on the motive of aggressor(s) is forbidden.
+- victim(s) is/are social institution(s) or representative(s) against whose armored and/or unarmored or/and psychological aggression is commited/commited/planning to be committed in future. Victim(s) should help for defender(s), all the possible ways, if it's possible. Social institution and/or representative(s) become victim(s) once the armored and/or unarmored and/or psychological agression is committed against him/her/it
 
 ## Special Freedom For Representatives Of These Freedoms
 - representative of these Freedoms is author of these Freedoms and is representative of mankind. Nobody but the representative can create/recreate such kind of Freedoms. 
@@ -173,10 +177,5 @@
 - representatives of mankind are also representatives of mankind despite the typology in every situation
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
-- agressor(s) are/is every social institution(s) or representative(s) which commit in present/committed in past/plan to commit in future, armored an/or psychological aggression against victim(s) or defender(s)
-- defender - a representative(including social institutions or countries), whose territory was occupied or whose social institution was attacked by agressor. Also, defender is a representative(including social institutions or countries) who aware of agression against these Freedoms and can help, in this case he/se/it(in case of country or social institution) obligated to protect territory of other representative(including social institutions or countries) defender like it is him/her/it was attacked. Refuse to protect each other not depending on the situation is forbidden.
-- agression against a representative(including countries and social institutions) means agression against each of representative of these Freedoms and all the representatives on Earth and near-Earth spaces. 
-- defender(s) are/is every social institution(s) or representative(s) which protect victim(s) and can help armored and/or psychologycal ways, and any other possible ways. Every social institution(s) and representative(s) which do not commit aggression against victim(s) of some social institution(s) or representative(s) agression are automatically become defender(s) of victim(s) and are obligated to defend, all the possible ways, victim(s) till the end of aggression of aggressor(s)
-
 
 ## Signatures: @CI

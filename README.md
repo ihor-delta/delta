@@ -22,7 +22,8 @@
     - relations with other representatives
     - action's(s') bad or good result(s)
     - measurable experience
-    - family circumstances related to family members representatives
+    - family circumstances related to family members representatives of representative
+    - social adaptation level
   - characteristic
     - having of illness(es)
     - predictions manner

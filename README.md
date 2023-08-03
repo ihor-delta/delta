@@ -127,7 +127,8 @@
 - equal opportunities based on representing of social institution and education for knowing of how to use these opportunities at good level despite typology of representatives, especially educating of Children's Rights, Human Rights, Animal Rights
 - the formation of military formations for purposes other than protection against an aggressor of social institutions who claims to seize the territory of other social institutions, or a war of destruction is forbidden. Using attack weapon for returning of occupied territories by defender is allowed.
 - negative-positivism life philosophy instead of corruption (anticorruptional laws)
-- limiting or forbidding of moving of representatives on territory of Earth, which does don't have military duty, on territory of a social institution country, is forbidden, even if a representative have no documents which allow/not allow that for him/her or documents of identity. A representative of mankind is already an identity of himself and his body is a document.
+- limiting or forbidding of moving of representatives on territory of Earth, which does don't have military duty, on territory of a social institution country, is forbidden, even if a representative have no documents which allow/not allow that for him/her or documents of identity. A representative of mankind is already an identity of himself and his body is a document
+- mayhem is when someone does something without respecting the principle of "cooperation, and competition to keep cooperativity"
 
 ## Special Freedom Of Authorship And Ownership:
 - observance of authorship of devices and algorithms is one of the components of Freedom Of Life, even if the project is open-source, except for spoken and general-use languages and programming languages, except for ideas that is free to share. It is only possible to transfer the rights to use with changes from the author, with the authorship of the rights to what has been changed, but not the authorship. Authorship of algorithms, including devices in a broad sense, does not impose a restriction on reinventing them. Authorship of algorithms does not impose a restriction on reinventing them.  After 15 years after the device or algorithm is patented, the device or algorithm becomes the heritage of all the representatives and other intellectually able to use them representatives on Earth and near-Earth spaces
@@ -184,6 +185,5 @@
 - representatives of mankind are also representatives of mankind despite the typology in every situation
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
-- mayhem is when someone does something without respecting the principle of "cooperation, and competition to stay cooperative"
 
 ## Signatures: @CI

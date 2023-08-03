@@ -14,7 +14,7 @@
   - in the context of these Freedoms "representative(s) of mankind" is equal to "representative of human species" regardless of origin
   - mutual dependence of representatives on each other
 - situative authority principle based on typology of representatives
-  - circumstances
+  - circumstances of representative(s)
     - specialization
     - general moral attitudes which are in priority
     - stereotypes
@@ -23,13 +23,13 @@
     - action's(s') bad or good result(s)
     - measurable experience
     - family circumstances related to family members representatives of representative
-    - social adaptation level
-  - characteristic
+    - social adaptation level and structure
+  - characteristic of representative(s)
     - having of illness(es)
     - predictions manner
     - type of thinking
     - personal interest character
-  - responsibilities
+  - responsibilities of representative(s)
     - profession
     - influence
     - social institution laws environment

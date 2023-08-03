@@ -8,6 +8,7 @@
 - cooperation, and competition to keep cooperativity
   - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
   - competition for competition has no sense, especially when it affects other representative's(s') rights or Freedoms
+  - sharing ideas and collaboration
 - equality, and unity of diversity
   - to keep social adaptivity as we can't survive alone, only in group
   - other representative is also a representative, of these Freedoms, common-law and of some specie
@@ -208,5 +209,7 @@
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
 - decision of every representative award and punishment is made of decisions of situative authorities by the principle of "situative authorities principle based on typology of representatives" according to common-law where general moral laws are in priority
+- author of these Freedoms is a representative of these Freedoms
+- developing of these Freedoms is organised by the principle of "sharing ideas and collaboration"
 
 ## Signatures: @CI

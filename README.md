@@ -180,6 +180,7 @@
 ## Freedom of Transition
 - changing of these Freedoms by representatives of mankind is possible the way of one representative of mankind for 200+-20 representatives of mankind using fractal-based and honest phisically and technologically-organized (excluding automated systems as @CI or implanted in brain chips) voting system where every representative of mankind is involved to make changes in these Freedoms. A representative of mankind can't be a representative for other representatives of mankind in case of international law classified committed illegal actions which were committed by him/her according to their responsibilities such as: killing people, murder-oriented orders or mass-murder-oriented orders buying/asking of service of killing other representatives or killing others personally or orders oriented for violation of these freedoms of other representatives (excluding  representatives of plants which danger for other species and danger for mankind mushrooms and bacteria) during the performance of duties of representatives of social institutions (including countries), where representatives are of mankind
 - possible only if representatives of mankind overcome poverty, leave the political system of social institutions, and overcome the possibility of armed conflicts and wars
+- changing principles of these Freedoms is impossible. Only Representative Of These Freedoms have right for this.
 
 ### Important clarifications:
 - the whole society of representatives of mankind is guilty of creating outcasts between representatives of mankind

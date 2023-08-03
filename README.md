@@ -25,6 +25,7 @@
     - having of illness(es)
     - predictions manner
     - type of thinking
+    - personal interest character
   - responsibilities
     - profession
     - influence

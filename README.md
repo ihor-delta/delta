@@ -21,6 +21,8 @@
     - knowledge of these Freedoms
     - relations with other representatives
     - action's(s') bad or good result(s)
+    - measurable experience
+    - family circumstances related to family members representatives
   - characteristic
     - having of illness(es)
     - predictions manner
@@ -30,6 +32,7 @@
     - profession
     - influence
     - social institution laws environment
+    - society trends
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 

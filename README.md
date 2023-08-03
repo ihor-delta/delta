@@ -12,7 +12,7 @@
   - to keep social adaptivity as we can't survive alone, only in group
   - other representative is also a representative, of these Freedoms, common-law and of some specie
   - in the context of these Freedoms "representative(s) of mankind" is equal to "representative of human species" regardless of origin
-  - mutual dependence of representatives on each other
+  - mutual dependence of representatives
 - situative authority principle based on typology of representatives
   - circumstances of representative(s)
     - specialization

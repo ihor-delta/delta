@@ -4,7 +4,7 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
-## Base principles: 
+## Base principles are mandatory to comply: 
 - cooperation, and competition to keep cooperativity
   - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
   - competition for competition has no sense, especially when it affects other representative's(s') rights or Freedoms

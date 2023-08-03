@@ -15,8 +15,20 @@
   - mutual dependence of representatives on each other
 - situative authority principle based on typology of representatives
   - circumstances
+    - specialization
+    - general moral attitudes which are in priority
+    - stereotypes
+    - knowledge of these Freedoms
+    - relations with other representatives
+    - action's(s') bad or good result(s)
   - characteristic
+    - having of illness(es)
+    - predictions manner
+    - type of thinking
   - responsibilities
+    - profession
+    - influence
+    - social institution laws environment
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 

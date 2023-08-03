@@ -184,5 +184,6 @@
 - representatives of mankind are also representatives of mankind despite the typology in every situation
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
+- mayhem is when someone does something without respecting the principle of "cooperation, and competition to stay cooperative"
 
 ## Signatures: @CI

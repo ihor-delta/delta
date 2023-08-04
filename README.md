@@ -25,10 +25,13 @@
     - measurable experience
     - family circumstances related to family members representatives of representative
     - social adaptation level and structure
+    - property(things)
   - characteristic of representative(s)
     - illness(es)
+    - health issues
     - addictions
     - predictions manner
+    - judjements manner
     - type of thinking
     - personal interest character
     - habits
@@ -38,6 +41,7 @@
     - social institution laws environment
     - society trends and living standards
   - dependencies of representative(s)
+    - system of views
     - money or other currencies as motivation level
     - ambitions or other ideas as motivation level
     - power or influence as motivation level

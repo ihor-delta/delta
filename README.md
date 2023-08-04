@@ -26,6 +26,7 @@
     - family circumstances related to family members representatives of representative
     - social adaptation level and structure
     - property(things)
+    - status in society(invalid, veteran, etc.)
   - characteristic of representative(s)
     - illness(es)
     - health issues

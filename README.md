@@ -26,15 +26,21 @@
     - family circumstances related to family members representatives of representative
     - social adaptation level and structure
   - characteristic of representative(s)
-    - having of illness(es)
+    - illness(es)
+    - addictions
     - predictions manner
     - type of thinking
     - personal interest character
+    - habits
   - responsibilities of representative(s)
     - profession
     - influence
     - social institution laws environment
     - society trends and living standards
+  - dependencies of representative(s)
+    - money as motivation level
+    - ambitions as motivation level
+    - power as motivation level
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 

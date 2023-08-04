@@ -27,6 +27,7 @@
     - social adaptation level and structure
     - property(things)
     - status in society(invalid, veteran, etc.)
+    - context of thinking
   - characteristic of representative(s)
     - illness(es)
     - health issues

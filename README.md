@@ -34,7 +34,7 @@
     - profession
     - influence
     - social institution laws environment
-    - society trends
+    - society trends and living standards
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 

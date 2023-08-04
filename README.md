@@ -209,6 +209,7 @@
 - love is when you do something and do not wait something instead
 - children as representatives are learnig to satisfy their needs and need proper education from representatives who are in role of parents (maybe even situatively)
 - decision of every representative award and punishment is made of decisions of situative authorities by the principle of "situative authorities principle based on typology of representatives" according to common-law where general moral laws are in priority
+- balance between "establishment" and "emergence"  is coordinated by the collective intelligence phenomena
 - author of these Freedoms is a representative of these Freedoms
 - developing of these Freedoms is organised by the principle of "sharing ideas and collaboration"
 

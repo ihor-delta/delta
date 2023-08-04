@@ -38,9 +38,9 @@
     - social institution laws environment
     - society trends and living standards
   - dependencies of representative(s)
-    - money as motivation level
-    - ambitions as motivation level
-    - power as motivation level
+    - money or other currencies as motivation level
+    - ambitions or other ideas as motivation level
+    - power or influence as motivation level
 
 ## Base for these Freedoms are Children's Rights, Human Rights, Animal Rights and their implementation is mandatory
 
@@ -62,13 +62,13 @@
 - what is socially acceptable in institutions should not contradict internationally guaranted morality laws
 - military duty, including the contractual form of service, is considered a violation of the Freedom Of Life of other representatives, except voluntary form (with salary, free special education for such kinds of volunteers, and reabilitation, if monetary system is provided) for physical self-defense against physical violence, if there is a logic-based danger for Freedoms of other representatives, or to defense social institutions' laws, excluding of self-defense from representatives of mankind with no weapon using weapon; where weapon that is  not made for killing is used of other representatives in case of physical self-defense of group of representatives of mankind, and for defense of Freedoms of other representatives, or of operations against terrorism, directed against representatives of mankind or against other species of animals and plants, where weapon which can't kill is in priority
 - a representative can live as he/she wants according to circumstances, if his/her manner of life does not contradict Freedoms of other representatives
-- slavery of things and representatives slavery (*including spiritual slavery, conscious slavery and subconscious slavery*) and convergence culture, including economical and religious forms, and mass murders are forbidden even in case of working Freedom Of Transition and this rule can't be violated by any of these Freedoms or common-law(including religious laws) in any situation by any representative on Earth or near-Earth spaces even if it's not on Earth or on near-Earth spaces- earning money or other currencies, if in system of exchange of resources, on the ways of life of representatives is prohibited
+- slavery of things and representatives slavery (*including spiritual slavery, conscious slavery and subconscious slavery*) and convergence culture, including economical and religious forms, and mass murders are forbidden even in case of working Freedom Of Transition and this rule can't be violated by any of these Freedoms or common-law(including religious laws) in any situation by any representative on Earth or near-Earth spaces even if it's not on Earth or on near-Earth spaces - earning money or other currencies, if in system of exchange of resources, on the ways of life of representatives is prohibited
 - market of representatives (buying and selling representatives of mankind) is forbidden, except of representatives of other species different than mankind for food/service if a representative of mankind(the one who buys) undertakes to do everything to try to hunt a representative of other specie other than mankind with the minimum amount of suffering(pain)
 - drugs(including cugarettes and alcohol, excluding sydre) and their distribution and production are illegal, drugs addicted representatives need proper medical care and medical treatment to fight with their addiction including treatment of physical and psychological dependence. Excluding medications which act like drugs, which can be allowed by a doctor-representative of mankind. Consuming of drugs by them is not a violation of these Freedoms, but fault of everybody of representatives of mankind, especially about legal drugs like cigarettes, other tobacco products, nicotine having vapes and alcohol (except of sydr relating to alcohol)
 - theft of what is generally considered trash is not considered theft
 - satisfaction of needs, the result of which satisfaction does not allow other representatives to satisfy their needs is forbidden - even during the period of Freedom Of Transition except of cases where it for purpose of education which is organised as a process
 
-## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for morality, for resolving situations:
+## Freedom Of Ignorance constitutes the fact of the possibility of a representative not knowing his Freedoms and involves the maximum effort by the representative to observe them by others in relation to others and to the representative, as well as to act within the framework of generally accepted morality in such cases, excluding the idea of a special morality of circumstances as the basis for moral laws, for resolving situations:
 - refraining from voicing or not fulfilling the Freedoms of another or others, in a situation where other representatives or another representative, depending on the situation, are not familiar with Freedoms is considered a violation of the Freedoms of other representatives
 - where possible, depending on life circumstances and situation, the dissemination of information about these freedoms is a violation of the freedom of ignorance, which is acceptable if it is a matter of life, death, physical, or psychological violence for representative who is not familiar with these Freedoms
 - Freedom Of Ignorance does not exempt from observing the Freedoms of other representatives, even if the representative cannot correctly interpret them, except of animals, plants and bacterias
@@ -163,8 +163,8 @@
 - you are considered the author of some device or algorithm if you have legal documents confirming this right
 - you are considered the owner of some physical item if you have documents confirming the right of permanent or temporary possession of the item
 
-## Special Freedom Of Beliefs
-- according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her beliefs, do not violate the Freedoms of other representatives and their own
+## Special Freedom Of Believes
+- according to the Freedom of Life and Freedom of Choice, a representative can believe anything, if his/her actions, based on his/her believes, do not violate the Freedoms of other representatives and their own
 - religious laws within the limits of religious social institutions or places allowed by other social institutions within a country, excluding other countries social institutions as territory to spread religious laws, except of humanitarian, voluntary and communicational reasons (only science-based or philosophical seminars and conferences) in accordance  with common-law and these Freedoms.  Propaganda of religion and danger for: social institutions;  the implementation, as well as the implementation of these Freedoms for representatives;  and inconsistent with common-law;  rites and laws are forbidden
 - masturbation is a way of contraception and the natural way of sexual relationships, between representatives of mankind of man and women sex, is free relationships, provided that children are provided with the fulfillment of their professional duties as Mom and Dad by adults
 - sex between representatives of mankind of the same sex is not forbidden same as love and such representatives have the same rights as others not depending on their sexual orientation

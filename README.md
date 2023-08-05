@@ -24,10 +24,13 @@
     - action's(s') bad or good result(s)
     - measurable experience
     - family circumstances related to family members representatives of representative
-    - social adaptation level and structure
+    - social adaptation level
+    - structure of social adaptation
     - property(things)
     - status in society(invalid, veteran, etc.)
     - context of thinking
+    - age group
+    - generation
   - characteristic of representative(s)
     - illness(es)
     - health issues
@@ -37,6 +40,7 @@
     - type of thinking
     - personal interest character
     - habits
+    - psychosomatics
   - responsibilities of representative(s)
     - profession
     - influence

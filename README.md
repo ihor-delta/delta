@@ -31,6 +31,8 @@
     - context of thinking
     - age group
     - generation
+    - country
+    - general education level
   - characteristic of representative(s)
     - illness(es)
     - health issues
@@ -47,6 +49,7 @@
     - social institution laws environment
     - society trends and living standards
   - dependencies of representative(s)
+    - values
     - system of views
     - money or other currencies as motivation level
     - ambitions or other ideas as motivation level

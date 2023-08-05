@@ -16,8 +16,8 @@
   - mutual dependence of representatives
 - situative authority principle based on typology of representatives
   - circumstances of representative(s)
-    - specialization
-    - general moral attitudes which are in priority
+    - specialization which is in priority
+    - general moral attitudes
     - stereotypes
     - knowledge of these Freedoms
     - relations with other representatives
@@ -40,18 +40,19 @@
     - predictions manner
     - judjements manner
     - type of thinking
-    - personal interest character
+    - personal interest relation which is in priority
     - habits
     - psychosomatics
+    - choice
   - responsibilities of representative(s)
     - activities
-    - profession
+    - profession which is in priority
     - influence
     - social institution laws environment
     - society trends and living standards
   - dependencies of representative(s)
     - values
-    - system of views
+    - system of views which is in priority
     - money or other currencies as motivation level
     - ambitions or other ideas as motivation level
     - power or influence as motivation level

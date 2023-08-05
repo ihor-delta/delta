@@ -44,6 +44,7 @@
     - habits
     - psychosomatics
   - responsibilities of representative(s)
+    - activities
     - profession
     - influence
     - social institution laws environment

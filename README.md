@@ -138,6 +138,11 @@
 - inaction in helping to meet the needs and / or preserve the freedoms of the other / other is possible only if it is impossible to offer an alternative or help, or, in the case of a sexual need - personal preferences
 - direct and veiled threats, including gestures, and international law classified rapes are forbidden.
 
+## Freedom Of Nature
+- representatives of mankind must return in what they took from Nature including lost species, if it's possible in general for every specie individually
+- representatives of mankind are also part of Nature
+- Nature means biological evolution-based form of life which is presented as ecosystem on Earth and near-Earth spaces
+
 ## Freedom Of Transcendence/28 July 2023 AD
 - reasoning with, or committing for satisfaction of their own or other representative(s) satisfaction, by a representative's(s') of mankind illegal actions in relation to other representative(s) - where representative(s) of mankind is(are) in priority, especially child(children)-representative(s) of mankind; in accordance with common-law and in accordance with these Freedoms; by the representative(s) of mankind, transcendental need(s) and rules of social institution(s), including rules of: religious social institution(s), unspoken rule(s); rules of group of representatives with similar typology; as well as ignorance of these Freedoms and common-law; by representative(s) of mankind is forbidden in past/present/future, in real world and in spiritual world
 

@@ -4,6 +4,8 @@
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
+## Priorities in duty to follow these Freedoms depends on the context of the situation
+
 ## Base principles are mandatory to comply: 
 - cooperation, and competition to keep cooperativity
   - cooperation, and competition is not only about to keep cooperativity in present:

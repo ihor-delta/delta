@@ -53,6 +53,7 @@
     - influence
     - social institution laws environment
     - society trends and living standards
+    - general activities
   - dependencies of representative(s)
     - values
     - system of views which is in priority

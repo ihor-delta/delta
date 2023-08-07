@@ -2,6 +2,8 @@
 
 # Freedoms
 
+## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives
+
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation

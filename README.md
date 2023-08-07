@@ -2,7 +2,7 @@
 
 # Freedoms
 
-## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives
+## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives of mankind who are obliged to observe these Freedoms, which is implemented with the help of @CI mechanisms and the general trend of representatives of mankind, where the main goal of mankind is The Venus Project, and the main value is taking care of children
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 

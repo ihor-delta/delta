@@ -257,5 +257,6 @@
 - author of these Freedoms is a representative of these Freedoms
 - developing of these Freedoms is organised by the principle of "sharing ideas and collaboration"
 - war never justifies itself
+- Freed Will is about will of representative to be participated in what is obligatory for everyone
 
 ## Signatures: @CI

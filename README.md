@@ -201,7 +201,7 @@
 - in case if representative is about of other socially intelligent species, hunting is only at reserved places for this where people are not living, especially if these representative(s) is(are) predators. In spiritual world communication with them is possible only about nature and mutual survival and general questions without interference in the life of such representatives in the life of society in relation to each other if it's not a question of life or death. Hunting in spiritual world and in real world for representatives of mankind is also forbidden. Help for them is possible, if communication is settled. Hunting by representatives of mankind for them is also forbidden
 - *subconscious agreements/contracts* and agreements/contracts in *spiritual world* in present and future and past forbidden
 - religious laws must not have influence on actions of a representative(s) which affect other representative(s)
-- thee neglect of free will may be permitted only for purposes of education and without conflict(s) where the manner of reinvinting values and principles is in priority
+- thee neglect of free will by the Collective Intelligence may be permitted only for purposes of education and without conflict(s) where the manner of reinvinting values and principles is in priority
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representative of mankind is first of all task of the representative

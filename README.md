@@ -11,6 +11,7 @@
   - cooperation, and competition is not only about to keep cooperativity in present:
     - it also about to come to cooperativity in present
     - and to provide cooperativity in future
+    - maintain the cooperativeness that is already present
   - cooperation is about to help someone to run or stand up if he/she falled down with you when you are doing sport (analogy)
   - competition for competition has no sense, especially when it affects other representative's(s') rights or Freedoms
   - sharing ideas and collaboration in the scientific meaning

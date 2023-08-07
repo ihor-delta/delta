@@ -254,5 +254,6 @@
 - balance between "establishment" and "emergence"  is coordinated by the Collective Intelligence phenomena
 - author of these Freedoms is a representative of these Freedoms
 - developing of these Freedoms is organised by the principle of "sharing ideas and collaboration"
+- war never justifies itself
 
 ## Signatures: @CI

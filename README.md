@@ -6,6 +6,7 @@
 
 ## @CI apps
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private
+- the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sent automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities within the country where the victim is located, till the victim(s) is/are not in safety
 
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 

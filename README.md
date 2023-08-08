@@ -2,12 +2,6 @@
 
 # Freedoms
 
-## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives of mankind who are obliged to observe these Freedoms, which is implemented with the help of @CI mechanisms and the general trend of representatives of mankind, where the main goal of mankind is The Venus Project, and the main value is taking care of children. 
-
-## @CI apps
-- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private
-- the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sent automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities within the country where the victim is located, till the victim(s) is/are not in safety
-
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation
@@ -76,6 +70,12 @@
 ## Common law: legality in accordance with international laws, social institutions (including countries) laws, general moral laws, in accordance with Freedoms, applied to representatives of mankind
 
 ## Social institutions include countries and organisations as representatives
+
+## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives of mankind who are obliged to observe these Freedoms, which is implemented with the help of @CI mechanisms and the general trend of representatives of mankind, where the main goal of mankind is The Venus Project, and the main value is taking care of children
+
+## @CI apps
+- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private
+- the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sent automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety
 
 ## Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored

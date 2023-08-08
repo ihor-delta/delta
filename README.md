@@ -5,10 +5,10 @@
 ## Subject to the right representatives: animals, plants, mushrooms, bacterias
 
 ## Priorities:
-I. The Venus Project by Jacque Fresco and Roxane Meadows
-II. Distribute principles of these Freedoms
-III. Children
-IV. Knowledge of these Freedoms
+### I. The Venus Project by Jacque Fresco and Roxane Meadows
+### II. Distribute principles of these Freedoms
+### III. Children
+### IV. Knowledge of these Freedoms
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation
 

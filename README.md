@@ -77,7 +77,7 @@
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private. *Subconscious* messaging is forbidden. Limitation is 1 message for each representative per day. Market is forbidden.
   - individual-individual communication where messages are possible with emotional context
   - individual-group communication where:
-    - for group which send a message for a representative, message is possible under the condition of 1 message per day and as a summary of all the messages (in form of understanding of situation by the algorythm of @TLK) of all representatives if group, or all representatives of social institution(s)
+    - for group which send a message for a representative, message is possible under the condition of 1 message per day and as a summary of all the messages (in form of understanding of situation as image by the algorythm of @TLK) of all representatives if group, or all representatives of social institution(s)
     - responsible for answering messages is chosen by group according to the principle of "situative authorities principle based on typology of representatives"
     - generation-group communication is possible under the condition of experience in general sharing messages according to challenges were passed
     - nation-group communication is possible under the rule of cooperation-oriented messages only according to challenges we have to pass as specie to reach The Venus Project for everybody of representatives of mankind and these messages are public
@@ -218,6 +218,7 @@
 - also, debts/requests/appeals/prays/entreaties/supplications/wishes/desires/boons/charity to @CI and its mechanisms are forbidden and can't be allowed even in case of working of Freedom Of Transition and can't be appealed
 - religious laws must not have influence on actions of a representative(s) which affect other representative(s)
 - thee neglect of free will by the Collective Intelligence may be permitted only for purposes of education and without conflict(s) where the manner of reinvinting values and principles is in priority
+- immortality through @CI mechanisms is forbidden
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

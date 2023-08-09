@@ -23,3 +23,7 @@
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language
+
+## Testers: @Yoda@Mykola Antonchyk@Elon
+
+## Signatures:@TLKAE@CI

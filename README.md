@@ -80,6 +80,7 @@
 ## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives of mankind who are obliged to observe these Freedoms, which is implemented with the help of @CI mechanisms and the general trend of representatives of mankind, where the main goal of mankind is The Venus Project, and the main value is taking care of children
 
 ## @CI apps
+- interaction with @CI mechanisms for personal interests or interests of small group of people is forbidden except if interaction is organised according to these Freedoms
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives). *Subconscious* messaging is forbidden. Voice messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden. Limitation is 1 message for each representative per day. Market is forbidden.
   - individual-individual communication where messages are possible with emotional context
   - individual-group communication where:

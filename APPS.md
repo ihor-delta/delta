@@ -2,6 +2,7 @@
 
 # @CI apps
 - interactive apps to interact with each other and with @CI
+- all these apps work through @CI mechanisms
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
@@ -31,6 +32,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - threats and expressions of intentions that contradict the Freedoms are forbidden
 - helping to react through @CI mecanisms are forbidden except of memories of reactions
 - make an attention messages are forbidden
+- feeling messages are forbidden except of messages for doctors psychiatrists
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

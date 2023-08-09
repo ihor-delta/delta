@@ -6,6 +6,17 @@
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
+## Age Groups of Representatives
+- babies 0-3 years old
+- children 0-13 years old
+- teenagers 13-16 years old
+- young 16-21 years old
+- young adult 21-25 years old
+- adult 25-40 years old
+- old adults 40-65 years old
+- very old adults 65-80 years old
+- centenarians 80+
+
 ## @app.Messenger
 - messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI
 - social games structure of messaging is forbidden
@@ -14,12 +25,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives)
 - *Subconscious* messaging is forbidden. 
 - voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
-- Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
-- Limitation is 1 message for each representative per day per each group 
-- Messaging through other representatives is forbidden 
-- Outgoing queue of messages is forbidden 
-- Market is forbidden
-- Between-representatives communication:
+- messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
+- limitation is 1 message for each representative per day per each group 
+- messaging through other representatives is forbidden 
+- outgoing queue of messages is forbidden 
+- market is forbidden
+- between-representatives communication:
   - individual-individual communication where messages are possible with emotional context
   - individual-group communication where:
     - for group which send a message for a representative, message is possible under the condition of 1 message per day and as a summary of all the messages (in form of understanding of situation as image by the algorythm of @TLK + chosing messages which are the most interesting to solve problems and pass challenges) of all representatives if group, or all representatives of social institution(s)
@@ -34,6 +45,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - make an attention messages are forbidden
 - feeling messages are forbidden except of messages for doctors psychiatrists
 - make remarks of other representatives is forbidden
+- helping to react is possible only for children and teenagers which do not know how to react on situations in their life
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

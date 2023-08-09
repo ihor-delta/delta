@@ -95,7 +95,8 @@
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries
 ### Clarifications: 
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
-- priorities in delivering messages are coordinated by @CI mechanisms according to priorities of these Freedoms 
+- priorities in delivering messages are coordinated by @CI mechanisms according to priorities of these Freedoms
+- translation of messages realized through @CI mechanisms for representative recipient's native language
 
 ## Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored

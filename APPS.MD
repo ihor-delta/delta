@@ -19,7 +19,7 @@
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries
 
-## Clarifications: 
+## Clarifications
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language

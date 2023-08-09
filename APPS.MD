@@ -2,6 +2,7 @@
 - interactive apps to interact with each other and with @CI
 
 ## @app.Messenger
+- social games structure of messaging is forbidden
 - available for representatives of mankind from the age of 16
 - interaction with @CI mechanisms for personal interests or interests of small group of people is forbidden except if interaction is organised according to these Freedoms
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives). *Subconscious* messaging is forbidden. Voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden. Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of these Freedoms. Limitation is 1 message for each representative per day. Market is forbidden.

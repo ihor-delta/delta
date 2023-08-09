@@ -37,7 +37,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
     - responsible for answering messages is chosen by group according to the principle of "situative authorities principle based on typology of representatives"
     - generation-group communication is possible under the condition of experience in general sharing messages according to challenges were passed where all the messages are public
     - nation-group communication is possible under the rule of cooperation-oriented messages only according to challenges we have to pass as specie to reach The Venus Project for everybody of representatives of mankind and these messages are public
-    - age-group communication is possible under the condition of dividing by countries and under the principle of "sharing ideas and collaboration" for building knowledge-based society where all the messages are public
+    - age-group communication is possible under the principle of "sharing ideas and collaboration" for building knowledge-based society where all the messages are public
 - all messages are sorted by tags and sorted by the relevance by the principle of @CI mechanism according to priorities of the Freedoms
 - messaging through other representatives for @CI mechanisms is forbidden if it's not a matter of life and death
 - threats and expressions of intentions that contradict the Freedoms are forbidden

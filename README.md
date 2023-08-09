@@ -79,7 +79,7 @@
 
 ## Providing of these Freedoms is organised through @CI mechanisms and mechanisms of representatives of mankind who are obliged to observe these Freedoms, which is implemented with help of @CI mechanisms and the general trend of representatives of mankind, where the main goal of mankind is The Venus Project, and the main value is taking care of children
 
-See APPS.MD also to find out which apps are built using @CI mechanisms
+See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to find out which apps are built using @CI mechanisms
 
 ## Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored

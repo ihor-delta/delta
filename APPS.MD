@@ -1,6 +1,8 @@
 # @CI apps
 - interactive apps to interact with each other and with @CI
 
+In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
+
 ## @app.Messenger
 - social games structure of messaging is forbidden
 - available for representatives of mankind from the age of 16

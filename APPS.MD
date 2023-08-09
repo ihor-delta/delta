@@ -27,6 +27,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language
 
-## Testers: @Yoda@Mykola Antonchyk@Elon
+## Testers: @Yoda@Mykola Antonchyk@Elon@volunteers
 
 ## Signatures:@TLKAE@CI

@@ -13,7 +13,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - interaction with @CI mechanisms for personal interests or interests of small group of people is forbidden except if interaction is organised according to the Freedoms
 - using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives)
 - *Subconscious* messaging is forbidden. 
-- Voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
+- voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
 - Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
 - Limitation is 1 message for each representative per day per each group 
 - Messaging through other representatives is forbidden 
@@ -33,6 +33,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - helping to react through @CI mecanisms are forbidden except of memories of reactions
 - make an attention messages are forbidden
 - feeling messages are forbidden except of messages for doctors psychiatrists
+- make remarks of other representatives is forbidden
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

@@ -1,3 +1,5 @@
+© 2023 Ihor Budko
+
 # @CI apps
 - interactive apps to interact with each other and with @CI
 

@@ -93,7 +93,7 @@
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situational authorities where all the representatives which are victims and are wanted as victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries
 ### clarification: 
-- developer(s) have right to change the principles of working of @CI apps according to the situation on Earth
+- developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
 
 ## Freedom Of Life, except in cases where the responsebility for life lies with the person who saves the Life for which he/she is responsible: 
 - if the actions and desire of a person are directed against his Freedom Of Life, then the Freedom Of Life lies with other situative authority until the logic of action consistency of action(s) of the subject(s) to the right of the representative(s) is restored

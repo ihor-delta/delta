@@ -233,6 +233,7 @@
 - religious laws must not have influence on actions of a representative(s) which affect other representative(s)
 - thee neglect of free will by the Collective Intelligence may be permitted only for purposes of education and without conflict(s) where the manner of reinvinting values and principles is in priority
 - immortality through @CI mechanisms is forbidden
+- within these freedoms, free will is seen as a method of complacency and as a sense of self-control denoting the boundaries of the thinking of representative(s)
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

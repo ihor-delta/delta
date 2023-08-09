@@ -12,7 +12,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - *Subconscious* messaging is forbidden. 
 - Voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
 - Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
-- Limitation is 1 message for each representative per day 
+- Limitation is 1 message for each representative per day per each group 
 - Messaging through other representatives is forbidden 
 - Outgoing queue of messages is forbidden 
 - Market is forbidden

@@ -4,10 +4,19 @@
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
 ## @app.Messenger
+- messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI
 - social games structure of messaging is forbidden
 - available for representatives of mankind from the age of 16
 - interaction with @CI mechanisms for personal interests or interests of small group of people is forbidden except if interaction is organised according to the Freedoms
-- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives). *Subconscious* messaging is forbidden. Voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden. Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms. Limitation is 1 message for each representative per day. Outgoing queue of messages is forbidden. Market is forbidden.
+- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives)
+- *Subconscious* messaging is forbidden. 
+- Voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
+- Messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
+- Limitation is 1 message for each representative per day 
+- Messaging through other representatives is forbidden 
+- Outgoing queue of messages is forbidden 
+- Market is forbidden
+- Between-representatives communication:
   - individual-individual communication where messages are possible with emotional context
   - individual-group communication where:
     - for group which send a message for a representative, message is possible under the condition of 1 message per day and as a summary of all the messages (in form of understanding of situation as image by the algorythm of @TLK + chosing messages which are the most interesting to solve problems and pass challenges) of all representatives if group, or all representatives of social institution(s)

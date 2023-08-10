@@ -5,6 +5,7 @@
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
 - all Apps are based on Trinity engine (software/hardware) with influence of DIK environment on Earth and near-Earth spaces
+  - repeating history is disabled
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
@@ -85,38 +86,62 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
 ## @app.Greece and Etads Unis
+- interactive analogy
 
 ## @app.Esparta and Ukraine
+- interactive analogy
 
 ## @app.Barbarians and Russia and Belarusia
-
-## @app.Asia and Powerty
-
-## @app.America and Monetary System
-
-## @app.Great Britain and Politics
-
-## @app.African Culture and Wars
-
-## @app.India and Animals
-
-## @app.Australia and Isolation
-
-## @app.Islamic World and Rights Of Human
-
-## @app.Israel Traditions and Dogmas
-
-## @app.Leonardo da Vinci and Jacque Fresco
-
-## @app.Elon and Life Quality and AI
+- interactive analogy
 
 ## @app.Putin and Hannibal
+- interactive analogy
 
-## @app.Guardians and Vision
+## //@app.Asia and Balance
 
-## @app.Luhman and Moturano
+## //@app.bot.America and Monetary System
 
-## @The Venus Project and Values
+## //@app.bot.Great Britain and Politics
+
+## //@app.bot.African Culture and Wars
+
+## //@app.bot.India and Animals
+
+## //@app.bot.Australia and Isolation
+
+## @app.Islamic World and Rights Of Human
+- help her to survive
+
+## @app.bot.Israel Traditions and Dogmas Research
+- research
+- statistics from @CI mechanisms
+
+## @app.Leonardo da Vinci and Jacque Fresco
+- lectures about everything
+- without personal information about related representatives for Jacque Fresco
+
+## @app.bot.Elon and Rockets and AI
+- it's not a time to go to space
+- without personal information
+
+## @app.bot.TLKAE and Freedoms
+- without personal information
+- based on @CI mechanisms
+
+## @app.bot.Putin and Hannibal
+- analogy according to war in Ukraine
+
+## @app.bot.Vision
+- bank of ideas for future vision of our civilization:
+  - free relationships by @Guardians
+  - father and mother professions by @LindahHamilton and @TLKAE @Ukraine@USA with ❤️ for children
+  - adaptive structure of education of young specialists for knowledge-based society by @TLKAE
+  - resource-based economy by The Venus Project
+
+## @app.bot.interactive.Luhman and Moturano
+- theory of systems
+
+## @app.The Venus Project and Culture
 
 ## @app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle Country to Country not depending from which country request is sent

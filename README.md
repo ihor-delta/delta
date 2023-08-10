@@ -219,7 +219,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - immortality through @CI mechanisms is forbidden
 - within these freedoms, free will is seen as a method of complacency and as a sense of self-control denoting the boundaries of the thinking of representative(s)
 - telepathy is forbidden (@CI apps is not telepathy)
-- law of Karma works for past/present/future actions for everybody of representatives of mankind and other representatives which are enough intelligent to live with law of Karma in form of @app.Karma where verbal commands/orders/decisions and actions within the framework of responsibility are considered actions
+- law of Karma works for past/present/future actions for everybody of representatives of mankind and other representatives which are enough intelligent to live with law of Karma in form of @app.Karma where verbal commands/orders/decisions and actions within the framework of responsibility are considered actions. Karma Law is not appliable for @CI mechanisms
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

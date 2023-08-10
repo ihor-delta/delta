@@ -61,10 +61,17 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - working on Karma from previous lives is disabled
 - motives are not important but the results of actions:
   - including orders, decisions for laws and their accepting, criminal schemes
-- No opportunity to work on Karma except of returning everything what is possible back
-- Not for children
-- Decisions are coordinating by @CI in complience with the Freedoms
-- Negative and positive Karma depending on results of real actions for every representative (social rating like)
+- no opportunity to work on Karma except of returning everything what is possible back
+- not for children
+- decisions for positive, negative or educational for representative(s) Karma are coordinating by @CI in complience with the Freedoms
+- negative and positive Karma depending on results of real actions for every representative (social rating like)
+- opportunity to gain positive Karma for actions which have negative result for other representative(s) is disabled
+- opportunity to work on Karma through education through @CI mechanisms to prevent negative results in future what works like educational Karma with exams if a representative(s) prevent(s) negative results for other representative(s) after that
+
+### Karma Types:
+- positive karma
+- negative karma
+- educational karma
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

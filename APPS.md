@@ -19,7 +19,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - centenarians 80+
 
 ## @app.Messenger
-- messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI
+- messaging is possible in free time chosen by each representative personally
+- messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI mechanisms
 - social games structure of messaging is disabled
 - available for representatives of mankind from the age of 16
 - interaction with @CI mechanisms for personal interests or interests of small group of people is disabled except if interaction is organised according to the Freedoms

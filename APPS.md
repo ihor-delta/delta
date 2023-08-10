@@ -66,7 +66,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - decisions for positive, negative or educational for representative(s) Karma are coordinating by @CI in complience with the Freedoms
 - negative and positive Karma depending on results of real actions for every representative (social rating like)
 - opportunity to gain positive Karma for actions which have negative result for other representative(s) is disabled
-- opportunity to work on Karma through education through @CI mechanisms to prevent negative results in future what works like educational Karma with exams if a representative(s) prevent(s) negative results for other representative(s) after that
+- opportunity to work on Karma through education through @CI mechanisms to prevent negative results in future what works like educational Karma with exams if a representative(s) prevent(s) negative results for other representative(s) after that and returns negative results with positive results for other representative(s)
 
 ### Karma Types:
 - positive karma

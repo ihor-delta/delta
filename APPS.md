@@ -50,6 +50,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - social games structure of messaging is disabled
 - behaving like other representative(s) imagine you is disabled
 - sending messages through other representatives is disabled (direct messaging)
+- opportunity to send messages to @everybody is enabled. The most evaluated by @CI mechanisms messages are sending to @everybody with no limitation
+- reading mode is enabling at free time when a person is not in communication with other representative(s)
+- *conscious* dialogues with messages with no lomit are enabled when dialog is in real world
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

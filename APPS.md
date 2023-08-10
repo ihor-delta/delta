@@ -102,15 +102,21 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Australia and Isolation
 
-## @app.Islamic World
+## @app.Islamic World and Rights Of Human
 
-## @app.Israel Traditions
+## @app.Israel Traditions and Dogmas
 
 ## @app.Leonardo da Vinci and Jacque Fresco
 
-## @app.Elon and Rockets
+## @app.Elon and Life Quality and AI
 
 ## @app.Putin and Hannibal
+
+## @app.Guardians and Vision
+
+## @app.Luhman and Moturano
+
+## @The Venus Project and Values
 
 ## @app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle Country to Country not depending from which country request is sent

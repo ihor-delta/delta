@@ -3,6 +3,7 @@
 # @CI apps
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms
+- all apps description is possible only in this document
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
@@ -19,17 +20,17 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Messenger
 - messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI
-- social games structure of messaging is forbidden
+- social games structure of messaging is disabled
 - available for representatives of mankind from the age of 16
-- interaction with @CI mechanisms for personal interests or interests of small group of people is forbidden except if interaction is organised according to the Freedoms
-- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (public private messages for other representatives)
-- *Subconscious* messaging is forbidden. 
-- voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are forbidden
+- interaction with @CI mechanisms for personal interests or interests of small group of people is disabled except if interaction is organised according to the Freedoms
+- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (send private messages for other representatives)
+- *Subconscious* messaging is disabled
+- voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are disabled
 - messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
 - limitation is 1 message for each representative per day per each group 
-- messaging through other representatives is forbidden 
-- outgoing queue of messages is forbidden 
-- market is forbidden
+- messaging through other representatives is disabled
+- outgoing queue of messages is disabled
+- market is disabled
 - between-representatives communication:
   - individual-individual communication where messages are possible with emotional context
   - individual-group communication where:
@@ -39,13 +40,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
     - nation-group communication is possible under the rule of cooperation-oriented messages only according to challenges we have to pass as specie to reach The Venus Project for everybody of representatives of mankind and these messages are public
     - age-group communication is possible under the principle of "sharing ideas and collaboration" for building knowledge-based society where all the messages are public
 - all messages are sorted by tags and sorted by the relevance by the principle of @CI mechanism according to priorities of the Freedoms
-- messaging through other representatives for @CI mechanisms is forbidden if it's not a matter of life and death
-- threats and expressions of intentions that contradict the Freedoms are forbidden
-- helping to react through @CI mecanisms are forbidden except of memories of reactions
-- make an attention messages are forbidden
+- messaging through other representatives for @CI mechanisms is disabled if it's not a matter of life and death
+- threats and expressions of intentions that contradict the Freedoms are disabled
+- helping to react through @CI mecanisms are disabled except of memories of reactions
+- make an attention messages are disabled
 - feeling messages are forbidden except of messages for doctors psychiatrists
-- make remarks of other representatives is forbidden
+- make remarks of other representatives is disabled
 - helping to react is possible only for children and teenagers which do not know how to react on situations in their life
+- social games structure of messaging is disabled
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

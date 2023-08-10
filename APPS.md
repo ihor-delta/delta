@@ -4,7 +4,7 @@
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
-- all Apps are based on @app.Trinity (software/hardware)
+- all Apps are based on Trinity engine (software/hardware)
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 

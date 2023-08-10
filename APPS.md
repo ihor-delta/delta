@@ -84,11 +84,11 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
-## @app.Greece
+## @app.Greece and Etads Unis
 
-## @app.Sparta
+## @app.Esparta and Ukraine
 
-## @app.Barbarians
+## @app.Barbarians and Russia and Belarusia
 
 ## @app.Asia
 
@@ -96,9 +96,15 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Great Britain
 
-## @app.Africa
+## @app.African Culture
 
 ## @app.India
+
+## @app.Australia
+
+## @app.Islamic World
+
+## @app.Israel Traditions
 
 ## @app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle Country to Country not depending from which country request is sent

@@ -1,4 +1,4 @@
-© 2023 Ihor Budko
+© 2023 Ihor Budko (Ihor Delta)
 
 # Freedoms
 based on DIK (data-information-knowledge) environment including DIK@Ukraine@Belarus@Poland@France@Russia enviroment of responsible for these Freedoms (see Special Freedom For Responsible For These Freedoms)

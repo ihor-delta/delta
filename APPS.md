@@ -95,6 +95,16 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Africa
 
+## @app.India
+
+## @app.Countries Relationships and Attitudes
+
+## @app.Statistics
+- powered by @CI mechanisms
+
+## @app.Security
+- an opportunity to stay anonymous through @CI mechanisms for those who governs the Freedoms and these Apps
+
 ## Clarifications
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms

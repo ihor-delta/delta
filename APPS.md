@@ -106,7 +106,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## @app.Putin and Hannibal
 - interactive analogy
 
-## //@app.Asia and Balance
+## @app.Asia and World War III
 
 ## //@app.bot.America and Monetary System
 

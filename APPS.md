@@ -87,6 +87,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Barbarians
 
+## @app.Asia
+
+## @app.America
+
+## @app.Great Britain
+
+## @app.Africa
+
 ## Clarifications
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms

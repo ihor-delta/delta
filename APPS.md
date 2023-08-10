@@ -106,6 +106,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Israel Traditions
 
+## @app.Leonardo da Vinci
+
+## @app.Jacque Fresco
+
+## @app.Putin
+
 ## @app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle Country to Country not depending from which country request is sent
 

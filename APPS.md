@@ -90,27 +90,27 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Barbarians and Russia and Belarusia
 
-## @app.Asia
+## @app.Asia and Powerty
 
-## @app.America
+## @app.America and Monetary System
 
-## @app.Great Britain
+## @app.Great Britain and Politics
 
-## @app.African Culture
+## @app.African Culture and Wars
 
-## @app.India
+## @app.India and Animals
 
-## @app.Australia
+## @app.Australia and Isolation
 
 ## @app.Islamic World
 
 ## @app.Israel Traditions
 
-## @app.Leonardo da Vinci
+## @app.Leonardo da Vinci and Jacque Fresco
 
-## @app.Jacque Fresco
+## @app.Elon and Rockets
 
-## @app.Putin
+## @app.Putin and Hannibal
 
 ## @app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle Country to Country not depending from which country request is sent

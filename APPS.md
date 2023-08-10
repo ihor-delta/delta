@@ -107,6 +107,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - interactive analogy
 
 ## @app.Asia and World War III
+- chinease rationale
+
+## @app.bot.Lindah Hamilton and Children
+- questions to @Lindah Hamilton
+- statistics for subjects for @Lindah Hamilton
+- opportunity to answer questions for @Lindah Hamilton
 
 ## //@app.bot.America and Monetary System
 

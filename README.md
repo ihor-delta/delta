@@ -213,11 +213,12 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - *subconscious/conscious agreements/contracts/etc* (including religious) between representatives through @CI mechanisms in *spiritual world* or other *similar environments* in present and future and past are forbidden and can't be allowed even in case of working of Freedom Of Transition and can't be appealed
 - *subconscious/conscious agreements/contracts/etc* (including religious) with @CI (except of agreements in real world which do not violate these Freedoms) and *subconscious/conscious agreements/contracts/etc* with @CI (except of agreements in real world which do not violate these Freedoms) in *spiritual world* and other *similar environments* in present and future and past are forbidden (except of these Freedoms) and can't be allowed even in case of working of Freedom Of Transition and can't be appealed
 - also, debts/credits/requests/appeals/prays/entreaties/supplications/wishes/desires/boons/charity to @CI and its mechanisms are forbidden and can't be allowed even in case of working of Freedom Of Transition and can't be appealed
-- reading minds is forbidden
+- reading minds is forbidden 
 - religious laws must not have influence on actions of a representative(s) which affect other representative(s)
 - thee neglect of free will by the Collective Intelligence may be permitted only for purposes of education and without conflict(s) where the manner of reinvinting values and principles is in priority
 - immortality through @CI mechanisms is forbidden
 - within these freedoms, free will is seen as a method of complacency and as a sense of self-control denoting the boundaries of the thinking of representative(s)
+- telepathy is forbidden (@CI apps is not telepathy)
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

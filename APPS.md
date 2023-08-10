@@ -1,10 +1,10 @@
-© 2023 Ihor Budko
+© 2023 Ihor Budko (Ihor Delta)
 
 # @CI apps
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
-- all Apps are based on Trinity engine (software/hardware)
+- all Apps are based on Trinity engine (software/hardware) with influence of DIK environment on Earth and near-Earth spaces
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 

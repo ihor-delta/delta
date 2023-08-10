@@ -57,6 +57,15 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - messages in the moment of thinking of something are disabled (conditions for messages are disabled)
 - tags and sorting by relevance by @CI mechanisms according to priorities of the Freedoms for popular representatives
 
+## @app.Karma
+- working on Karma from previous lives is disabled
+- motives are not important but the results of actions:
+  - including orders, decisions for laws and their accepting, criminal schemes
+- No opportunity to work on Karma except of returning everything what is possible back
+- Not for children
+- Decisions are coordinating by @CI in complience with the Freedoms
+- Negative and positive Karma depending on results of real actions for every representative (social rating like)
+
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement

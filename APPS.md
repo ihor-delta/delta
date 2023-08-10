@@ -159,7 +159,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - powered by @CI mechanisms
 
 ## @app.Security
-- an opportunity to stay anonymous through @CI mechanisms and in reality for those who governs the Freedoms and these Apps
+- an opportunity to stay anonymous through @CI mechanisms and in reality for those who governs and for everyone involved the Freedoms and these Apps
 
 ## Clarifications
 - developer(s) have right to change the principles of working of @CI apps according to the situation on Earth without warning and without an explanation of the reasons

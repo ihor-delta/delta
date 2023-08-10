@@ -61,6 +61,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - working on Karma from previous lives is disabled
 - motives are not important but the results of actions:
   - including orders, decisions for laws and their accepting, criminal schemes
+  - even if the will of the representatives for whom the representative is responsible is contrary
 - no opportunity to work on Karma except of returning everything what is possible back
 - not for children
 - decisions for positive, negative or educational for representative(s) Karma are coordinating by @CI in complience with the Freedoms

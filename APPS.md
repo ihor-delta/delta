@@ -48,6 +48,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - make remarks of other representatives is disabled
 - helping to react is possible only for children and teenagers which do not know how to react on situations in their life
 - social games structure of messaging is disabled
+- behaving like other representative(s) imagine you is disabled
 
 ## @app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety

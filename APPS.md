@@ -6,6 +6,7 @@
 - all apps description is possible only in this document
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
+*Important Clarification*: Freedom Of Transition is ignored by these Apps
 
 ## Age Groups of Representatives
 - babies 0-3 years old

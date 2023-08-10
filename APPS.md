@@ -68,6 +68,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - "intuitive" understanding where is a message
 - speed of delivering messages is one message per minute
 - duration of the message is 10 secs with an opportunity to repeat
+- communication through synchronisation is disabled
 
 ## @app.Karma
 - working on Karma from previous lives is disabled

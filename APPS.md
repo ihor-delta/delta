@@ -28,7 +28,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - social games structure of messaging is disabled
 - available for representatives of mankind from the age of 16
 - interaction with @CI mechanisms for personal interests or interests of small group of people is disabled except if interaction is organised according to the Freedoms
-- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private with an opportunity to make joint chats (send private messages for other representatives)
+- using mecanisms of @CI as messanger available under the principle of *conscious* messaging where all the messages are private
+- joint chats for groups only
 - *Subconscious* messaging is disabled
 - voice messages/movements messages/state messages and atmosphere messages (except of @CI for atmosphere messages) through @CI mecanisms are disabled
 - messages with explaining of situation is allowed under the condition of forming it by @CI mechanisms according to priorities of the Freedoms 
@@ -60,12 +61,20 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - *conscious* dialogues with messages with no lomit are enabled when dialog is in real world
 - messages in the moment of thinking of something are disabled (conditions for messages are disabled)
 - tags and sorting by relevance by @CI mechanisms according to priorities of the Freedoms for popular representatives
+- queue mode when sleeping
+- read later message marking when busy
+- forwarding is disabled
+- action messages are disabled
+- "intuitive" understanding where is a message
+- speed of delivering messages is one message per minute
+- duration of the message is 10 secs with an opportunity to repeat
 
 ## @app.Karma
 - working on Karma from previous lives is disabled
 - motives are not important but the results of actions:
   - including orders, decisions for laws and their accepting, criminal schemes
   - even if the will of the representatives for whom the representative is responsible is contrary
+  - for socially beneficial actions
 - interaction with representative which help a representative to reach/increase negative results for other representatives decreases positive Karma
 - interactions with representative which help a representative to reach/increase positive results for other representatives or to increase educational Karma increase positive Karma
 - no opportunity to work on Karma except of returning everything what is possible back

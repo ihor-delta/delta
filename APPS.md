@@ -69,6 +69,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - speed of delivering messages is one message per minute
 - duration of the message is 10 secs with an opportunity to repeat
 - communication through synchronisation is disabled
+- forget messages are disabled
 
 ## @app.Karma
 - working on Karma from previous lives is disabled
@@ -176,6 +177,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language
 
-## Testers: @Yoda@Mykola Antonchyk@Elon@volunteers
+## Testers: @Yoda@MykolaAntonchyk@Elon@ZL@WolfTeam@Macron
 
 ## Signatures:@TLKAE@CI

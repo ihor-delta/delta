@@ -171,7 +171,8 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - unless the decision contradict to other Freedoms
 - freedom of personal boundaries means freedom from physical and mental influences, if the representative does not want it, excluding situations when this is important for a group or groups of representatives, as well as the influence of society or circumstances on a representative, except for influences aimed at educating a representative
 - collective decision making is possible under the principle of "situative authorities principle based on typology of representatives", where decisions about representative's(s') sphere of employment, characteristics, responsibilities and circumstances is possible only after getting to know the representative(s) by the situative authorities. Collective decisions which affect representative's(s') choice are forbidden.
-- a representative to whome collective decisions are affected makes final decision according to any collective decision consciously and in normal state of mind (without drugs, alcohol, etc) - this decision can also be made by him collectively with his/her relative(s) or friend(s) consciously by the rule of Freedom Of Will.
+  - a representative to whome collective decisions are affected makes final decision according to any collective decision consciously and in normal state of mind (without drugs, alcohol, etc) - this decision can also be made by him collectively with his/her relative(s) or friend(s) consciously by the rule of Freedom Of Will
+  - psychological control over representative which affect personal decisions is forbidden except of decisions which related to collective decisions process in real world
 
 ## Freedom Of Society
 - limit of influence, money, and power for one representative of mankind, enough to satisfy his/her needs and stay responsable according to his/her responsebilities and duties

@@ -231,6 +231,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - telepathy is forbidden (@CI apps is not telepathy)
 - law of Karma works for past/present/future actions for everybody of representatives of mankind and other representatives which are enough intelligent to live with law of Karma in form of @app.Karma where verbal commands/orders/decisions and actions within the framework of responsibility are considered actions. Karma Law is not appliable for @CI mechanisms
 - hypnosis through @CI mechanisms is forbidden
+- life according to concepts different from the concepts of a civilized representative of mankind is forbidden where concepts is about ideas of how civilized representative of mankind acts in different situations
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

@@ -9,7 +9,7 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
 ### I. The Venus Project by Jacque Fresco and Roxane Meadows
 ### II. Distribute principles of these Freedoms
 ### III. Children and Education
-- without propagation of national interests
+- without propagation of national interests and interests of country if those are not in compliance with the principles of these Freedoms
 ### IV. Knowledge of these Freedoms
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation

@@ -180,6 +180,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
   - temporary decisions for other representatives are possible if a representative for which is this decision is able to wait and make decisions related to the temporary decision
   - global collective decision is made of decisions of situative authorities of some problem where decisions about methods of interaction between representatives are able to change situation for better under the condition of knowledge about the situation and circumstances of representatives related to the situation by situative authorities. Works through @CI mechanisms
   - final collective decision can be made only after complience with other situative authorities where their choice do not affect a decision. Final decision can't be made for situation of global problem by the principle of "fractal globality"
+  - decision making by representative(s) of influence on making decisions by other representatives is possible under the condition of making decisions in sphere of activity of representative(s) especially for those who are responsible representatives for making decisions related to other representatives
 
 ## Freedom Of Society
 - limit of influence, money, and power for one representative of mankind, enough to satisfy his/her needs and stay responsable according to his/her responsebilities and duties

@@ -62,6 +62,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - expectations messages are disabled
 - judjement messages are disabled
 
+## @app.Obraz
+- tool for working with cognitive biases
+- inspired by [Obraz.io](https://obraz.io)
 
 ## @app.Karma
 - working on Karma from previous lives is disabled

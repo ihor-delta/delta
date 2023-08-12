@@ -17,6 +17,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - translations as a main task enabled (for economy of resources)
 - unlimited messaging for translators is enabled for @app.Messenger
 - managing of representative by other representatives is disabled
+- sharing passwords and loging opportunity is disabled
 
 ## @app.Trinity.Core.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)
@@ -26,8 +27,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - database of translations
 - permanent working to fullfil database
 
+## @app.Trinity.Translations.Core.Evaluator
+- translating personally by representative when it's possible
+
 ## @app.Trinity.Translations.Core.Relevance
 - sorting translations by relevance according to situation chosing algorythm
+
+## @app.Trinity.Translations.Core.Statistics
+- getting anonymous statistics without names and location by the principle of "situative authorities principle based on typology of representatives" for working of @app.Trinity.Translations.Updater.Future
 
 ## @app.Trinity.Translations.Oscillator
 - adaptive tool which adapt of getting translations from every translator personally
@@ -41,6 +48,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Trinity.Translations.Updater
 - update opportunity for translations for @app.Trinity.Translations.Core
+
+## @app.Trinity.Translations.Updater.Future
+- updating @app.Trinity.Core for future situations according to trends of @app.Trinity.Core priorities and @app.Trinity.Translations.Core.Statistics reports
 
 ## @app.Trinity.Translations.Updater.Representatives.General
 - representatives as translators for general translations keeping anonymity for those whose phrase(s) were translated

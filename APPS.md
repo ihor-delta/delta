@@ -217,7 +217,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## @app.bot.Vision
 - bank of ideas for future vision of our civilization:
   - free relationships by @Guardians
-  - father and mother professions by @LindahHamilton and @TLKAE @Ukraine@USA with ❤️ for children
+  - father and mother professions by @LindahHamilton and @TLKAE with ❤️ for children
+  - technological realisation of challenges by @ElonMusk and @TLKAE
   - adaptive structure of education of young specialists for knowledge-based society by @TLKAE
   - resource-based economy by The Venus Project
 

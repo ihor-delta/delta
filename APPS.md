@@ -156,7 +156,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - adaptive structure of education of young specialists for knowledge-based society by @TLKAE
   - resource-based economy by The Venus Project
 
-## @app.bot.interactive.Luhman and Moturano
+## @app.bot.interactive.Luhmann and Moturano
 - theory of systems
 
 ## @app.The Venus Project and Culture

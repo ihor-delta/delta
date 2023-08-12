@@ -13,6 +13,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Trinity
 - to help representatives to satisfy their needs
+- messages when a representative is in the resting state are disabled
 
 ## @app.Trinity.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)

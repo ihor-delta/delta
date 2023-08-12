@@ -70,6 +70,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Messenger.Music
 - groups by songs
+- unlimited messages
 
 ## @app.Obraz
 - tool for working with cognitive biases

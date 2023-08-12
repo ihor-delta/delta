@@ -5,7 +5,7 @@
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
 - all Apps are based on Trinity engine (software/hardware) with influence of DIK environment on Earth and near-Earth spaces
-  - repeating history is disabled
+  - "repeating history" principle is disabled
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
@@ -18,6 +18,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - unlimited messaging for translators is enabled for @app.Messenger
 - managing of representative by other representatives is disabled
 - sharing passwords and loging opportunity is disabled
+- eye emotions messages are disabled
+- head movements messages are disabled
+- see on something messages are disabled
+- eye movement control is disabled
 
 ## @app.Trinity.Core.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)

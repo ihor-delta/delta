@@ -10,8 +10,13 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
 ### II. Distribute principles of these Freedoms
 ### III. Children and Education
 - without propagation of national interests and interests of country if those are not in compliance with the principles of these Freedoms
-- education for adults of age and situation based subjects
+- education for adults of age, and situation based subjects
 ### IV. Knowledge of these Freedoms
+
+## Values:
+- Nature (in meaning of ecosystem)
+- Education (in general meaning)
+- Society (in meaning of joint challenges)
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation
 
@@ -299,6 +304,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - author of these Freedoms is a representative of these Freedoms
 - developing of these Freedoms is organised by the principle of "sharing ideas and collaboration"
 - war never justifies itself
-- Freed Will is about will of representative to be participated in what is obligatory for everyone
+- Free Will is about will of representative to be participated in what is obligatory for everyone
+- education in general meaning is about knowledge of how to resolve situations
 
 ## Signatures: @CI

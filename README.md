@@ -45,6 +45,15 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
     - status in society(invalid, veteran, etc.)
     - context of thinking
     - age group
+      - babies 0-3 years old
+      - children 0-13 years old
+      - teenagers 13-16 years old
+      - young 16-21 years old
+      - young adult 21-25 years old
+      - adult 25-40 years old
+      - old adults 40-65 years old
+      - very old adults 65-80 years old
+      - centenarians 80+
     - generation
     - country
     - general education level

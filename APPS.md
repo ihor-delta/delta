@@ -68,6 +68,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - expectations messages are disabled
 - judjement messages are disabled
 
+## @app.Messenger.Music
+- groups by songs
+
 ## @app.Obraz
 - tool for working with cognitive biases
 - inspired by [Obraz.io](https://obraz.io)

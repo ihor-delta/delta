@@ -11,12 +11,49 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition is ignored by these Apps
 
-## @app.Trinity
+## @app.Trinity.Core
 - to help representatives to satisfy their needs
 - messages when a representative is in the resting state are disabled
+- translations as a main task enabled (for economy of resources)
+- unlimited messaging for translators is enabled for @app.Messenger
 
-## @app.Trinity.Tips
+## @app.Trinity.Core.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)
+
+## @app.Trinity.Translations.Core
+- core database with situations
+- database of translations
+- permanent working to fullfil database
+
+## @app.Trinity.Translations.Core.Relevance
+- sorting translations by relevance according to situation chosing algorythm
+
+## @app.Trinity.Translations.Oscillator
+- adaptive tool which adapt of getting translations from every translator personally
+- paper way is preffered
+- intuitive way of working on mistakes
+- saving form of phrase or sentance(s)
+
+## @app.Trinity.Translations.Distribution
+- distributed translating is enabled
+- works for separate words only
+
+## @app.Trinity.Translations.Updater
+- update opportunity for translations for @app.Trinity.Translations.Core
+
+## @app.Trinity.Translations.Updater.Representatives.General
+- representatives as translators for general translations keeping anonymity for those whose phrase(s) were translated
+- at free time
+
+## @app.Trinity.Translations.Updater.Representatives.General.Google Translate
+- opportunity to translate anonymous phrases in Google Translate
+
+## @app.Trinity.Translations.Updater.Representatives.Situations
+- anonymous situations reports for translators for translations
+- at free time
+
+## @app.Trinity.Translations.Updater.Representatives.Situations.Google Translate
+- using Google Translate for translators to translate for anonymous situations
 
 ## @app.Messenger
 - messaging is possible in free time chosen by each representative personally
@@ -68,6 +105,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - forget messages are disabled
 - expectations messages are disabled
 - judjement messages are disabled
+
+## @app.Messenger.Translations.TrinityCore
+- using @app.Trinity.Translations.Core for translations
 
 ## @app.Messenger.Music
 - groups by songs

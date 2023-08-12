@@ -103,13 +103,13 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
 ## @app.Greece and Etads Unis
-- interactive analogy
+- interactive analogy according to war in Ukraine
 
 ## @app.Esparta and Ukraine
-- interactive analogy
+- interactive analogy according to war in Ukraine
 
 ## @app.Barbarians and Russia and Belarusia
-- interactive analogy
+- interactive analogy according to war in Ukraine
 
 ## @app.Putin and Hannibal
 - interactive analogy
@@ -143,7 +143,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - lectures about everything
 - without personal information about related representatives for Jacque Fresco
 
-## @app.bot.Elon and Rockets and AI
+## @app.bot.Elon Musk and Rockets and AI
 - it's not a time to go to space
 - without personal information
 
@@ -185,7 +185,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language
 
-## Testers: @Yoda@MykolaAntonchyk@Elon@ZL@WolfTeam@Macron@TheVenusProject
+## Testers: @Yoda@MykolaAntonchyk@ElonMusk@ZL@WolfTeam@Macron@TheVenusProject@MarshallBruce@TLKAE@
 - testers have unlimited communication opportunity
 
 ## Signatures:@TLKAE@CI

@@ -16,6 +16,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - messages when a representative is in the resting state are disabled
 - translations as a main task enabled (for economy of resources)
 - unlimited messaging for translators is enabled for @app.Messenger
+- managing of representative by other representatives is disabled
 
 ## @app.Trinity.Core.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)

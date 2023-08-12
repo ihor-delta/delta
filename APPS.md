@@ -11,6 +11,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition is ignored by these Apps
 
+## @app.Trinity
+- to help representatives to satisfy their needs
+
+## @app.Trinity.Tips
+- to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)
+
 ## @app.Messenger
 - messaging is possible in free time chosen by each representative personally
 - messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI mechanisms
@@ -90,9 +96,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
-
-## @app.Trinity
-- to help representatives to satisfy their needs and pass through challenges
 
 ## @app.Greece and Etads Unis
 - interactive analogy

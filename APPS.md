@@ -88,6 +88,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
+## @app.Trinity
+- to help representatives to satisfy their needs and pass through challenges
+
 ## @app.Greece and Etads Unis
 - interactive analogy
 
@@ -169,6 +172,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - priorities in delivering messages are coordinated by @CI mechanisms according to priorities of the Freedoms
 - translation of messages realized through @CI mechanisms for representative recipient's native language
 
-## Testers: @Yoda@MykolaAntonchyk@Elon@ZL@WolfTeam@Macron
+## Testers: @Yoda@MykolaAntonchyk@Elon@ZL@WolfTeam@Macron@TheVenusProject
+- testers have unlimited communication opportunity
 
 ## Signatures:@TLKAE@CI

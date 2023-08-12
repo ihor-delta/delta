@@ -67,6 +67,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - using Google Translate for translators to translate for anonymous situations
 
 ## @app.Messenger
+- say something messages are disabled
 - messaging is possible in free time chosen by each representative personally
 - messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI mechanisms
 - social games structure of messaging is disabled

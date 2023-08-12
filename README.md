@@ -274,6 +274,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - changing principles of these Freedoms is impossible. Only Responsible For These Freedoms have right for this.
 - any representative is not able to change these Freedoms personally for himself/herself
 - this process must be organised consciously
+- Freedom Of Transition also applied when The Venus Project is providing
 
 ### Important clarifications:
 - the whole society of representatives of mankind is guilty of creating outcasts between representatives of mankind

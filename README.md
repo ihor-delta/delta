@@ -10,6 +10,7 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
 ### II. Distribute principles of these Freedoms
 ### III. Children and Education
 - without propagation of national interests and interests of country if those are not in compliance with the principles of these Freedoms
+- education for adults of age and situation based subjects
 ### IV. Knowledge of these Freedoms
 
 ## Priorities in duty to follow these Freedoms depends on the context of the situation

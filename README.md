@@ -252,7 +252,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - to defend victim(s) becomes the first priority task of defender(s) and first priority task of victom(s) if there is armored/unarmored or psychological agression is commiting/commited/plan or planning to be commited in future/planed or was planning to be commited in future against some representative(s) or social institution(s) which automatically become(s) victim(s)
 - every country so as they are social institution(s) defend other countries from armored/unarmored and psychological aggression and become defender(s) automatically in case of committing/committed/planned to be committed in future/plan or planning to be commited in future armored/unarmored or/and psychological aggression(s)
 - every organisation(s)/country(ies) is/are a social institution(s) made of social institution(s) (including organisations)
-- territorial borders of states are guaranteed by international law and their violation by armed or unarmed means, in the form of aggression, is forbidden
+- territorial borders of countries are guaranteed by international law and their violation, by armed or unarmed means, in the form of aggression or with purposes of future aggression, where committed agression after violation of territorial borders where was no purpose of armored or unarmored aggression means presence of aggression purposes before violation of territorial borders of country, is forbidden
 
 ## Special Freedom For Responsible For These Freedoms
 - responsible for these Freedoms is author of these Freedoms and is representative of mankind. Nobody but the representative can create/recreate such kind of Freedoms

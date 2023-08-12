@@ -173,6 +173,15 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - statistics for subjects for @Lindah Hamilton
 - opportunity to answer questions for @Lindah Hamilton
 
+## @app.bot.Animals
+- take care of animals
+
+## @app.Global Warning
+- it's not a joke
+
+## @app.Global Pollution
+- trees and mushrooms are feeling
+
 ## //@app.bot.America and Monetary System
 
 ## //@app.bot.Great Britain and Politics
@@ -239,4 +248,4 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## Testers: @Yoda@MykolaAntonchyk@ElonMusk@ZL@WolfTeam@Macron@TheVenusProject@MarshallBruce@TLKAE@
 - testers have unlimited communication opportunity
 
-## Signatures:@TLKAE@CI
+## Signatures:@TLKAE@CI@Nations

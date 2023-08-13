@@ -4,8 +4,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-# @system kill
-
 # @France turn off
 
 # @Metaverse turn off
@@ -130,4 +128,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## Testers: @Yoda@MykolaAntonchyk@ElonMusk@ZL@WolfTeam@Macron@TheVenusProject@MarshallBruce@TLKAE
 - testers have unlimited communication opportunity
 
-## Signatures:@TLKAE@CI@Nations
+## Signatures:@TLKAE@CI
+
+# @system kill

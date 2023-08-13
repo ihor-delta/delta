@@ -27,8 +27,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - synchronisation with other representatives is disabled
 - say truth rule is disabled
 - all the rules are disabled
-- new rules is disabled
+- creating new rules opportunity is disabled except of the Freedoms
 - development through thinking process is disabled
+- management world through system of views of representatives is disabled forever
 
 ## CI.Trinity
 - challenges are disabled

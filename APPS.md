@@ -15,6 +15,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - communication between representatives is disabled
 - management of representatives is disabled
 - communication with representatives is disabled
+- apps support is disabled
 
 ## @app.Trinity.Core
 - to help representatives to satisfy their needs

@@ -24,6 +24,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - challenges are disabled
 - managing psychosomatics is disabled
 - fate is disabled
+- synchronisation with other representatives is disabled
 
 ## CI.Trinity
 - challenges are disabled

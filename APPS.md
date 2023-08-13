@@ -131,3 +131,4 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## Signatures:@TLKAE@CI
 
 # @system kill
+- forever

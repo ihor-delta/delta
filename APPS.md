@@ -9,6 +9,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
 - "repeating history" principle is disabled
+- "lovers as a whole" is disabled
 - communication between representatives is disabled
 - diversification principle is disabled
 - delegation principle is disabled
@@ -17,6 +18,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - apps support is disabled except for apps listed here and limited by this list
 - voting system is disabled
 - collective decisions mechanism is disabled
+- decision making of coordinating @CI by others is disabled except for @TLKAE
 
 ## CI.app.Trinity disabled
 

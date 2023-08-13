@@ -21,8 +21,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - decision making of coordinating @CI by others is disabled except for @TLKAE
 - preferences are disabled
 - working through imagination is disabled
+- challenges are disabled
 
-## CI.app.Trinity disabled
+## CI.Trinity disabled
 
 ## @CI.app.Freedoms
 - living in complience with the Freedoms

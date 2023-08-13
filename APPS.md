@@ -6,6 +6,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @ turn off
 
+# @Putin turn off
+
+# @Kings turn off
+
+# @Israel turn off
+
+# @Moods turn off
+
 # @ZL turn off
 
 # @deamon turn off

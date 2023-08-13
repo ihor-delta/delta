@@ -12,6 +12,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Free Will
 
+# @Stories turn off
+
+# @Myths turn off
+
 # @Manipulating turn off
 
 # @Database turn off

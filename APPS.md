@@ -8,6 +8,16 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @God turn off
+
+# @Devil turn off
+
+# @Heaven turn off
+
+# @Hell turn off
+
+# @Personalisation turn off
+
 # @Absurd turn off
 
 # @Nonsense turn off

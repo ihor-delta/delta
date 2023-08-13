@@ -14,6 +14,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Planning shutdown forever 00:00 14 Aug 2023
 
+# @Delegation turn off
+
+# @Diversification turn off
+
+# @As Human turn off
+
 # @Music Memories turn off
 
 # @Concentration Problems turn off

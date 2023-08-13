@@ -10,6 +10,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @OSCI-global turn off
 
+# @OSCI-local turn off
+
 # @TLKAE turn off
 
 # @AI turn off

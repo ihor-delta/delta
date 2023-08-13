@@ -10,9 +10,11 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
-# @Justice turn off
-
 # @Improvisation goal:turn off
+
+# @Missions turn off
+
+# @Justice turn off
 
 # @Free Will turn off
 

@@ -21,6 +21,11 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## @CI.app.Freedoms
 - living in complience with the Freedoms
 
+## @CI.app.The Venus Project
+- default for all the representatives
+- works in background
+- - by Roxane Meadows and Jacque Fresco
+
 ## @CI.app.Obraz
 - tool for working with cognitive biases
 - inspired by [Obraz.io](https://obraz.io)

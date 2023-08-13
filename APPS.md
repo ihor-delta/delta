@@ -15,6 +15,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - opportunity to create new apps through @CI mechanisms is disabled
 - AI is disabled
 - apps support is disabled except for apps listed here
+- voting system is disabled
 
 ## CI.app.Trinity disabled
 

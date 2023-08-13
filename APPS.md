@@ -4,6 +4,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
+# @Observer turn off
+
 # @Intuition turn off
 
 # @OSCI-global turn off

@@ -8,6 +8,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @Navigation turn off
+
+# @Intuition turn off
+
 # @App Maker turn off
 
 # @Hallucinations turn off

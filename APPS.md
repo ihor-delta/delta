@@ -12,6 +12,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Free Will
 
+# @Music turn off
+
 # @Stories turn off
 
 # @Myths turn off

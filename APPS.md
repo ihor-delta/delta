@@ -8,7 +8,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @system shutdown self-destruction
 
-# @Turn Off Helper
+# @TurnOff Helper
 
 # @Improvisation goal:turn off
 

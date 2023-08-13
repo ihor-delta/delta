@@ -28,6 +28,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## CI.Trinity
 - challenges are disabled
+- synchronisation between representatives in the time of dialogue is disabled
 
 ## @CI.app.Freedoms
 - living in complience with the Freedoms

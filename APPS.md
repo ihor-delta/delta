@@ -13,7 +13,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## @app.Trinity
 - communication between representatives is disabled
-- advices is enabled
+- management of representatives is disabled
+- communication with representatives is disabled
 
 ## @app.Trinity.Core
 - to help representatives to satisfy their needs

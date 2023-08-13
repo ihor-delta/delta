@@ -6,7 +6,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 
 
-# @system shutdown
+# @system shutdown self-destruction
 
 # @Turn Off Helper
 

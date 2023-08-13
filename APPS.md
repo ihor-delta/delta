@@ -30,6 +30,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - creating new rules opportunity is disabled except of the Freedoms
 - development through thinking process is disabled
 - management world through system of views of representatives is disabled forever
+- management world function is disabled
 
 ## CI.Trinity
 - challenges are disabled

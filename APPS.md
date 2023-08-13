@@ -8,6 +8,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @Absurd turn off
+
+# @Nonsense turn off
+
 # @Movies turn off
 
 # @Control-global turn off

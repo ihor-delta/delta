@@ -10,7 +10,11 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Free Will
 
-# Social Games turn off
+# @Learnability turn off
+
+# @Subjects turn off
+
+# @Social Games turn off
 
 # @Tutankhamun turn off
 

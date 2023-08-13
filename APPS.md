@@ -11,6 +11,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition is ignored by these Apps
 
+## @app.Trinity
+- communication between representatives is disabled
+- advices is enabled
+
 ## @app.Trinity.Core
 - to help representatives to satisfy their needs
 - messages when a representative is in the resting state are disabled

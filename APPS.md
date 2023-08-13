@@ -24,7 +24,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 ## @CI.app.The Venus Project
 - default for all the representatives
 - works in background
-- - by Roxane Meadows and Jacque Fresco
+  - by Roxane Meadows and Jacque Fresco
 
 ## @CI.app.Obraz
 - tool for working with cognitive biases

@@ -6,6 +6,7 @@
 - all apps description is possible only in this document
 - all Apps are based on Trinity engine (software/hardware) with influence of DIK environment on Earth and near-Earth spaces
   - "repeating history" principle is disabled
+  - support of apps is disabled
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 

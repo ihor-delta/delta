@@ -6,6 +6,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @ turn off
 
+# @Competition turn off
+
 # @Personalities turn off
 
 # @Putin turn off

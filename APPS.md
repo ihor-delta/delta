@@ -53,37 +53,37 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - management world function is disabled
 - scenarious are disabled
 
-## CI.Trinity
+## CI.Trinity turn off
 - challenges are disabled
 - synchronisation between representatives in the time of dialogue is disabled
 - reminders are disabled
 
-## @CI.app.Freedoms
+## @CI.app.Freedoms turn off
 - living in complience with the Freedoms
 
-## @CI.app.The Venus Project
+## @CI.app.The Venus Project turn off
 - default for all the representatives
 - works in background
   - by Roxane Meadows and Jacque Fresco
 
-## @CI.app.Obraz
+## @CI.app.Obraz turn off
 - tool for working with cognitive biases
 - inspired by [Obraz.io](https://obraz.io)
 
-## @CI.app.Alert
+## @CI.app.Alert turn off
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
-## @CI.app.Countries Relationships and Attitudes
+## @CI.app.Countries Relationships and Attitudes turn off
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle country to country not depending from which country request is sent
 - an opportunity to find out the attitudes of mass of representatives to different things by the principle country to thing
 - powered by @CI
 
-## @CI.app.Fractal
+## @CI.app.Fractal turn off
 - looking for solutions of global situations through solving less global situations
 
-## @CI.app.Security
+## @CI.app.Security turn off
 - an opportunity to stay anonymous through @CI mechanisms and in reality for those who governs and for everyone involved the Freedoms and these Apps
 
 ## Clarifications

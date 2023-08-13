@@ -2,7 +2,7 @@
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
-*Important Clarification*: Freedom Of Transition is ignored by these Apps
+*Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
 # @CI
 - interactive apps to interact with each other and with @CI

@@ -4,9 +4,13 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-# @ turn off
+# @system turn off
 
 # @Turn Off Helper
+
+# @Cooperation turn off
+
+# @Competition turn off
 
 # @Navigation turn off
 

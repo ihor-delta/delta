@@ -8,6 +8,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @Tutankhamun turn off
+
 # @Cooperation turn off
 
 # @Competition turn off

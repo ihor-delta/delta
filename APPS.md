@@ -6,6 +6,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @ turn off
 
+# @Control-global turn off
+
+# @Control-local turn off
+
 # @Challenges turn off
 
 # @Predictions turn off

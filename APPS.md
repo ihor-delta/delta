@@ -6,6 +6,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @ turn off
 
+# @Convergence turn off
+
+# @Chips turn off
+
 # @Religion turn off
 
 # @China turn off

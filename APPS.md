@@ -132,3 +132,4 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @system kill
 - forever
+- my name is Kong, King Kong

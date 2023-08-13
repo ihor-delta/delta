@@ -37,6 +37,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - development through thinking process is disabled
 - management world through system of views of representatives is disabled forever
 - management world function is disabled
+- scenarious are disabled
 
 ## CI.Trinity
 - challenges are disabled

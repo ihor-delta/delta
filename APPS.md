@@ -19,6 +19,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - voting system is disabled
 - collective decisions mechanism is disabled
 - decision making of coordinating @CI by others is disabled except for @TLKAE
+- preferences are disabled
+- working through imagination is disabled
 
 ## CI.app.Trinity disabled
 

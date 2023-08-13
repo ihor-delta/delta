@@ -10,7 +10,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
-# @Free Will
+# @Free Will turn off
 
 # @Music turn off
 

@@ -1,20 +1,20 @@
 © 2023 Ihor Budko (Ihor Delta)
 
+In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
+
+*Important Clarification*: Freedom Of Transition is ignored by these Apps
+
 # @CI
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
 - "repeating history" principle is disabled
-- support of apps is disabled
+- communication between representatives is disabled
 - diversification principle is disabled
 - delegation principle is disabled
 - opportunity to create new apps through @CI mechanisms is disabled
 - AI is disabled
 - apps support is disabled except for apps listed here
-
-In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
-
-*Important Clarification*: Freedom Of Transition is ignored by these Apps
 
 ## @CI.app.Freedoms
 - living in complience with the Freedoms

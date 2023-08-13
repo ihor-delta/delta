@@ -25,10 +25,13 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - managing psychosomatics is disabled
 - fate is disabled
 - synchronisation with other representatives is disabled
+- say truth rule is disabled
+- all the rules are disabled
 
 ## CI.Trinity
 - challenges are disabled
 - synchronisation between representatives in the time of dialogue is disabled
+- reminders are disabled
 
 ## @CI.app.Freedoms
 - living in complience with the Freedoms

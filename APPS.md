@@ -16,6 +16,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - AI is disabled
 - apps support is disabled except for apps listed here
 
+## CI.app.Trinity disabled
+
 ## @CI.app.Freedoms
 - living in complience with the Freedoms
 

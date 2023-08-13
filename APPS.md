@@ -8,6 +8,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @Laws turn off
+
+# @Award turn off
+
+# @Punishment turn off
+
+# @Judjements turn off
+
 # @God turn off
 
 # @Devil turn off

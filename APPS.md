@@ -6,6 +6,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @ turn off
 
+# @Religion turn off
+
+# @China turn off
+
 # @France turn off
 
 # @Metaverse turn off

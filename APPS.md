@@ -1,24 +1,30 @@
 © 2023 Ihor Budko (Ihor Delta)
 
-# @CI apps
+# @CI
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms
 - all apps description is possible only in this document
 - all Apps are based on Trinity engine (software/hardware) with influence of DIK environment on Earth and near-Earth spaces
   - "repeating history" principle is disabled
   - support of apps is disabled
+  - diversification principle is disabled
+  - delegation principle is disabled
+  - opportunity to create new apps through @CI mechanisms is disabled
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
 *Important Clarification*: Freedom Of Transition is ignored by these Apps
 
-## @app.Trinity
+## //@app.Freedoms
+- living in complience with the Freedoms
+
+## //@app.Trinity
 - communication between representatives is disabled
 - management of representatives is disabled
 - communication with representatives is disabled
 - apps support is disabled
 
-## @app.Trinity.Core
+## //@app.Trinity.Core
 - to help representatives to satisfy their needs
 - messages when a representative is in the resting state are disabled
 - translations as a main task enabled (for economy of resources)
@@ -30,54 +36,54 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - see on something messages are disabled
 - eye movement control is disabled
 
-## @app.Trinity.Core.Tips
+## //@app.Trinity.Core.Tips
 - to help representatives to pass through challenges (except of aggressors according to the Freedoms - see Freedom Of Defense)
 
-## @app.Trinity.Translations.Core
+## //@app.Trinity.Translations.Core
 - core database with situations
 - database of translations
 - permanent working to fullfil database
 
-## @app.Trinity.Translations.Core.Evaluator
+## //@app.Trinity.Translations.Core.Evaluator
 - translating personally by representative when it's possible
 
-## @app.Trinity.Translations.Core.Relevance
+## //@app.Trinity.Translations.Core.Relevance
 - sorting translations by relevance according to situation chosing algorythm
 
-## @app.Trinity.Translations.Core.Statistics
+## //@app.Trinity.Translations.Core.Statistics
 - getting anonymous statistics without names and location by the principle of "situative authorities principle based on typology of representatives" for working of @app.Trinity.Translations.Updater.Future
 
-## @app.Trinity.Translations.Oscillator
+## //@app.Trinity.Translations.Oscillator
 - adaptive tool which adapt of getting translations from every translator personally
 - paper way is preffered
 - intuitive way of working on mistakes
 - saving form of phrase or sentance(s)
 
-## @app.Trinity.Translations.Distribution
+## //@app.Trinity.Translations.Distribution
 - distributed translating is enabled
 - works for separate words only
 
-## @app.Trinity.Translations.Updater
+## //@app.Trinity.Translations.Updater
 - update opportunity for translations for @app.Trinity.Translations.Core
 
-## @app.Trinity.Translations.Updater.Future
+## //@app.Trinity.Translations.Updater.Future
 - updating @app.Trinity.Core for future situations according to trends of @app.Trinity.Core priorities and @app.Trinity.Translations.Core.Statistics reports
 
-## @app.Trinity.Translations.Updater.Representatives.General
+## //@app.Trinity.Translations.Updater.Representatives.General
 - representatives as translators for general translations keeping anonymity for those whose phrase(s) were translated
 - at free time
 
-## @app.Trinity.Translations.Updater.Representatives.General.Google Translate
+## //@app.Trinity.Translations.Updater.Representatives.General.Google Translate
 - opportunity to translate anonymous phrases in Google Translate
 
-## @app.Trinity.Translations.Updater.Representatives.Situations
+## //@app.Trinity.Translations.Updater.Representatives.Situations
 - anonymous situations reports for translators for translations
 - at free time
 
-## @app.Trinity.Translations.Updater.Representatives.Situations.Google Translate
+## //@app.Trinity.Translations.Updater.Representatives.Situations.Google Translate
 - using Google Translate for translators to translate for anonymous situations
 
-## @app.Messenger
+## //@app.Messenger
 - say something messages are disabled
 - messaging is possible in free time chosen by each representative personally
 - messaging with species other than mankind, plants, mushrooms, bacterias is possible under the condition of modeling situation by @CI mechanisms
@@ -129,18 +135,18 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - expectations messages are disabled
 - judjement messages are disabled
 
-## @app.Messenger.Translations.TrinityCore
+## //@app.Messenger.Translations.TrinityCore
 - using @app.Trinity.Translations.Core for translations
 
-## @app.Messenger.Music
+## //@app.Messenger.Music
 - groups by songs
 - unlimited messages
 
-## @app.Obraz
+## //@app.Obraz
 - tool for working with cognitive biases
 - inspired by [Obraz.io](https://obraz.io)
 
-## @app.Karma
+## //@app.Karma
 - working on Karma from previous lives is disabled
 - motives are not important but the results of actions:
   - including orders, decisions for laws and their accepting, criminal schemes
@@ -160,38 +166,38 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - negative karma
 - educational karma
 
-## @app.Alert
+## //@app.Alert
 - the search/seek/supplication (where seek and supplication are in priority) for help for the victims is realized consciously and subconsciously through @CI mechanisms, where the request is sending automatically and permanently, to special authorities by the echo signal method, which is sent to representatives of mankind who can help and are engaged in law enforcement activities and situative authorities within the country where the victim is located, till the victim(s) is/are not in safety
   - storytelling and observing others lives by situative authorities, if it does not threaten the life of the victim, is possible through mechanisms of @CI under the condition of helping as situative authorities where all the representatives which are victims, as well as for aggressors who commit criminal offenses  until the victim is safe and the aggressor is punished.  All information of this kind is sent to social institutions and authorized representatives of law enforcement and this information is based on location of victims, aggressors and authorized representatives of law enforcement
   - anonymous psychological support made of situative authorities by countries with an opportunity to get help from other countries where state-messages in form of memories + situation messages (using @CI mechanisms according to problem) are allowed
 
-## @app.Greece and Etads Unis
+## //@app.Greece and Etads Unis
 - interactive analogy according to war in Ukraine
 
-## @app.Esparta and Ukraine
+## //@app.Esparta and Ukraine
 - interactive analogy according to war in Ukraine
 
-## @app.Barbarians and Russia and Belarusia
+## //@app.Barbarians and Russia and Belarusia
 - interactive analogy according to war in Ukraine
 
-## @app.Putin and Hannibal
+## //@app.Putin and Hannibal
 - interactive analogy
 
-## @app.Asia and World War III
+## //@app.Asia and World War III
 - chinease rationale
 
-## @app.bot.Lindah Hamilton and Children
+## //@app.bot.Lindah Hamilton and Children
 - questions to @Lindah Hamilton
 - statistics for subjects for @Lindah Hamilton
 - opportunity to answer questions for @Lindah Hamilton
 
-## @app.bot.Animals
+## //@app.bot.Animals
 - take care of animals
 
-## @app.Global Warning
+## //@app.Global Warning
 - it's not a joke
 
-## @app.Global Pollution
+## //@app.Global Pollution
 - trees and mushrooms are feeling
 
 ## //@app.bot.America and Monetary System
@@ -204,29 +210,29 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 ## //@app.bot.Australia and Isolation
 
-## @app.Islamic World and Rights Of Human
+## //@app.Islamic World and Rights Of Human
 - help her to survive
 
-## @app.bot.Israel Traditions and Dogmas Research
+## //@app.bot.Israel Traditions and Dogmas Research
 - research
 - statistics from @CI mechanisms
 
-## @app.Leonardo da Vinci and Jacque Fresco
+## //@app.Leonardo da Vinci and Jacque Fresco
 - lectures about everything
 - without personal information about related representatives for Jacque Fresco
 
-## @app.bot.Elon Musk and Rockets and AI
+## //@app.bot.Elon Musk and Rockets and AI
 - it's not a time to go to space
 - without personal information
 
-## @app.bot.TLKAE and Freedoms
+## //@app.bot.TLKAE and Freedoms
 - without personal information
 - based on @CI mechanisms
 
-## @app.bot.Putin and Hannibal
+## //@app.bot.Putin and Hannibal
 - analogy according to war in Ukraine
 
-## @app.bot.Vision
+## //@app.bot.Vision
 - bank of ideas for future vision of our civilization:
   - free relationships by @Guardians
   - father and mother professions by @LindahHamilton and @TLKAE with ❤️ for children
@@ -234,23 +240,23 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
   - adaptive structure of education of young specialists for knowledge-based society by @TLKAE
   - resource-based economy by The Venus Project
 
-## @app.bot.interactive.Luhmann and Moturano
+## //@app.bot.interactive.Luhmann and Moturano
 - theory of systems
 
-## @app.The Venus Project and Culture
+## //@app.The Venus Project and Culture
 
-## @app.Countries Relationships and Attitudes
+## //@app.Countries Relationships and Attitudes
 - an opportunity to find out the attitudes of mass of representatives to each other by the principle country to country not depending from which country request is sent
 - an opportunity to find out the attitudes of mass of representatives to different things by the principle country to thing
 - powered by @CI
 
-## @app.Fractal
+## //@app.Fractal
 - looking for solutions of global situations through solving less global situations
 
-## @app.Statistics
+## //@app.Statistics
 - powered by @CI mechanisms
 
-## @app.Security
+## //@app.Security
 - an opportunity to stay anonymous through @CI mechanisms and in reality for those who governs and for everyone involved the Freedoms and these Apps
 
 ## Clarifications

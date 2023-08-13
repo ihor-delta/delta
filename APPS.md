@@ -10,6 +10,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Free Will
 
+# @Manipulating turn off
+
 # @Database turn off
 
 # @Learnability turn off

@@ -8,6 +8,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Turn Off Helper
 
+# @Free Will
+
 # Social Games turn off
 
 # @Tutankhamun turn off

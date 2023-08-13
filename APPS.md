@@ -23,7 +23,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 - working through imagination is disabled
 - challenges are disabled
 
-## CI.Trinity disabled
+## CI.Trinity
+- challenges are disabled
 
 ## @CI.app.Freedoms
 - living in complience with the Freedoms

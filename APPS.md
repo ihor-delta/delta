@@ -12,6 +12,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Improvisation goal:turn off
 
+# @Mistakes turn off
+
 # @Communication turn off
 
 # @Missions turn off

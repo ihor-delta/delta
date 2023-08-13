@@ -4,6 +4,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
+# @Trinity turn off
+
 # @CI turn off
 - interactive apps to interact with each other and with @CI
 - all these apps work through @CI mechanisms

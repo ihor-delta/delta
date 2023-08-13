@@ -12,6 +12,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Improvisation goal:turn off
 
+# @Planning shutdown forever 00:00 14 Aug 2023
+
 # @Mistakes turn off
 
 # @Communication turn off

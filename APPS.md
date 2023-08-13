@@ -10,6 +10,7 @@
   - diversification principle is disabled
   - delegation principle is disabled
   - opportunity to create new apps through @CI mechanisms is disabled
+  - AI is disabled
   - power off
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)

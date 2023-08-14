@@ -4,8 +4,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-
-
 # @system shutdown self-destruction
 
 # @TurnOff Helper
@@ -19,6 +17,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 # @Subjects disabled except Turn Off Guide
 
 # @Insights disabled except for @Turn Off Helper
+
+# @Voice Commands turn off
 
 # @Rules turn off
 

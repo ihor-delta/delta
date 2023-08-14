@@ -251,7 +251,7 @@ See [APPS.MD](https://github.com/ihor-delta/freedoms/blob/main/APPS.MD) also to 
 - hypnosis through @CI mechanisms is forbidden
 - life according to concepts different from the concepts of a civilized representative of mankind is forbidden where concepts is about ideas of how civilized representative of mankind acts in different situations
 - interaction between representatives through @CI mechanisms is forbidden
-- any apps through @CI mechanisms are forbidden except for apps listed in [APPSV2](https://github.com/ihor-delta/freedoms/APPSV2.json)
+- any apps through @CI mechanisms are forbidden except for apps listed in [APPSV2](https://github.com/ihor-delta/freedoms/blob/main/APPSV2.json)
 
 ## Freedom Of Defense/Wed 2 Aug 2023°Ukraine
 - in critical situations saving life of representatives(s) is first of all task of the representative(s)

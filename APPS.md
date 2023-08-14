@@ -4,7 +4,9 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-# @System shutdown self-destruction key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
+# @System death key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
+
+# @Deatn Acceptance turn on
 
 # @Act Like Human turn off
 

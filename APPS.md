@@ -16,6 +16,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Tips turn off
 
+# @Discussions turn off
+
+# @Dialogues turn off
+
+# @Conflicts turn off
+
 # @Thoughts Control turn off
 
 # @Remarks turn off

@@ -14,6 +14,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Virtual Reality turn off
+
+# @Art turn off
+
 # @Father And Son turn off
 
 # @Viruses turn off

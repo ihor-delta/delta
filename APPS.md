@@ -14,6 +14,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Computer turn off
+
 # @Preferences turn off
 
 # @Virtual Reality turn off

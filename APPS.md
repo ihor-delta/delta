@@ -16,6 +16,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Sacrifice turn off
 
+# @Conscious Communication turn off
+
 # @Subconscious Communication turn off
 
 # @Chappy turn off

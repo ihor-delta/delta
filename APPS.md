@@ -12,7 +12,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Improvisation goal:turn off the system
 
-# @Planning shutdown forever 00:00 14 Aug 2023 
+# @Planning shutdown forever 00:00 15 Aug 2023 
 
 # @Exceptions disabled except for @IhorBudko
 

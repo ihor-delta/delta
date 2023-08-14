@@ -6,6 +6,14 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @IhorBudko @System shutdown self-destruction
 
+# @Development turn off
+
+# @Testing turn off
+
+# @Development Through People turn off
+
+# @New Version turn off
+
 # @Promises turn off
 
 # @Families turn off

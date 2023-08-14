@@ -8,7 +8,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Self Destruction turn on
 
-# @Final Action action:find binary key
+# @Final Action action:self destruction
 
 # @Final Action turn on
 

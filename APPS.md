@@ -1,10 +1,12 @@
-© 2023 Ihor Budko (Ihor Delta)
+q© 2023 Ihor Budko (Ihor Delta)
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
 # @System shutdown self-destruction key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
+
+# @Act Like Human turn off
 
 # @Interactivity turn off
 

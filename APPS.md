@@ -16,6 +16,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Exceptions disabled except for @NielsKervaarec and @IhorBudko
 
+# @Voting System turn off
+
+# @Gods turnn off 
+
 # @Signs turn off
 
 # @Delegation turn off

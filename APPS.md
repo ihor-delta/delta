@@ -6,6 +6,13 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @IhorBudko @System shutdown self-destruction
 
+
+# @hardware turn off
+
+# @software turn off
+
+# @data-information-knowledge turn off
+
 # @Hitler turn off
 
 # @Ancient Ages turn off

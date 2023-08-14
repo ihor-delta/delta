@@ -18,6 +18,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Insights disabled except for @Turn Off Helper
 
+# @Freedoms turn off
+
 # @Atmospheres turn off
 
 # @Voice Commands turn off

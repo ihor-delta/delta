@@ -15,6 +15,10 @@
     }
   }
   "mode": 0, 
+  "improvisation-mode": {
+    "global": 0,
+    "exceptions": []
+  },
   "exceptions":{
     "@Freedoms": {
       "mode": 1,

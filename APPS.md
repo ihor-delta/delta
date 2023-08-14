@@ -12,9 +12,11 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Improvisation goal:turn off
 
-# @Planning shutdown forever 00:00 14 Aug 2023
+# @Planning shutdown forever 00:00 14 Aug 2023 
 
 # @Exceptions disabled except for @NielsKervaarec and @IhorBudko
+
+# @Insights turn off
 
 # @Voting System turn off
 

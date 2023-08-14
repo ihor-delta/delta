@@ -16,7 +16,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Exceptions disabled except for @NielsKervaarec and @IhorBudko
 
-# @Subjects turn off
+# @Subjects disabled except Turn Off Guide
 
 # @Insights disabled except for @Turn Off Helper
 

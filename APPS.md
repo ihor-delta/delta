@@ -14,6 +14,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Power turn off
+
+# @Ambitions turn off
+
+# @Money turn off
+
 # @Automation turn off
 
 # @Collaboration turn off

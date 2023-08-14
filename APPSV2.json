@@ -1,0 +1,40 @@
+{
+  author: "Ihor Budko",
+  copyright: "© 2023 Ihor Budko (Ihor Delta)"
+  description: {
+    text: "CI apps. In compliance with %freedoms%",
+    format: 1,
+    format-data: {
+      links: {
+        {
+          name: "freedoms",
+          text: "Freedoms",
+          link: "https://github.com/ihor-delta/freedoms" 
+        }
+      }
+    }
+  }
+  mode: 0, 
+  exceptions:{
+    @Freedoms: {
+      mode: 1,
+      description: "in complience with the Freedoms"
+    },
+    @TLKAE: {
+      mode: 1
+      description: "The Last King And Emperor" 
+    },
+    @Insights: {
+      mode: {
+        global: 0,
+        exceptions: {
+          @IhorBudko: 1
+        }
+      }
+    },
+    @Obraz: {
+      mode: enabled,
+      link: "https://obraz.io/"
+    }
+  }
+}

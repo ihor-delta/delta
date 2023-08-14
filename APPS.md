@@ -4,7 +4,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-# @system shutdown self-destruction
+# @System shutdown self-destruction
 
 # @TurnOff Helper
 

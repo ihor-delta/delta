@@ -16,6 +16,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision turn on
 
+# @Temporary Decisions turn off
+
 # @Security turn off
 
 # @Phenomenon turn off

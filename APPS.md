@@ -14,6 +14,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Industry Ages turn off
+
+# @Teaching turn off
+
 # @Tips turn off
 
 # @Discussions turn off

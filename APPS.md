@@ -16,6 +16,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision turn on
 
+# @Phenomenon turn off
+
 # @Survive turn off
 
 # @Sacrifice turn off

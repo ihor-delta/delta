@@ -10,7 +10,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @TurnOff Helper
 
-# @Improvisation goal:turn off
+# @Improvisation goal:turn off the system
 
 # @Planning shutdown forever 00:00 14 Aug 2023 
 

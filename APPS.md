@@ -16,6 +16,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision turn on
 
+# @Survive turn off
+
 # @Sacrifice turn off
 
 # @Conscious Communication turn off

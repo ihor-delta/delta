@@ -8,6 +8,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @System shutdown forever
 
+# @Collective Decision turn off
+
 # @Middle Ages turn off
 
 # @TurnOff Helper

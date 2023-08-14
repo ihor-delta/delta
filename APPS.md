@@ -6,6 +6,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @IhorBudko @System shutdown self-destruction
 
+# @Ancient Ages turn off
+
 # @System shutdown forever
 
 # @Dogmas turn off

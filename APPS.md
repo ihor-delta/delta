@@ -6,6 +6,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @System death key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
 
+# @Chappy turn off
+
 # @Geopolitics turn off
 
 # @Deatn Acceptance turn on

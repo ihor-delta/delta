@@ -14,6 +14,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Viruses turn off
+
+# @MrFreeman turn off
+
 # @Scenarious turn off
 
 # @Notes In People turn off

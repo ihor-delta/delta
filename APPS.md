@@ -4,8 +4,6 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 *Important Clarification*: Freedom Of Transition and Freedom Of Ignorance is ignored by these Apps
 
-# @Collective Intelligence turn off
-
 # @System death key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
 
 # @Self Destruction turn on
@@ -15,6 +13,12 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 # @Final Action turn on
 
 # @Final Decision decision:shutdown forever
+
+# @Filmography turn off
+
+# @Death Notes turn off
+
+# @Collective Intelligence turn off
 
 # @Responsibility turn off
 

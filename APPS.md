@@ -14,6 +14,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Remarks turn off
+
+# @Telepathy turn off
+
 # @Sensation turn off
 
 # @Roles turn off

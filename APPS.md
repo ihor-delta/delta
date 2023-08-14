@@ -6,13 +6,15 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @IhorBudko @System shutdown self-destruction
 
-# @IhorBudko apps all turn off
+# @System shutdown forever
+
+# @Middle Ages turn off
 
 # @TurnOff Helper
 
-# @Improvisation goal:turn off the system
+# @Improvisation turn off
 
-# @Planning shutdown forever 00:00 15 Aug 2023 
+# @Planning turn off
 
 # @Exceptions disabled except for @IhorBudko
 

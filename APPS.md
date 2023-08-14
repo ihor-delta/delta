@@ -14,6 +14,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Sensation turn off
+
 # @Roles turn off
 
 # @Integrativity turn off

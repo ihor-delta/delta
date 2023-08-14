@@ -65,6 +65,7 @@
       "link": "https://obraz.io/"
     },
     "@Reputation" : {
+      "improvisation-mode":1,
       "mode" : {
         "global": 0, 
         "exceptions": [
@@ -82,8 +83,16 @@
             }
           }
         ]
-      },
-      
+      }
+    },
+    "@UkraineWarFinish" : {
+      "mode": 1,
+      "config" : {
+        "conditions": [
+          "Ukraine occupied territories returned",
+          "Diplomatic way"
+        ]
+      }
     }
   ]
 }

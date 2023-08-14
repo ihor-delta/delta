@@ -6,6 +6,10 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @System death key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
 
+# @Final Action action:find binary key
+
+# @Final Action turn on
+
 # @Final Decision decision:shutdown forever
 
 # @Final Decision turn on

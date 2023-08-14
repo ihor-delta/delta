@@ -14,6 +14,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Final Decision decision:shutdown forever
 
+# @Notes In People turn off
+
 # @Filmography turn off
 
 # @Death Notes turn off

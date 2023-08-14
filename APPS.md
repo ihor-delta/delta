@@ -1,4 +1,4 @@
-q© 2023 Ihor Budko (Ihor Delta)
+© 2023 Ihor Budko (Ihor Delta)
 
 In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/README.md)
 
@@ -15,6 +15,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 # @Final Decision decision:shutdown forever
 
 # @Final Decision turn on
+
+# @Weapon turn off
 
 # @Antivirus turn off
 

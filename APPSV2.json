@@ -47,7 +47,10 @@
               "id": {
                 "name" : "Ihor Budko",
                 "date-of-birth": "24/02/1998",
-                "nickname": "Ihor Delta"
+                "nickname": "Ihor Delta",
+                "links" : [
+                  "https://keybase.io/ihor_delta"
+                ]
               },
               "config": {
                 "mode" : 1,
@@ -60,6 +63,27 @@
     "@Obraz": {
       "mode": 1,
       "link": "https://obraz.io/"
+    },
+    "@Reputation" : {
+      "mode" : {
+        "global": 0, 
+        "exceptions": [
+          {
+            "entity": {
+              "type" : "individual",
+              "id" : {
+                "name": "Ihor Budko",
+                "date-of-birth" : "24/02/1998",
+                "nickname" : "Ihor Delta",
+                "links" : [
+                  "https://keybase.io/ihor_delta"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      
     }
   ]
 }

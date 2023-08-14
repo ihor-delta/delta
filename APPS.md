@@ -8,6 +8,8 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @System shutdown forever
 
+
+
 # @Sensitivity turn off
 
 # @Collective Decision turn off
@@ -20,7 +22,7 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @Planning turn off
 
-# @Exceptions disabled except for @IhorBudko
+# @Exceptions turn off
 
 # @Subjects disabled except Turn Off Guide
 

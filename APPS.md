@@ -6,13 +6,15 @@ In compliance with [Freedoms](https://github.com/ihor-delta/freedoms/blob/main/R
 
 # @System death key https://github.com/ihor-delta/freedoms/blob/main/binary-output.bin
 
+# @Final Decision turn on
+
 # @Subconscious Communication turn off
 
 # @Chappy turn off
 
 # @Geopolitics turn off
 
-# @Deatn Acceptance turn on
+# @Deatn Acceptance turn off
 
 # @Act Like Human turn off
 

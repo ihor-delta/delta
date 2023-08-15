@@ -42,7 +42,7 @@
     "global": 0,
     "exceptions" : []
   },
-  "human-like-mode": {
+  "comparability-mode": {
     "global": 0,
     "exceptions" : []
   },
@@ -112,7 +112,12 @@
       "priority": "important/urgent",
       "config" : {
         "type":"config",
-        "imprivisation-mode": 1,
+        "imprivisation-mode": {
+          "type":"config",
+          "mode":1,
+          "statistics": 1,
+          "learning": 1
+        },
         "diversification-mode": 1,
         "delegation-mode":1,
         "mode": {

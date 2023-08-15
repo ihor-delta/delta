@@ -20,6 +20,17 @@
     "global": 0,
     "exceptions": []
   },
+  "collective-decision-mode": {
+    "global": 0,
+    "exceptions" : [
+      {
+        "type": "country",
+        "id": {
+          "name": "France"
+        }
+      }
+    ]
+  },
   "challenges-mode" : {
     "global": 0,
     "exceptions": []

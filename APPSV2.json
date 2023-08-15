@@ -14,35 +14,46 @@
         }
       }
     }
-  }
-  "mode": 0, 
+  },
+  "mode" : 0,
   "improvisation-mode": {
     "global": 0,
     "exceptions": []
   },
-  "exceptions":[
-    {
-      "entity": {
-        "type": "app",
-        "id": "@Freedoms",
-        "config" : {
-          "mode": 1,
-          "description" : {
-            "data": "In compliance with Freedoms"
-          }
+  "challenges-mode" : {
+    "global": 0,
+    "exceptions": []
+  },
+  "apps":[
+    "@Freedoms" : {
+      "type": "app",
+      "id": "@Freedoms",
+      "config" : {
+        "type": "config",
+        "mode": 1,
+        "description" : {
+          "data": "In compliance with Freedoms"
         }
       }
     },
     "@TLKAE": {
-      "mode": 1
-      "description": "The Last King And Emperor" 
+      "type":"app",
+      "id": "@TLKAE",
+      "config": {
+        "type": "config",
+        "mode": 1
+        "description": "The Last King And Emperor" 
+      }
     },
     "@Insights": {
-      "mode": {
-        "global": 0,
-        "exceptions": [
-          {
-            "entity": {
+      "type":"app",
+      "id":"@Insights",
+      "config": {
+        "type":"config",
+        "mode": {
+          "global": 0,
+          "exceptions": [
+            {
               "type": "individual",
               "id": {
                 "name" : "Ihor Budko",
@@ -52,25 +63,29 @@
                   "https://keybase.io/ihor_delta"
                 ]
               },
-              "config": {
-                "mode" : 1,
-              }
             }
-          }
-        ]
+          ]
+        }
       }
     },
     "@Obraz": {
-      "mode": 1,
+      "type":"app",
+      "config" : {
+        "type":"config",
+        "mode": 1,
+      },
       "link": "https://obraz.io/"
     },
     "@Reputation" : {
-      "improvisation-mode":1,
-      "mode" : {
-        "global": 0, 
-        "exceptions": [
-          {
-            "entity": {
+      "type":"app",
+      "id": "@Reputation",
+      "config": {
+        "type": "config",
+        "improvisation-mode" : 1,
+        "mode" : {
+          "global": 0, 
+          "exceptions": [
+            {
               "type" : "individual",
               "id" : {
                 "name": "Ihor Budko",
@@ -81,16 +96,31 @@
                 ]
               }
             }
-          }
-        ]
+          ]
+        }
       }
     },
     "@UkraineWarFinish" : {
-      "mode": 1,
+      "type":"app",
+      "id":"@UkraineWarFinish",
       "config" : {
+        "type":"config",
+        "imprivisation-mode": 1,
+        "mode": {
+          "global": 0,
+          "exceptions": [
+            {
+              "type": "country",
+              "id": {
+                "name": "Russian Federation"
+              }
+            }
+          ]
+        },
         "conditions": [
-          "Ukraine occupied territories returned",
-          "Diplomatic way"
+          "Ukraine occupied territories returned by Ukraine",
+          "Diplomatic || military way",
+          "War officially finished"
         ]
       }
     }

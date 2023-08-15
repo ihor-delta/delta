@@ -20,6 +20,10 @@
     "global": 0,
     "exceptions": []
   },
+  "informing-mode": {
+    "global": 0,
+    "exceptions": []
+  },
   "collective-decision-mode": {
     "global": 0,
     "exceptions" : []

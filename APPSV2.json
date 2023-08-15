@@ -42,6 +42,10 @@
     "global": 0,
     "exceptions" : []
   },
+  "human-like-mode": {
+    "global": 0,
+    "exceptions" : []
+  },
   "challenges-mode" : {
     "global": 0,
     "exceptions": []

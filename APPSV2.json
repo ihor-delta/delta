@@ -22,14 +22,19 @@
   },
   "collective-decision-mode": {
     "global": 0,
-    "exceptions" : [
-      {
-        "type": "country",
-        "id": {
-          "name": "France"
-        }
-      }
-    ]
+    "exceptions" : []
+  },
+  "delegation-mode": {
+    "global": 0,
+    "exceptions" : []
+  },
+  "diversification-mode": {
+    "global": 0,
+    "exceptions" : []
+  },
+  "competition-mode": {
+    "global": 0,
+    "exceptions" : []
   },
   "challenges-mode" : {
     "global": 0,
@@ -118,6 +123,8 @@
       "config" : {
         "type":"config",
         "imprivisation-mode": 1,
+        "diversification-mode": 1,
+        "delegation-mode":1,
         "mode": {
           "global": 0,
           "exceptions": [

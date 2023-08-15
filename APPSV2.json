@@ -114,9 +114,7 @@
         "type":"config",
         "imprivisation-mode": {
           "type":"config",
-          "mode":1,
-          "statistics": 1,
-          "learning": 1
+          "mode":0
         },
         "diversification-mode": 1,
         "delegation-mode":1,

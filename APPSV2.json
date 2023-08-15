@@ -103,6 +103,7 @@
     "@UkraineWarFinish" : {
       "type":"app",
       "id":"@UkraineWarFinish",
+      "priority": "important/urgent",
       "config" : {
         "type":"config",
         "imprivisation-mode": 1,

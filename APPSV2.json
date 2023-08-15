@@ -34,7 +34,9 @@
   },
   "freedom-of-will-mode": {
     "global": 0,
-    "exceptions" : []
+    "exceptions" : [
+      "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+    ]
   },
   "competition-mode": {
     "global": 0,
@@ -73,17 +75,7 @@
         "mode": {
           "global": 0,
           "exceptions": [
-            {
-              "type": "individual",
-              "id": {
-                "name" : "Ihor Budko",
-                "date-of-birth": "24/02/1998",
-                "nickname": "Ihor Delta",
-                "links" : [
-                  "https://keybase.io/ihor_delta"
-                ]
-              },
-            }
+            "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
           ]
         }
       }

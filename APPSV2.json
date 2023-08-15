@@ -32,6 +32,10 @@
     "global": 0,
     "exceptions" : []
   },
+  "freedom-of-will-mode": {
+    "global": 0,
+    "exceptions" : []
+  },
   "competition-mode": {
     "global": 0,
     "exceptions" : []
@@ -101,17 +105,7 @@
         "mode" : {
           "global": 0, 
           "exceptions": [
-            {
-              "type" : "individual",
-              "id" : {
-                "name": "Ihor Budko",
-                "date-of-birth" : "24/02/1998",
-                "nickname" : "Ihor Delta",
-                "links" : [
-                  "https://keybase.io/ihor_delta"
-                ]
-              }
-            }
+            
           ]
         }
       }

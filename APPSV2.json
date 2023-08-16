@@ -88,11 +88,27 @@
         }
       }
     },
+    "@Money": {
+      "type": "app",
+      "config": {
+        "type":"config",
+        "mode":{
+          "global":0,
+          "exceptions": [
+            "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+          ]
+        },
+        "improvisation-mode": 1
+      }
+    },
     "@Obraz": {
       "type":"app",
       "config" : {
         "type":"config",
-        "mode": 1,
+        "mode": {
+          "global": 1,
+          "exceptions": []
+        },
       },
       "link": "https://obraz.io/"
     },

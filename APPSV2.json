@@ -103,17 +103,17 @@
       "type":"app",
       "config": {
         "type": "config",
-        "id": "@TLKAE",
+        "id": "@TLKAE@",
         "mode": 1,
         "situative-authorities-mode": 1,
         "description": "The Last King And Emperor" 
-        "goal": "The Venus Project on Earth"
+        "goal": "&The Venus Project& by &Roxane Meadows& and &JacqueFresco& on Earth"
       }
     },
     "@Insights": {
       "type":"app",
       "config": {
-        "id": "@Insights",
+        "id": "@Insights@",
         "type":"config",
         "mode": {
           "global": 0,
@@ -127,11 +127,11 @@
       "type": "app",
       "config": {
         "type":"config",
-        "id": "@Economy",
+        "id": "@Economy@",
         "mode":{
           "global":1,
           "exceptions": {
-            "&IhorDelta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
+            "Ihor.Delta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }
         },
         "cooperation-mode": {
@@ -143,7 +143,7 @@
           "@MonetarySystem": {
               "type": "app",
               "config":{
-                "id": "@MonetarySystem",
+                "id": "@MonetarySystem@",
                 "type":"config",
                 "mode": {
                   "global": 0,
@@ -156,7 +156,7 @@
            "@ResourceBasedEconomy":{
              "type": "app",
              "config": {
-               "id":"@ResourceBasedEconomy",
+               "id":"@ResourceBasedEconomy@",
                "type": "config",
                "mode": {
                  "global": 1,
@@ -173,7 +173,7 @@
     "@Obraz": {
       "type":"app",
       "config" : {
-        "id": "@Obraz",
+        "id": "@Obraz@",
         "type":"config",
         "situative-authorities-mode": 1,
         "mode": {
@@ -185,21 +185,21 @@
     },
     "@Reputation" : {
       "type":"app",
-      "id": "@Reputation",
+      "id": "@Reputation@",
       "config": {
         "type": "config",
         "improvisation-mode" : 1,
         "mode" : {
           "global": 0, 
-          "exceptions": [
-            
-          ]
+          "exceptions": {
+            "The.Venus.Project": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&"
+          }
         }
       }
     },
-    "@UkraineWarFinish" : {
+    "@WarsFinish" : {
       "type":"app",
-      "id":"@UkraineWarFinish",
+      "id":"@WarsFinish@",
       "priority": "important/urgent",
       "config" : {
         "type":"config",
@@ -210,20 +210,12 @@
         "diversification-mode": 1,
         "delegation-mode":1,
         "mode": {
-          "global": 0,
-          "exceptions": [
-            {
-              "type": "country",
-              "id": {
-                "name": "Russian Federation"
-              }
-            }
-          ]
+          "global": 1,
+          "exceptions": {}
         },
         "conditions": [
-          "Ukraine occupied territories returned by Ukraine",
-          "Diplomatic || military way",
-          "War officially finished"
+          "Diplomatic way",
+          "Wars officially finished"
         ]
       }
     },
@@ -233,15 +225,19 @@
         "slow-mode": 1,
         "priorities": ["powerty", "politics","war", "religion"],
         "mode":0,
-        "goal": "@TheVenusProject",
+        "goal": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&",
         "filters": {
-          "#TLKAE": ".apps.@TLKAE"
-          "#TheVenusProject": {
+          "#TLKAE#": ".apps.@TLKAE"
+          "#TheVenusProject#": {
             "type":"entity",
-            "id": "&TheVenusProject"
+            "id": "The Venus Project"
             "config": {
               "type":"config",
-              "name": "The Venus Project"
+              "name": "The Venus Project",
+              "address" : "Florida, USA",
+              "links": [
+                "https://thevenusproject.com"
+              ]
             }
           }
         }

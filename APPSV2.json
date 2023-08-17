@@ -99,7 +99,7 @@
       "config": {
         "type":"config",
         "mode":{
-          "global":0,
+          "global":1,
           "exceptions": {
             "@IhorBudko":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }

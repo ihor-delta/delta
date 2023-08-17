@@ -86,25 +86,52 @@
         "type":"config",
         "mode": {
           "global": 0,
-          "exceptions": [
-            "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
-          ]
+          "exceptions": {
+            "@IhorBudko" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+          }
         }
       }
     },
-    "@Money": {
+    "@Economy": {
       "type": "app",
       "config": {
         "type":"config",
         "mode":{
           "global":0,
-          "exceptions": [
-            "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
-          ]
+          "exceptions": {
+            "@IhorBudko":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
+          }
         },
         "improvisation-mode": {
           "global": 1,
           "exclude": ["stealing"]
+        },
+        "apps": {
+          "@MonetarySystem": {
+              "type": "app",
+              "config":{
+                "type":"config",
+                "mode": {
+                  "global": 0,
+                  "exceptions" :{
+                    "work-evaluating" : 1
+                  }
+                }
+              }
+           },
+           "@ResourceBasedEconomy":{
+             "type": "app",
+             "config": {
+               "type": "config",
+               "mode": {
+                 "global": 1,
+                 "exceptions" : {
+                   
+                 } 
+               }
+             },
+             "link": "https://thevenusproject.com"
+           }
         }
       }
     },

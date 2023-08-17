@@ -16,6 +16,10 @@
     }
   },
   "mode" : 0,
+  "countries-mode": {
+    "global": 0,
+    "exceptions": []
+  },
   "improvisation-mode": {
     "global": 0,
     "exceptions": []

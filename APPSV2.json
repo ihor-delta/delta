@@ -53,7 +53,7 @@
   "cooperation-mode": {
     "global":0,
     "exceptions":{
-      "@TLKAE": ".apps.@TLKAE.config"
+      "#TLKAE": ".apps.@TLKAE.config"
     }
   },
   "forget-mode": {
@@ -71,11 +71,11 @@
   {
     "situative-authorities-mode":0,
     "exceptions": {
-      "@TLKAE":".apps.@TLKAE"
+      "#TLKAE":".apps.@TLKAE"
     },
     "config": {
       "type":"config",
-      "exclude":["circumstances.country"],
+      "exclude":[".apps.Freedoms.Principles.situative-authorities.circumstances.country"],
       "anonimity-mode":1
     }
   },
@@ -211,6 +211,26 @@
           "Diplomatic || military way",
           "War officially finished"
         ]
+      }
+    },
+    "@SharingIdeasAndCollaboration": {
+      "type":"app", 
+      "config": {
+        "slow-mode": 1,
+        "priorities": ["powerty", "politics","war", "religion"],
+        "mode":0,
+        "goal": "@TheVenusProject",
+        "filters": {
+          "#TLKAE": ".apps.@TLKAE"
+          "#TheVenusProject": {
+            "type":"entity",
+            "id": "&TheVenusProject"
+            "config": {
+              "type":"config",
+              "name": "The Venus Project"
+            }
+          }
+        }
       }
     }
   ]

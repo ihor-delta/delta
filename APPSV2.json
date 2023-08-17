@@ -20,6 +20,14 @@
     "global": 0,
     "exceptions": []
   },
+  "schizophreny-mode" : {
+    "global": 0,
+    "exceptions": {}
+  },
+  "gods-mode": {
+    "global":0,
+    "exceptions": {}
+  },
   "imagination-mode": {
     "global": 0,
     "exceptions": []
@@ -42,9 +50,9 @@
   },
   "freedom-of-will-mode": {
     "global": 0,
-    "exceptions" : [
-      "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
-    ]
+    "exceptions" : {
+      "#IhorDelta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+    }
   },
   "competition-mode": {
     "global": 0,
@@ -82,8 +90,8 @@
   "apps":[
     "@Freedoms" : {
       "type": "app",
-      "id": "@Freedoms",
       "config" : {
+        "id": "@Freeedoms"
         "type": "config",
         "mode": 1,
         "description" : {
@@ -93,24 +101,24 @@
     },
     "@TLKAE": {
       "type":"app",
-      "id": "@TLKAE",
       "config": {
         "type": "config",
+        "id": "@TLKAE",
         "mode": 1,
         "situative-authorities-mode": 1,
         "description": "The Last King And Emperor" 
-        "goal": "@TheVenusProject"
+        "goal": "The Venus Project on Earth"
       }
     },
     "@Insights": {
       "type":"app",
-      "id":"@Insights",
       "config": {
+        "id": "@Insights",
         "type":"config",
         "mode": {
           "global": 0,
           "exceptions": {
-            "@IhorBudko" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+            "#IhorDelta" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
           }
         }
       }
@@ -119,20 +127,23 @@
       "type": "app",
       "config": {
         "type":"config",
+        "id": "@Economy",
         "mode":{
           "global":1,
           "exceptions": {
-            "@IhorBudko":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
+            "#IhorDelta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }
         },
         "cooperation-mode": {
           "global": 1,
-          "exclude": ["stealing"]
+          "exceptions": {}
         },
+        "exclude": ["stealing"],
         "apps": {
           "@MonetarySystem": {
               "type": "app",
               "config":{
+                "id": "@MonetarySystem",
                 "type":"config",
                 "mode": {
                   "global": 0,
@@ -145,6 +156,7 @@
            "@ResourceBasedEconomy":{
              "type": "app",
              "config": {
+               "id":"@ResourceBasedEconomy",
                "type": "config",
                "mode": {
                  "global": 1,
@@ -161,6 +173,7 @@
     "@Obraz": {
       "type":"app",
       "config" : {
+        "id": "@Obraz",
         "type":"config",
         "mode": {
           "global": 1,

@@ -222,10 +222,11 @@
       "type":"app", 
       "config": {
         "slow-mode": 1,
-        "priorities": ["powerty", "politics","war", "religion"],
-        "mode":0,
+        "priorities": ["powerty", "politics","war", "religions"],
+        "mode":1,
         "goal": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&",
         "filters": {
+          "Obraz": ".apps.Obraz",
           "TLKAE": ".apps.@TLKAE"
           "TheVenusProject": {
             "type":"entity",
@@ -240,6 +241,14 @@
             }
           }
         }
+      }
+    },
+    "@Alert": {
+      "type": "app",
+      "config": {
+        "informing-mode": 1,
+        "id": "@Alert@",
+        "mode": 0,
       }
     }
   ]

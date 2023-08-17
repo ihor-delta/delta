@@ -1,11 +1,15 @@
 {
-  "type" : "individual",
-    "id" : {
-      "name": "Ihor Budko",
-      "date-of-birth" : "24/02/1998",
-      "nickname" : "Ihor Delta",
-      "links" : [
-        "https://keybase.io/ihor_delta"
-      ]
+  "type" : "entity",
+  "id": "@IhorDelta"
+  "config" : {
+    "type": "config",
+    "category": "individuals",
+    "name": "Ihor Budko",
+    "date-of-birth" : "24/02/1998",
+    "nickname" : "Ihor Delta",
+    "links" : [
+      "https://keybase.io/ihor_delta",
+      "https://instagram.com/ihor.delta"
+    ]
   }
 }

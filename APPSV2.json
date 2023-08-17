@@ -75,8 +75,10 @@
       "id": "@TLKAE",
       "config": {
         "type": "config",
-        "mode": 1
+        "mode": 1,
+        "situative-authorities-mode": 1,
         "description": "The Last King And Emperor" 
+        "goal": "@TheVenusProject"
       }
     },
     "@Insights": {

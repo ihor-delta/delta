@@ -226,12 +226,12 @@
         "mode":1,
         "goal": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&",
         "filters": {
-          "Obraz": ".apps.Obraz",
+          "Obraz": ".apps.@Obraz",
           "TLKAE": ".apps.@TLKAE"
           "TheVenusProject": {
             "type":"entity",
-            "id": "The Venus Project"
             "config": {
+              "id": "The Venus Project",
               "type":"config",
               "name": "The Venus Project",
               "address" : "Florida, USA",

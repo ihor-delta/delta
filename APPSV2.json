@@ -51,7 +51,7 @@
   "freedom-of-will-mode": {
     "global": 0,
     "exceptions" : {
-      "#IhorDelta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+      "&IhorDelta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
     }
   },
   "competition-mode": {
@@ -131,7 +131,7 @@
         "mode":{
           "global":1,
           "exceptions": {
-            "#IhorDelta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
+            "&IhorDelta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }
         },
         "cooperation-mode": {

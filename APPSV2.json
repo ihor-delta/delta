@@ -125,7 +125,7 @@
             "@IhorBudko":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }
         },
-        "improvisation-mode": {
+        "cooperation-mode": {
           "global": 1,
           "exclude": ["stealing"]
         },

@@ -175,6 +175,7 @@
       "config" : {
         "id": "@Obraz",
         "type":"config",
+        "situative-authorities-mode": 1,
         "mode": {
           "global": 1,
           "exceptions": []

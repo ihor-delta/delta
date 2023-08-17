@@ -94,9 +94,10 @@
     "@Freedoms" : {
       "type": "app",
       "config" : {
-        "id": "@Freeedoms"
+        "id": "@Freeedoms@"
         "type": "config",
         "mode": 1,
+        "informing-mode": 1,
         "description" : {
           "data": "In compliance with Freedoms"
         }

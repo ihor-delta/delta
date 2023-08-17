@@ -76,10 +76,9 @@
     "global": 0,
     "exceptions": []
   },
-  {
-    "situative-authorities-mode":0,
+  "situative-authorities-mode":{0,
     "exceptions": {
-      "#TLKAE":".apps.@TLKAE"
+      "TLKAE":".apps.@TLKAE"
     },
     "config": {
       "type":"config",
@@ -227,8 +226,8 @@
         "mode":0,
         "goal": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&",
         "filters": {
-          "#TLKAE#": ".apps.@TLKAE"
-          "#TheVenusProject#": {
+          "TLKAE": ".apps.@TLKAE"
+          "TheVenusProject": {
             "type":"entity",
             "id": "The Venus Project"
             "config": {

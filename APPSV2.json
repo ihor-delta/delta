@@ -50,6 +50,16 @@
     "global": 0,
     "exceptions" : []
   },
+  "cooperation-mode": {
+    "global":0,
+    "exceptions":{
+      "@TLKAE": ".apps.@TLKAE.config"
+    }
+  },
+  "forget-mode": {
+    "global":0,
+    "exceptions": {}
+  },
   "comparability-mode": {
     "global": 0,
     "exceptions" : []
@@ -57,6 +67,17 @@
   "challenges-mode" : {
     "global": 0,
     "exceptions": []
+  },
+  {
+    "situative-authorities-mode":0,
+    "exceptions": {
+      "@TLKAE":".apps.@TLKAE"
+    },
+    "config": {
+      "type":"config",
+      "exclude":["circumstances.country"],
+      "anonimity-mode":1
+    }
   },
   "apps":[
     "@Freedoms" : {

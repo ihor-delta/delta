@@ -1,6 +1,6 @@
 {
   "author": "Ihor Budko",
-  "type": "config",
+  "type": "schema",
   "copyright": "© 2023 Ihor Budko (Ihor Delta)"
   "description": {
     "data": "CI apps. In compliance with %freedoms%",

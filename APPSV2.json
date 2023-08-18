@@ -150,6 +150,30 @@
               "id":"&Denmark&",
               "name":"Denmark"
             }
+          },
+          "Finland": {
+            "type": "entity",
+            "config": {
+              "category": "countries",
+              "id":"&Finland&",
+              "name":"Finland"
+            }
+          },
+          "Switzerland": {
+            "type": "entity",
+            "config": {
+              "category": "countries",
+              "id":"&Switzerland&",
+              "name":"Switzerland"
+            }
+          },
+          "Norway": {
+            "type": "entity",
+            "config": {
+              "category": "countries",
+              "id":"&Norway&",
+              "name":"Norway"
+            }
           }
         },
         "apps": {

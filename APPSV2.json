@@ -161,6 +161,14 @@
               "name":"Finland"
             }
           },
+          "Iceland": {
+            "type": "entity",
+            "config": {
+              "category": "countries",
+              "id":"&Iceland&",
+              "name":"Iceland"
+            }
+          },
           "Switzerland": {
             "type": "entity",
             "config": {

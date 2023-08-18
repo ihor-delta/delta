@@ -37,7 +37,7 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
   - mutual dependence of representatives
 - situative authority principle based on typology of representatives
   - circumstances of representative(s)
-    - influence on decision making by others
+    - influence on decision making of other representatives
     - specialization which is in priority
     - general moral attitudes
     - stereotypes

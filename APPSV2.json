@@ -140,8 +140,10 @@
           "global": 1,
           "exceptions": {}
         },
+        "goal": "Resolve political and geopolitical conflicts",
         "countries-mode":1,
         "collective-decision-mode":1,
+        "situative-authorities-mode":1,
         "filters": {
           "Denmark": {
             "type": "entity",
@@ -177,7 +179,37 @@
           }
         },
         "apps": {
-          
+          "@Sociocybernetics": {
+            "type": "app",
+            "config": {
+              "type": "config",
+              "id": "@Socyocybernetics@",
+              "goal" : "Provide sociocybernetics instead of political systems"
+              "apps" : {
+                "@Politics": {
+                  "type": "app",
+                  "config": {
+                    "goal": "Migration of politics to sociocybernetics",
+                    "countries-mode": 1,
+                    "slow-mode": 1,
+                    "situative-authorities-mode": 1,
+                    "id": "@Politics@",
+                    "filters": {
+                      "Canada": {
+                        "type": "entity",
+                        "config": {
+                          "category": "countries",
+                          "name": "Canada",
+                          "id": "&Canada&"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+              
+            }
+          }
         }
       }
     },

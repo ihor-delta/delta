@@ -20,6 +20,10 @@
     "global": 0,
     "exceptions": []
   },
+  "nationalities-mode": {
+    "global": 0,
+    "exceptions": {}
+  },
   "borders-mode": {
     "global": 0,
     "exceptions": {}

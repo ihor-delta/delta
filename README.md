@@ -37,6 +37,7 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
   - mutual dependence of representatives
 - situative authority principle based on typology of representatives
   - circumstances of representative(s)
+    - influence on decision making by others
     - specialization which is in priority
     - general moral attitudes
     - stereotypes
@@ -81,9 +82,8 @@ based on DIK (data-information-knowledge) environment including DIK@Ukraine@Bela
     - social institution laws environment
     - society trends and living standards
     - general activities
-  - dependencies of representative(s)
+  - system of views of representative(s)
     - values
-    - system of views which is in priority
     - money or other currencies as motivation level
     - ambitions or other ideas as motivation level
     - power or influence as motivation level

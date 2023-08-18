@@ -59,7 +59,7 @@
   "freedom-of-will-mode": {
     "global": 0,
     "exceptions" : {
-      "&IhorDelta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+      "Ihor-Delta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
     }
   },
   "competition-mode": {
@@ -69,7 +69,7 @@
   "cooperation-mode": {
     "global":0,
     "exceptions":{
-      "#TLKAE": ".apps.@TLKAE.config"
+      "TLKAE": ".apps.@TLKAE.config"
     }
   },
   "forget-mode": {
@@ -126,8 +126,34 @@
         "mode": {
           "global": 0,
           "exceptions": {
-            "#IhorDelta" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+            "Ihor-Delta" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
           }
+        }
+      }
+    },
+    "@SocialGames": {
+      "type": "app",
+      "config": {
+        "id": "@SocialGames@",
+        "type":"config",
+        "mode": {
+          "global": 1,
+          "exceptions": {}
+        },
+        "countries-mode":1,
+        "collective-decision-mode":1,
+        "filters": {
+          "Denmark": {
+            "type": "entity",
+            "config": {
+              "category": "countries",
+              "id":"&Denmark&",
+              "name":"Denmark"
+            }
+          }
+        },
+        "apps": {
+          
         }
       }
     },
@@ -139,7 +165,7 @@
         "mode":{
           "global":1,
           "exceptions": {
-            "Ihor.Delta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
+            "Ihor-Delta":"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json",
           }
         },
         "cooperation-mode": {
@@ -200,7 +226,7 @@
         "mode" : {
           "global": 0, 
           "exceptions": {
-            "The.Venus.Project": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&"
+            "The-Venus-Project": "&The Venus Project& by &Roxane Meadows& and &Jacque Fresco&"
           }
         }
       }
@@ -237,9 +263,10 @@
         "filters": {
           "Obraz": ".apps.@Obraz",
           "TLKAE": ".apps.@TLKAE"
-          "TheVenusProject": {
+          "The-Venus-Project": {
             "type":"entity",
             "config": {
+              "category": "organisations",
               "id": "The Venus Project",
               "type":"config",
               "name": "The Venus Project",

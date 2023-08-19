@@ -1,7 +1,7 @@
 {
-  "authors": [
-    "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
-  ],
+  "authors": {
+    "Ihor Delta" : "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+  },
   "type": "schema",
   "copyright": "© 2023 Ihor Budko (Ihor Delta)"
   "description": {
@@ -21,13 +21,17 @@
     "mode" : 0,
     "countries-mode": {
       "global": 0,
-      "exceptions": []
+      "exceptions": {}
     },
     "languages-mode": 0,
     "permissions-mode": {
       "global": 1,
       "exceptions": {},
       "default": "everybody"
+    },
+    "anonimity-mode": {
+      "global": 0,
+      "exceptions": {}
     },
     "nationalities-mode": {
       "global": 0,
@@ -39,7 +43,7 @@
     },
     "improvisation-mode": {
       "global": 0,
-      "exceptions": []
+      "exceptions": {}
     },
     "schizophreny-mode" : {
       "global": 0,
@@ -51,23 +55,23 @@
     },
     "imagination-mode": {
       "global": 0,
-      "exceptions": []
+      "exceptions": {}
     },
     "informing-mode": {
       "global": 0,
-      "exceptions": []
+      "exceptions": {}
     },
     "collective-decision-mode": {
       "global": 0,
-      "exceptions" : []
+      "exceptions" : {}
     },
     "delegation-mode": {
       "global": 0,
-      "exceptions" : []
+      "exceptions" : {}
     },
     "diversification-mode": {
       "global": 0,
-      "exceptions" : []
+      "exceptions" : {}
     },
     "freedom-of-will-mode": {
       "global": 0,
@@ -77,7 +81,7 @@
     },
     "competition-mode": {
       "global": 0,
-      "exceptions" : []
+      "exceptions" : {}
     },
     "cooperation-mode": {
       "global":0,
@@ -91,11 +95,11 @@
     },
     "comparability-mode": {
       "global": 0,
-      "exceptions" : []
+      "exceptions" : {}
     },
     "challenges-mode" : {
       "global": 0,
-      "exceptions": []
+      "exceptions": {}
     },
     "situative-authorities-mode":{0,
       "exceptions": {
@@ -139,8 +143,8 @@
               "id": "&The Venus Project&",
               "address": "Florida, USA",
               "type": "config",
-              "authors": [
-                {
+              "authors": {
+                "Roxane Meadows" : {
                   "id": "&Roxane Meadows&",
                   "type" : "entity"
                   "config": {
@@ -149,7 +153,7 @@
                     "address": "Florida, USA"
                   }
                 },
-                {
+                "Jacque-Fresco" : {
                   "id": "&Jacque Fresco&",
                   "type" : "entity"
                   "config": {
@@ -157,7 +161,7 @@
                     "name": "Jacque Fresco"
                   }
                 }
-              ]
+              }
             }
           }
         }
@@ -207,11 +211,19 @@
         "type":"config",
         "mode": {
           "global": 1,
-          "exceptions": {}
+          "exceptions": {
+            "The-Venus-Project" : "&The-Venus-Project&" 
+          }
         },
         "goal": "Resolve political and geopolitical conflicts",
         "countries-mode":1,
-        "collective-decision-mode":1,
+        "collective-decision-mode": {
+          "mode": 1,
+          "exceptions": {},
+          "rules": {
+            "elections": 0
+          }
+        },
         "situative-authorities-mode":1,
         "filters": {
           "Denmark": {

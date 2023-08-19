@@ -98,7 +98,7 @@
       "anonimity-mode":1
     }
   },
-  "apps":[
+  "apps":{
     "@Freedoms" : {
       "type": "app",
       "config" : {
@@ -355,5 +355,5 @@
         "mode": 0,
       }
     }
-  ]
+  }
 }

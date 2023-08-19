@@ -20,6 +20,11 @@
     "global": 0,
     "exceptions": []
   },
+  "permissions-mode": {
+    "global": 1,
+    "exceptions": {},
+    "default": "everybody"
+  },
   "nationalities-mode": {
     "global": 0,
     "exceptions": {}

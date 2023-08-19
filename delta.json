@@ -3,9 +3,10 @@
     "Ihor-Delta" : "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
   },
   "type": "schema",
-  "copyright": "© 2023 Ihor Budko (Ihor Delta)"
+  "copyright": "© 2023 Ihor Budko (Ihor Delta)",
+  "name": "World",
   "description": {
-    "data": "CI apps. In compliance with %freedoms%",
+    "data": "In compliance with %freedoms%",
     "format": 1,
     "format-data": {
       "links": {

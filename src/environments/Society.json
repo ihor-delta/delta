@@ -4,5 +4,6 @@
   "description": "Based on theory of systems of Niklas Luhmann",
   "config": {},
   "apps": {},
-  "entities": {}
+  "entities": {},
+  "services": {}
 }

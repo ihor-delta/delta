@@ -3,5 +3,7 @@
   "description": "Based on theory of system of Niklas Luhmann",
   "type": "environment",
   "config": {},
-  "apps": {}
+  "apps": {},
+  "entities": {},
+  "services": {}
 }

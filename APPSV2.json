@@ -1,5 +1,7 @@
 {
-  "author": "Ihor Budko",
+  "authors": [
+    "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+  ],
   "type": "schema",
   "copyright": "© 2023 Ihor Budko (Ihor Delta)"
   "description": {

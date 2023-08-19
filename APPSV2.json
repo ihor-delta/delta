@@ -20,6 +20,7 @@
     "global": 0,
     "exceptions": []
   },
+  "languages-mode": 0,
   "permissions-mode": {
     "global": 1,
     "exceptions": {},

@@ -99,6 +99,55 @@
     }
   },
   "apps":{
+    "@TheVenusProjectAggregator" : {
+      "type": "app",
+      "config": {
+        "id": "@TheVenusProject",
+        "type": "config",
+        "goal": "Realisation of &The Venus Project& by &Roxane Meadows& and &Jacque Fresco& on Earth"
+      }
+    },
+    "@Statistics": {
+      "type": "app",
+      "config": {
+        "id": "@Statistics@",
+        "type": "config",
+        "mode": 1,
+        "goal": "Getting statistics all over the world",
+        "aggregators": {
+          "TheVenusProject": ".apps.@TheVenusProjectAggregator"
+        },
+        "filters": {
+          "TheVenusProject": {
+            "type" : "entity",
+            "config": {
+              "id": "&The Venus Project&",
+              "address": "Florida, USA",
+              "type": "config",
+              "authors": [
+                {
+                  "id": "&Roxane Meadows&",
+                  "type" : "entity"
+                  "config": {
+                    "id" : "&Roxane&",
+                    "name": "Roxane Meadows",
+                    "address": "Florida, USA"
+                  }
+                },
+                {
+                  "id": "&Jacque Fresco&",
+                  "type" : "entity"
+                  "config": {
+                    "id" : "&Jacque&",
+                    "name": "Jacque Fresco"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
     "@Freedoms" : {
       "type": "app",
       "config" : {
@@ -107,7 +156,7 @@
         "mode": 1,
         "informing-mode": 1,
         "description" : {
-          "data": "In compliance with Freedoms"
+          "data": "In compliance with &Freedoms&"
         }
       }
     },

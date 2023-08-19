@@ -189,6 +189,7 @@
           "global": 0,
           "exceptions": {
             "Ihor-Delta" :"https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+            "The-Venus-Project": "&The Venus Project&"
           }
         }
       }

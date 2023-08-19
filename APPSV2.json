@@ -109,7 +109,8 @@
       "config": {
         "id": "@TheVenusProject",
         "type": "config",
-        "goal": "Realisation of &The Venus Project& by &Roxane Meadows& and &Jacque Fresco& on Earth"
+        "goal": "Realisation of &The Venus Project& by &Roxane Meadows& and &Jacque Fresco& on Earth",
+        "Aggregator of information for &The Venus Project&"
       }
     },
     "@Statistics": {
@@ -273,7 +274,6 @@
                   }
                 }
               }
-              
             }
           }
         }

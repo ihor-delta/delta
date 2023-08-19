@@ -17,95 +17,97 @@
       }
     }
   },
-  "mode" : 0,
-  "countries-mode": {
-    "global": 0,
-    "exceptions": []
-  },
-  "languages-mode": 0,
-  "permissions-mode": {
-    "global": 1,
-    "exceptions": {},
-    "default": "everybody"
-  },
-  "nationalities-mode": {
-    "global": 0,
-    "exceptions": {}
-  },
-  "borders-mode": {
-    "global": 0,
-    "exceptions": {}
-  },
-  "improvisation-mode": {
-    "global": 0,
-    "exceptions": []
-  },
-  "schizophreny-mode" : {
-    "global": 0,
-    "exceptions": {}
-  },
-  "gods-mode": {
-    "global":0,
-    "exceptions": {}
-  },
-  "imagination-mode": {
-    "global": 0,
-    "exceptions": []
-  },
-  "informing-mode": {
-    "global": 0,
-    "exceptions": []
-  },
-  "collective-decision-mode": {
-    "global": 0,
-    "exceptions" : []
-  },
-  "delegation-mode": {
-    "global": 0,
-    "exceptions" : []
-  },
-  "diversification-mode": {
-    "global": 0,
-    "exceptions" : []
-  },
-  "freedom-of-will-mode": {
-    "global": 0,
-    "exceptions" : {
-      "Ihor-Delta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
-    }
-  },
-  "competition-mode": {
-    "global": 0,
-    "exceptions" : []
-  },
-  "cooperation-mode": {
-    "global":0,
-    "exceptions":{
-      "TLKAE": ".apps.@TLKAE.config"
-    }
-  },
-  "forget-mode": {
-    "global":0,
-    "exceptions": {}
-  },
-  "comparability-mode": {
-    "global": 0,
-    "exceptions" : []
-  },
-  "challenges-mode" : {
-    "global": 0,
-    "exceptions": []
-  },
-  "situative-authorities-mode":{0,
-    "exceptions": {
-      "TLKAE":".apps.@TLKAE"
+  "config": {
+    "mode" : 0,
+    "countries-mode": {
+      "global": 0,
+      "exceptions": []
     },
-    "config": {
-      "type":"config",
-      "exclude":[".apps.Freedoms.Principles.situative-authorities.circumstances.country"],
-      "anonimity-mode":1
-    }
-  },
+    "languages-mode": 0,
+    "permissions-mode": {
+      "global": 1,
+      "exceptions": {},
+      "default": "everybody"
+    },
+    "nationalities-mode": {
+      "global": 0,
+      "exceptions": {}
+    },
+    "borders-mode": {
+      "global": 0,
+      "exceptions": {}
+    },
+    "improvisation-mode": {
+      "global": 0,
+      "exceptions": []
+    },
+    "schizophreny-mode" : {
+      "global": 0,
+      "exceptions": {}
+    },
+    "gods-mode": {
+      "global":0,
+      "exceptions": {}
+    },
+    "imagination-mode": {
+      "global": 0,
+      "exceptions": []
+    },
+    "informing-mode": {
+      "global": 0,
+      "exceptions": []
+    },
+    "collective-decision-mode": {
+      "global": 0,
+      "exceptions" : []
+    },
+    "delegation-mode": {
+      "global": 0,
+      "exceptions" : []
+    },
+    "diversification-mode": {
+      "global": 0,
+      "exceptions" : []
+    },
+    "freedom-of-will-mode": {
+      "global": 0,
+      "exceptions" : {
+        "Ihor-Delta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+      }
+    },
+    "competition-mode": {
+      "global": 0,
+      "exceptions" : []
+    },
+    "cooperation-mode": {
+      "global":0,
+      "exceptions":{
+        "TLKAE": ".apps.@TLKAE.config"
+      }
+    },
+    "forget-mode": {
+      "global":0,
+      "exceptions": {}
+    },
+    "comparability-mode": {
+      "global": 0,
+      "exceptions" : []
+    },
+    "challenges-mode" : {
+      "global": 0,
+      "exceptions": []
+    },
+    "situative-authorities-mode":{0,
+      "exceptions": {
+        "TLKAE":".apps.@TLKAE"
+      },
+      "config": {
+        "type":"config",
+        "exclude":[".apps.Freedoms.Principles.situative-authorities.circumstances.country"],
+        "anonimity-mode":1
+      }
+    },
+  }
   "apps":{
     "@TheVenusProjectAggregator" : {
       "type": "app",

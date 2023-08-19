@@ -1,6 +1,6 @@
 {
   "authors": {
-    "Ihor Delta" : "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+    "Ihor-Delta" : "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
   },
   "type": "schema",
   "copyright": "© 2023 Ihor Budko (Ihor Delta)"
@@ -101,14 +101,15 @@
       "global": 0,
       "exceptions": {}
     },
-    "situative-authorities-mode":{0,
+    "situative-authorities-mode":{
+      "mode": 0,
       "exceptions": {
         "TLKAE":".apps.@TLKAE"
       },
       "config": {
         "type":"config",
-        "exclude":[".apps.Freedoms.Principles.situative-authorities.circumstances.country"],
-        "anonimity-mode":1
+        "exclude":[".apps.@Freedoms.Principles.situative-authorities.circumstances.country"],
+        "anonimity-mode": 1
       }
     },
   }

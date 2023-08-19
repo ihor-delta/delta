@@ -110,7 +110,7 @@
       "config": {
         "id": "@TheVenusProjectAggregator@",
         "type": "config",
-        "goal": "Realisation of &The Venus Project& by &Roxane Meadows& and &Jacque Fresco& on Earth",
+        "goal": "Realisation of &The Venus Project& on Earth",
         "Aggregator of information for &The Venus Project&",
         "permissions": {
           "TVP": "&The Venus Project&"

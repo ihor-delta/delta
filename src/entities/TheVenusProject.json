@@ -1,0 +1,7 @@
+{
+  "type": "entity",
+  "id": "&The Venus Project&",
+  "query" : "./TheVenusProject.graphql"
+  "config": {},
+  "permissions": []
+}

@@ -117,7 +117,8 @@
         "permissions": {
           "TVP": "&The Venus Project&"
         },
-      }
+      },
+      "description": "&The Venus Project& Monitor"
     },
     "@Statistics": {
       "type": "app",

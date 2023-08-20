@@ -403,7 +403,7 @@
       "id": "@Reputation@",
       "config": {
         "type": "config",
-        "improvisation-mode" : 1,
+        "improvisation-mode" : 0,
         "mode" : {
           "global": 0, 
           "exceptions": {

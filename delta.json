@@ -30,6 +30,10 @@
       "exceptions": {},
       "default": "everybody"
     },
+    "matrix-mode": {
+      "global": 0,
+      "exceptions": {}
+    },
     "anonimity-mode": {
       "global": 0,
       "exceptions": {}

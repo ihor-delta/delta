@@ -485,7 +485,7 @@
             },
             "sort": {
               "parameter": "age-group",
-              "direction" : "DESC"
+              "direction" : "ASC"
             }
           }
         ]

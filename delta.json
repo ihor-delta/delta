@@ -113,8 +113,38 @@
         "anonimity-mode": 1
       }
     },
+    "geopolitics-mode": 0,
   }
   "apps":{
+    "@ChallengesAggregator": {
+      "type": "app",
+      "config": {
+        "type": "config",
+        "goal": "Make challenges for representatives"
+        "filters": {
+          "@PlanningAggregator": ".apps.@ChallengesAggregator",
+        },
+      }
+    },
+    "@PlanningAggregator": {
+      "type": "app",
+      "config": {
+        "situative-authorities-mode": 1,
+        "id": "@PlanningAggregator@",
+        "type": "config",
+        "goal": "Planning of operations",
+        "filters": {
+          "China": {
+            "type": "entity",
+            "config": {
+              "category" : "countries",
+              "name" : "China",
+              "id": "&China&"
+            }
+          }
+        }
+      }
+    },
     "@TheVenusProjectAggregator" : {
       "type": "app",
       "config": {
@@ -131,6 +161,7 @@
     "@Statistics": {
       "type": "app",
       "config": {
+        "slow-mode": 1,
         "id": "@Statistics@",
         "type": "config",
         "mode": 1,

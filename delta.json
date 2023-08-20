@@ -466,6 +466,29 @@
         "informing-mode": 1,
         "id": "@Alert@",
         "mode": 0,
+        "cooperation-mode": 1,
+        "permissions": [
+          {
+            "type": "entity",
+            "query": {
+              "individual" : {
+                "profession": "policeman"
+              }
+            }
+          },
+          {
+            "type": "entity",
+            "query": {
+              "individual": {
+                "state": "victim"
+              }
+            },
+            "sort": {
+              "parameter": "age-group",
+              "direction" : "DESC"
+            }
+          }
+        ]
       }
     }
   }

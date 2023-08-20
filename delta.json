@@ -150,8 +150,8 @@
       "config": {
         "id": "@TheVenusProjectAggregator@",
         "type": "config",
-        "goal": "Realisation of &The Venus Project& on Earth",
-        "Aggregator of information for &The Venus Project&",
+        "goal": "Realisation of &The Venus Project& on Earth and reforming culture",
+        "description": "Aggregator of information for &The Venus Project&",
         "permissions": {
           "TVP": "&The Venus Project&"
         },

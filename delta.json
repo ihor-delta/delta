@@ -30,6 +30,7 @@
       "exceptions": {},
       "default": "everybody"
     },
+    "modeeling-situations-mode": 0,
     "matrix-mode": {
       "global": 0,
       "exceptions": {}

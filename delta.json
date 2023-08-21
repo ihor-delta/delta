@@ -127,8 +127,10 @@
       }
     },
     "geopolitics-mode": 0,
+    "politics-mode": 0
   }
   "apps":{
+    "@Education": {},
     "@ChallengesAggregator": {
       "type": "app",
       "config": {
@@ -137,6 +139,7 @@
         "filters": {
           "@PlanningAggregator": ".apps.@ChallengesAggregator",
         },
+        "apply": "mankind"
       }
     },
     "@PlanningAggregator": {
@@ -145,7 +148,7 @@
         "situative-authorities-mode": 1,
         "id": "@PlanningAggregator@",
         "type": "config",
-        "goal": "Planning of operations",
+        "goal": "Planning of activities",
         "filters": {
           "China": {
             "type": "entity",

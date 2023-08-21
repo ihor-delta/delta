@@ -20,6 +20,7 @@
   },
   "config": {
     "mode" : 0,
+    "imitation-mode": 0,
     "countries-mode": {
       "global": 0,
       "exceptions": {}

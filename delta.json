@@ -25,6 +25,12 @@
       "exceptions": {}
     },
     "languages-mode": 0,
+    "development-mode": {
+      "global": 0,
+      "exceptions": {
+        "Ihor-Delta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
+      }
+    },
     "permissions-mode": {
       "global": 1,
       "exceptions": {},

@@ -222,7 +222,8 @@
         "informing-mode": 1,
         "description" : {
           "data": "In compliance with &Freedoms&"
-        }
+        },
+        "apply": "mankind"
       }
     },
     "@TLKAE": {

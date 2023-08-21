@@ -128,9 +128,104 @@
     },
     "geopolitics-mode": 0,
     "politics-mode": 0
-  }
+  },
   "apps":{
-    "@Education": {},
+    "@KnowledgeManagement": {
+      "type": "app",
+      "config": {
+        "situative-authorities-mode": 1
+      },
+      "apply": {
+        "individuals": {
+          "specie": "mankind"
+        }
+      },
+      "services": {
+        "@KnowledgeManagement#Aggregator": {
+          "type": "app",
+          "aggregator": ".apps.@ChallengesAggregator"
+        }
+      },
+      "modules": {
+        "@KnowledgeManagement#Culture": {
+          "type": "app",
+          "config": {
+            "cooperation-mode": 1,
+          },
+          "aggregators": [".apps.@KnowledgeManagement#Aggregator"],
+          "filters": [
+            {
+              "organisations": {
+                "name": "The Venus Project",
+                "address": "Florida, USA",
+                "authors": [
+                  "Roxane Meadows",
+                  "Jacque Fresco"
+                ]
+              }
+            }
+          ]
+        },
+        "@KnowledgeManagement#Science": {
+          "type": "app",
+          "config": {
+            "authorities-mode": 1,
+          },
+          "aggregators": [".apps.@KnowledgeManagement#Aggregator"],
+          "filters": [
+            {
+              "countries": {
+                "name": "USA",
+              }
+            },
+            {
+              "countries": {
+                "name": "United Kingdom"
+              }
+            },
+            {
+              "countries": {
+                "name": "Australia"
+              }
+            },
+            {
+              "countries": {
+                "name": "Germany"
+              }
+            }
+          ]
+        }
+        "@KnowledgeManagement#Education": {
+          "type": "app",
+          "config": {
+            "collective-decisions-mode": 1
+          },
+          "aggregators": [".apps.@KnowledgeManagement#Aggregator"],
+          "filters": [
+            {
+              "countries": {
+                "name": "Denmark"
+              }
+            },
+            {
+              "countries": {
+                "name": "Fineland"
+              }
+            },
+            {
+              "countries": {
+                "name": "Japan"
+              }
+            },
+            {
+              "countries": {
+                "name": "Sweden"
+              }
+            }
+          ]
+        }
+      }
+    },
     "@ChallengesAggregator": {
       "type": "app",
       "config": {

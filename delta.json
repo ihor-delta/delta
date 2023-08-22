@@ -246,6 +246,7 @@
         "id": "@PlanningAggregator@",
         "type": "config",
         "goal": "Planning of activities",
+        "exclude": ["politics", "geopolitics"],
         "filters": {
           "China": {
             "type": "entity",

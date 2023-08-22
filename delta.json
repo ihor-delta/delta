@@ -26,6 +26,8 @@
       "global": 0,
       "exceptions": {}
     },
+    "ierarchy-mode": 0,
+    "privacy-mode": 1,
     "intonations-mode": 0,
     "languages-mode": 0,
     "development-mode": {

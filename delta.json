@@ -76,7 +76,13 @@
     },
     "imagination-mode": {
       "global": 0,
-      "exceptions": {}
+      "exceptions": {
+        "individuals": {
+          "name": "Ihor Budko",
+          "birth-date": "24-02-1998",
+          "address": "Ukraine"
+        }
+      }
     },
     "informing-mode": {
       "global": 0,

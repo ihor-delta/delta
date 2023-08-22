@@ -171,7 +171,7 @@
         "@KnowledgeManagement#Science": {
           "type": "app",
           "config": {
-            "authorities-mode": 1,
+            "situative-authorities-mode": 1,
           },
           "aggregators": [".apps.@KnowledgeManagement#Aggregator"],
           "filters": [

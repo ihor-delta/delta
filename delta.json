@@ -33,6 +33,8 @@
         "Ihor-Delta": "https://github.com/ihor-delta/freedoms/blob/main/src/entities/IhorBudko.json"
       }
     },
+    "excectations-mode": 0,
+    "judjements-mode": 0,
     "permissions-mode": {
       "global": 1,
       "exceptions": {},

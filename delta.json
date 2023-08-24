@@ -750,6 +750,9 @@
           },
           "description": "How can we make wars when we have mohito and hookah?"
           "goal": "Finish wars",
+          "aggregators": [
+            ".apps.@ChallengesAggregator"
+          ],
           "filters": {
             "organisations": {
               "name": "The Venus Project",

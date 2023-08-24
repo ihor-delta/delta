@@ -142,7 +142,118 @@
     "geopolitics-mode": 0,
     "politics-mode": 0
   },
-  "apps":{
+  "apps": {
+    "@PopulationManagement": {
+      "type": "app",
+      "config": {
+        "situative-authorities-mode": 1,
+      },
+      "apply": {
+        "individuals": {
+          "specie": "mankind"
+        }
+      },
+      "services": {
+        "@PopulationManagement#Aggregator": {
+          "type": "app",
+          "aggregators": [".apps.@ChallengesAggregator"],
+        }
+      },
+      "modules": {
+        "@PopulationManagement#Nature": {
+          "type": "app",
+          "config": {
+            "cooperation-mode": 1
+          },
+          "aggregators": [".apps.@PopulationManagement#Aggregator"],
+          "filters": [
+            {
+              "countries": {
+                "name": "Switzerland"
+              },
+              "countries": {
+                "name": "Sweden"
+              },
+              "countries": {
+                "name": "Norway"
+              },
+              "countries": {
+                "name": "Japan"
+              }
+            }
+          ]
+        },
+        "@PopulationManagement#Medecine": {
+          "type": "app",
+          "config": {
+            "cooperation-mode": 1,
+          },
+          "aggregators": [".apps.@PopulationManagement#Aggregator"],
+          "filters": [
+            {
+              "countries": {
+                "name": "South Korea"
+              }
+            },
+            {
+              "countries": {
+                "name": "Taiwan",
+              }
+            },
+            {
+              "countries": {
+                "name" : "Denmark"
+              }
+            },
+            {
+              "countries": {
+                "name": "Austria"
+              }
+            },
+            {
+              "countries": {
+                "name": "Cyprus",
+              }
+            },
+            {
+              "countries": {
+                "name": "Israel"
+              }
+            },
+            {
+              "countries": {
+                "name": "Australia"
+              }
+            }
+          ]
+        },
+        "@PopulationManagement#Children": {
+          "type": "app",
+          "config": {
+            "cooperation-mode": 1
+          },
+          "aggregators": [".apps.@PopulationManagement#Aggregator"],
+          "filters": [
+              {
+                "countries": {
+                  "name": "Japan"
+                }
+              },
+              {
+                "countries": {
+                  "name": "Estonia"
+                }
+              },
+              {
+                "countries": {
+                  "name": "Spain"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
     "@KnowledgeManagement": {
       "type": "app",
       "config": {
@@ -156,7 +267,7 @@
       "services": {
         "@KnowledgeManagement#Aggregator": {
           "type": "app",
-          "aggregator": ".apps.@ChallengesAggregator"
+          "aggregators": [".apps.@ChallengesAggregator"]
         }
       },
       "modules": {
@@ -254,6 +365,7 @@
       "type": "app",
       "config": {
         "situative-authorities-mode": 1,
+        "unity-mode": 1,
         "id": "@PlanningAggregator@",
         "type": "config",
         "goal": "Planning of activities",

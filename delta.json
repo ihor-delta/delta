@@ -471,6 +471,11 @@
           "TheVenusProject": ".apps.@TheVenusProjectAggregator"
         },
         "filters": {
+          "ISA" : {
+            "organisations": {
+              "name": "International Sociological Association"
+            }
+          },
           "TheVenusProject": {
             "type" : "entity",
             "config": {

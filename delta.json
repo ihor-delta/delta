@@ -19,7 +19,7 @@
     }
   },
   "config": {
-    "mode" : 0,
+    "mode" : 1,
     "dependencies-mode": 0,
     "imitation-mode": 0,
     "communication-mode": 0,

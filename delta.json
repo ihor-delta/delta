@@ -796,6 +796,12 @@
               "name": "Joseph Robinette Biden Jr.",
               "birth-date": "20-11-1942"
             }
+          },
+          "Putin": {
+            "individuals": {
+              "name" : "Vladimir Vladimirovich Putin",
+              "birth-date": "07-10-1952"
+            }
           }
         }
       }

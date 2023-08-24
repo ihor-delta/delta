@@ -740,6 +740,26 @@
           "Diplomatic way",
           "Wars officially finished"
         ]
+      },
+      "apps": {
+        "@MohitoAndHookah": {
+          "apply": {
+            "individuals": {
+              "profession": ["politics", "diplomats"]
+            }
+          },
+          "description": "How can we make wars when we have mohito and hookah?"
+          "goal": "Finish wars",
+          "filters": {
+            "organisations": {
+              "name": "The Venus Project",
+              "authors": [
+                "Jacque Fresco",
+                "Roxane Meadows"
+              ]
+            }
+          }
+        }
       }
     },
     "@SharingIdeasAndCollaboration": {

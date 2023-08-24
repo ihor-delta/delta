@@ -32,6 +32,7 @@
     "privacy-mode": 1,
     "intonations-mode": 0,
     "languages-mode": 0,
+    "unity-mode": 0,
     "development-mode": {
       "global": 0,
       "exceptions": {

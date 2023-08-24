@@ -144,6 +144,32 @@
     "politics-mode": 0
   },
   "apps": {
+    "@ResearchesManagement": {
+      "type": "app",
+      "config": {
+        "situative-authorities-mode": 1,
+        "cooperation-mode": 1
+      },
+      "aggregators": [".apps.@ChallengesAggregator"],
+      "modules": {},
+      "filters": [
+        {
+          "countries": {
+            "name": "USA"
+          }
+        },
+        {
+          "countries": {
+            "name": "United Kingdom"
+          }
+        },
+        {
+          "countries": {
+            "name": "Australia"
+          }
+        }
+      ]
+    },
     "@ResourceManagement": {
       "type": "app",
       "config": {

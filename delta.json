@@ -802,6 +802,12 @@
               "name" : "Vladimir Vladimirovich Putin",
               "birth-date": "07-10-1952"
             }
+          },
+          "Macron": {
+            "individuals": {
+              "name": "Emmanuel Jean-Michel Frédéric Macron",
+              "birth-date": "21-12-1977"
+            }
           }
         }
       }

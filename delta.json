@@ -754,6 +754,12 @@
                 "https://thevenusproject.com"
               ]
             }
+          },
+          "Biden": {
+            "individuals": {
+              "name": "Joseph Robinette Biden Jr.",
+              "birth-date": "20-11-1942"
+            }
           }
         }
       }

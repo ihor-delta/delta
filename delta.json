@@ -144,6 +144,43 @@
     "politics-mode": 0
   },
   "apps": {
+    "@ResourceManagement": {
+      "type": "app",
+      "config": {
+        "cooperation-mode":1 
+      },
+      "apply": {
+        "individuals": {
+          "specie": "mankind"
+        }
+      },
+      "services": {
+        "@ResourceManagement#Aggregator": {
+          "type": "app",
+          "aggregators": [".apps.@ChallengesAggregator"],
+        }
+      },
+      "modules": {},
+      "filters": [
+        {
+          "organisations": {
+            "name": "The Venus Project",
+            "authors": ["Jacque Fresco", "Roxane Meadows"]
+          }
+        },
+        {
+          "countries": {
+            "name": "Oman"
+          },
+          "countries": {
+            "name": "Qatar"
+          },
+          "countries": {
+            "name": "Saudi Arabia"
+          }
+        }
+      ]
+    },
     "@PopulationManagement": {
       "type": "app",
       "config": {

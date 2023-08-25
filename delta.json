@@ -141,7 +141,8 @@
       }
     },
     "geopolitics-mode": 0,
-    "politics-mode": 0
+    "politics-mode": 0,
+    "slow-mode": 1
   },
   "apps": {
     "@ResearchesManagement": {
